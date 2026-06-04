@@ -1,0 +1,2001 @@
+restaurant_id,restaurant_name,zone,cuisine_type,avg_prep_time_mins,rating,is_premium,lat,lng
+REST_0001,Royal Hub 1,Whitefield,Italian,15,3.3,0,12.915374,77.648134
+REST_0002,Spice Dhaba 2,Basavanagudi,Desserts,9,3.1,0,12.932796,77.601071
+REST_0003,Tasty Corner 3,Koramangala,Street Food,21,3.4,0,12.98839,77.661886
+REST_0004,Golden Cafe 4,Koramangala,Biryani,16,3.3,0,13.043582,77.567319
+REST_0005,Green Bites 5,HSR Layout,Biryani,35,3.7,0,12.939678,77.50869
+REST_0006,Tasty Bites 6,Bellandur,Desserts,10,4.1,0,13.024411,77.623704
+REST_0007,Hungry Corner 7,Malleshwaram,South Indian,9,4.3,0,13.01596,77.697044
+REST_0008,Spice Cafe 8,BTM Layout,Fast Food,22,4.3,0,12.954725,77.574036
+REST_0009,Urban Bites 9,Jayanagar,Thai,28,3.3,0,13.009369,77.53268
+REST_0010,Urban Bowl 10,Rajajinagar,Italian,29,3.6,0,13.015247,77.511188
+REST_0011,Desi Cafe 11,Indiranagar,Fast Food,10,3.4,0,13.041436,77.675274
+REST_0012,Fresh Grill 12,JP Nagar,Desserts,28,3.9,0,12.939732,77.549326
+REST_0013,Tasty Hub 13,Basavanagudi,Thai,21,4.8,0,12.932898,77.699508
+REST_0014,Quick Bites 14,Bommanahalli,North Indian,35,3.2,0,12.994117,77.658416
+REST_0015,Hungry Bites 15,Hebbal,Desserts,20,4.2,0,12.970207,77.550283
+REST_0016,Royal Bites 16,Basavanagudi,Street Food,32,3.5,0,12.996144,77.52231
+REST_0017,Golden Grill 17,Hebbal,North Indian,31,4.8,0,12.975088,77.53573
+REST_0018,Urban Bowl 18,Whitefield,Thai,14,3.3,0,13.014377,77.607876
+REST_0019,Royal Dhaba 19,Bommanahalli,Biryani,23,3.0,0,13.039365,77.675744
+REST_0020,Fresh Kitchen 20,Banashankari,Italian,26,4.9,0,12.972899,77.513843
+REST_0021,Golden Express 21,Basavanagudi,Continental,25,3.3,0,12.979151,77.621319
+REST_0022,Tasty Corner 22,Jayanagar,Fast Food,20,5.0,1,12.965715,77.603515
+REST_0023,Fresh Corner 23,Whitefield,South Indian,18,3.0,0,12.983088,77.617688
+REST_0024,Spice Kitchen 24,Koramangala,Italian,10,4.8,1,12.910629,77.547601
+REST_0025,Fresh Bowl 25,Sarjapur Road,Chinese,31,4.9,1,12.970901,77.656924
+REST_0026,Fresh Bites 26,Hebbal,South Indian,29,3.9,0,12.963537,77.593405
+REST_0027,Spice Kitchen 27,Indiranagar,Desserts,31,3.7,0,13.029251,77.549731
+REST_0028,Tasty Grill 28,Jayanagar,Chinese,21,3.4,0,12.969394,77.674897
+REST_0029,Quick Bowl 29,HSR Layout,South Indian,9,4.3,0,12.981088,77.502952
+REST_0030,Fresh Express 30,HSR Layout,Desserts,23,4.0,0,13.029698,77.680489
+REST_0031,Green Kitchen 31,Marathahalli,Desserts,16,4.9,1,12.942787,77.639318
+REST_0032,Quick Express 32,Basavanagudi,Italian,17,3.4,0,12.908772,77.647147
+REST_0033,Desi Kitchen 33,Indiranagar,North Indian,26,4.0,0,13.037908,77.606225
+REST_0034,Tasty Bites 34,Indiranagar,Chinese,10,4.2,0,13.001282,77.547041
+REST_0035,Hungry Corner 35,Whitefield,Thai,27,3.1,0,12.912298,77.631475
+REST_0036,Tasty Palace 36,MG Road,Fast Food,14,4.3,0,12.947128,77.553123
+REST_0037,Urban Grill 37,Electronic City,Biryani,32,4.9,0,12.993174,77.612599
+REST_0038,Spice Bowl 38,Whitefield,Italian,24,3.5,0,13.039989,77.676173
+REST_0039,Desi Hub 39,BTM Layout,Chinese,22,4.7,1,12.991752,77.697447
+REST_0040,Royal Bowl 40,Bommanahalli,Fast Food,29,3.2,0,13.031719,77.552893
+REST_0041,Tasty Express 41,Whitefield,Fast Food,17,4.2,0,13.007642,77.540719
+REST_0042,Tasty Grill 42,Yelahanka,Fast Food,35,3.1,0,12.995143,77.66587
+REST_0043,Royal Palace 43,Indiranagar,Chinese,28,5.0,0,12.966275,77.641133
+REST_0044,Royal Bites 44,Basavanagudi,South Indian,30,4.8,1,13.025189,77.616502
+REST_0045,Green Express 45,Electronic City,North Indian,17,3.7,0,13.039963,77.694439
+REST_0046,Desi Corner 46,Indiranagar,Italian,29,3.2,0,13.017017,77.676827
+REST_0047,Hungry Express 47,Hebbal,Italian,35,3.3,0,13.019983,77.53541
+REST_0048,Royal Express 48,Hebbal,Biryani,33,4.9,1,13.02961,77.66215
+REST_0049,Golden Bites 49,Yelahanka,Desserts,35,3.1,0,12.970604,77.539915
+REST_0050,Desi Hub 50,Bellandur,Italian,15,3.0,0,12.928969,77.565652
+REST_0051,Urban Palace 51,HSR Layout,Street Food,20,4.4,0,13.026549,77.56623
+REST_0052,Spice Hub 52,Koramangala,Chinese,26,4.9,0,12.91626,77.586913
+REST_0053,Green Dhaba 53,JP Nagar,Street Food,11,3.8,0,12.986488,77.550945
+REST_0054,Royal Bowl 54,Hebbal,Street Food,29,4.4,0,13.011293,77.634126
+REST_0055,Green Bites 55,Malleshwaram,Biryani,27,3.6,0,13.027202,77.643951
+REST_0056,Tasty Hub 56,Banashankari,Desserts,18,3.8,0,12.944348,77.525458
+REST_0057,Green Express 57,Hebbal,Thai,26,3.6,0,12.982191,77.500081
+REST_0058,Fresh Cafe 58,Banashankari,Thai,27,4.3,0,12.969748,77.588432
+REST_0059,Tasty Grill 59,Jayanagar,Chinese,29,3.2,0,12.977318,77.626588
+REST_0060,Spice Corner 60,JP Nagar,Fast Food,15,4.6,0,12.906932,77.696787
+REST_0061,Spice Grill 61,Brigade Road,Desserts,28,4.2,0,13.007752,77.576796
+REST_0062,Fresh Express 62,Rajajinagar,North Indian,32,4.7,1,13.016763,77.543768
+REST_0063,Quick Kitchen 63,Bommanahalli,Street Food,15,4.8,0,12.920001,77.592929
+REST_0064,Tasty Dhaba 64,Bommanahalli,Biryani,32,4.8,1,13.007891,77.600956
+REST_0065,Quick Express 65,Basavanagudi,Continental,22,3.5,0,12.937086,77.627532
+REST_0066,Quick Corner 66,Bommanahalli,Fast Food,22,3.2,0,12.942859,77.554343
+REST_0067,Tasty Bites 67,JP Nagar,Chinese,12,3.5,0,13.004092,77.641284
+REST_0068,Green Cafe 68,HSR Layout,Biryani,25,3.9,0,12.90934,77.666578
+REST_0069,Hungry Kitchen 69,Rajajinagar,Thai,20,4.0,0,13.041411,77.559723
+REST_0070,Green Bowl 70,Rajajinagar,Street Food,33,4.2,0,12.933081,77.543884
+REST_0071,Quick Kitchen 71,Hebbal,Desserts,18,4.3,0,13.019721,77.644836
+REST_0072,Golden Dhaba 72,Bellandur,Street Food,8,4.8,1,12.99945,77.516789
+REST_0073,Golden Grill 73,Hebbal,Chinese,9,3.5,0,12.949103,77.59094
+REST_0074,Green Hub 74,JP Nagar,Desserts,16,4.7,0,13.012354,77.510417
+REST_0075,Fresh Bites 75,Malleshwaram,North Indian,32,3.1,0,12.937092,77.667846
+REST_0076,Golden Corner 76,Brigade Road,Chinese,23,4.3,0,12.984595,77.543593
+REST_0077,Desi Express 77,Yelahanka,Thai,27,4.9,1,13.016669,77.532753
+REST_0078,Spice Dhaba 78,Banashankari,North Indian,17,4.2,0,13.036204,77.575061
+REST_0079,Spice Dhaba 79,Jayanagar,Italian,11,4.4,0,12.945237,77.636852
+REST_0080,Hungry Kitchen 80,Whitefield,Biryani,25,3.9,0,12.955586,77.601192
+REST_0081,Royal Cafe 81,JP Nagar,Continental,11,3.9,0,12.954328,77.678315
+REST_0082,Golden Cafe 82,Bellandur,Chinese,31,4.0,0,12.997569,77.623182
+REST_0083,Quick Grill 83,Basavanagudi,Desserts,34,4.5,0,13.027757,77.666146
+REST_0084,Urban Grill 84,HSR Layout,Italian,32,3.9,0,12.99155,77.575798
+REST_0085,Quick Palace 85,Koramangala,Chinese,23,3.4,0,13.019675,77.568068
+REST_0086,Urban Bowl 86,Brigade Road,North Indian,24,4.9,0,13.008011,77.597716
+REST_0087,Quick Grill 87,BTM Layout,Continental,33,3.0,0,12.944135,77.58088
+REST_0088,Urban Dhaba 88,BTM Layout,Biryani,23,4.1,0,12.951564,77.699326
+REST_0089,Desi Palace 89,Basavanagudi,Continental,16,3.6,0,12.934581,77.644257
+REST_0090,Spice Bowl 90,JP Nagar,Chinese,14,3.4,0,12.97263,77.644917
+REST_0091,Hungry Hub 91,Bommanahalli,South Indian,34,3.4,0,12.934122,77.535888
+REST_0092,Tasty Express 92,Koramangala,Fast Food,9,4.9,1,13.004613,77.525256
+REST_0093,Spice Kitchen 93,Sarjapur Road,Thai,17,3.9,0,12.96607,77.536873
+REST_0094,Urban Grill 94,Indiranagar,South Indian,34,3.1,0,12.973762,77.615404
+REST_0095,Golden Express 95,Indiranagar,Thai,17,3.2,0,12.937229,77.611615
+REST_0096,Hungry Dhaba 96,Hebbal,Thai,15,4.6,0,13.036276,77.559471
+REST_0097,Green Hub 97,MG Road,Thai,27,3.1,0,13.044016,77.519847
+REST_0098,Fresh Hub 98,Jayanagar,South Indian,13,3.5,0,12.982799,77.531307
+REST_0099,Quick Dhaba 99,Hebbal,Continental,17,3.1,0,12.943216,77.556544
+REST_0100,Spice Corner 100,Bellandur,Fast Food,33,4.6,1,13.020586,77.539564
+REST_0101,Tasty Corner 101,Whitefield,Chinese,16,4.7,0,12.924888,77.561522
+REST_0102,Urban Grill 102,MG Road,South Indian,22,4.4,0,13.00496,77.688535
+REST_0103,Tasty Grill 103,Bommanahalli,Continental,10,4.2,0,13.033413,77.646907
+REST_0104,Urban Kitchen 104,Brigade Road,South Indian,15,4.9,1,12.98628,77.690157
+REST_0105,Hungry Kitchen 105,Yelahanka,Chinese,23,4.0,0,12.966334,77.555631
+REST_0106,Green Grill 106,MG Road,South Indian,23,3.7,0,12.949996,77.634027
+REST_0107,Desi Cafe 107,Marathahalli,Continental,17,4.3,0,12.960068,77.6521
+REST_0108,Quick Bites 108,Indiranagar,Biryani,16,3.6,0,13.045528,77.580835
+REST_0109,Royal Bowl 109,Bommanahalli,Continental,21,3.1,0,12.977766,77.624527
+REST_0110,Quick Kitchen 110,Sarjapur Road,Italian,16,4.1,0,13.039151,77.587623
+REST_0111,Spice Kitchen 111,Sarjapur Road,Thai,33,3.5,0,12.923757,77.610168
+REST_0112,Green Bites 112,Basavanagudi,Italian,34,4.8,0,12.91762,77.666429
+REST_0113,Urban Bowl 113,Sarjapur Road,Fast Food,21,4.7,1,12.93656,77.610253
+REST_0114,Fresh Dhaba 114,Rajajinagar,Street Food,31,4.8,1,12.941437,77.658001
+REST_0115,Desi Bowl 115,Hebbal,Fast Food,34,3.0,0,13.008908,77.667495
+REST_0116,Quick Express 116,MG Road,Continental,25,4.0,0,12.949866,77.652575
+REST_0117,Quick Palace 117,Rajajinagar,Italian,30,3.5,0,12.957446,77.671203
+REST_0118,Royal Palace 118,Hebbal,Continental,30,4.8,0,13.048262,77.658479
+REST_0119,Quick Kitchen 119,Electronic City,Chinese,24,4.9,0,12.915055,77.669008
+REST_0120,Tasty Grill 120,Whitefield,North Indian,31,3.3,0,13.03064,77.693991
+REST_0121,Quick Hub 121,HSR Layout,Biryani,27,4.4,0,12.997475,77.670353
+REST_0122,Green Palace 122,Basavanagudi,Continental,35,4.1,0,12.992619,77.546954
+REST_0123,Fresh Bites 123,Banashankari,Desserts,11,4.5,1,12.915076,77.533273
+REST_0124,Royal Kitchen 124,Banashankari,Biryani,33,3.1,0,12.95377,77.586137
+REST_0125,Tasty Cafe 125,BTM Layout,Thai,29,4.6,0,12.911845,77.674168
+REST_0126,Fresh Grill 126,Brigade Road,Thai,12,3.5,0,12.995686,77.591914
+REST_0127,Quick Hub 127,Koramangala,Street Food,13,3.1,0,13.041785,77.69753
+REST_0128,Green Hub 128,Banashankari,Continental,35,3.6,0,13.049906,77.670667
+REST_0129,Fresh Cafe 129,Whitefield,Thai,19,4.1,0,13.048904,77.559046
+REST_0130,Urban Kitchen 130,Rajajinagar,Thai,35,4.4,0,13.0117,77.509809
+REST_0131,Quick Hub 131,Brigade Road,Italian,27,4.6,0,12.92852,77.550125
+REST_0132,Spice Kitchen 132,Electronic City,Fast Food,33,3.9,0,12.986936,77.646472
+REST_0133,Urban Palace 133,HSR Layout,Desserts,13,3.4,0,13.017977,77.675292
+REST_0134,Tasty Bowl 134,Malleshwaram,Fast Food,34,3.3,0,13.037107,77.688838
+REST_0135,Desi Bites 135,Banashankari,Continental,10,3.3,0,13.044975,77.672028
+REST_0136,Tasty Palace 136,Rajajinagar,South Indian,33,3.8,0,12.939669,77.524718
+REST_0137,Urban Dhaba 137,Malleshwaram,Desserts,34,4.3,0,12.955721,77.634967
+REST_0138,Royal Dhaba 138,Sarjapur Road,Street Food,18,4.8,0,12.909483,77.664771
+REST_0139,Green Bites 139,Banashankari,Chinese,9,4.9,0,12.973894,77.519438
+REST_0140,Golden Cafe 140,Basavanagudi,Continental,19,4.3,0,13.011471,77.689195
+REST_0141,Hungry Express 141,Hebbal,Desserts,28,3.2,0,12.973402,77.581623
+REST_0142,Royal Palace 142,Yelahanka,Italian,22,3.9,0,12.935417,77.572537
+REST_0143,Tasty Palace 143,Malleshwaram,North Indian,20,3.6,0,13.045231,77.689802
+REST_0144,Spice Corner 144,Bellandur,Thai,8,3.1,0,12.950026,77.697764
+REST_0145,Fresh Bites 145,MG Road,Street Food,14,4.2,0,13.021958,77.5466
+REST_0146,Hungry Kitchen 146,Electronic City,Fast Food,35,5.0,1,12.981032,77.659703
+REST_0147,Royal Express 147,Whitefield,North Indian,19,4.6,0,12.948566,77.534849
+REST_0148,Golden Cafe 148,Indiranagar,Street Food,11,4.5,0,13.016703,77.602648
+REST_0149,Quick Bowl 149,Whitefield,Italian,27,3.1,0,13.017484,77.673396
+REST_0150,Urban Grill 150,Bommanahalli,North Indian,9,5.0,1,12.963941,77.521592
+REST_0151,Spice Bites 151,Bellandur,Biryani,27,3.3,0,12.918929,77.624863
+REST_0152,Tasty Palace 152,MG Road,Desserts,27,4.1,0,12.968057,77.621085
+REST_0153,Spice Bowl 153,Whitefield,Italian,21,3.9,0,12.934274,77.567786
+REST_0154,Green Cafe 154,Bellandur,South Indian,18,3.9,0,12.999766,77.57486
+REST_0155,Quick Bites 155,Electronic City,South Indian,34,3.2,0,12.964781,77.648918
+REST_0156,Golden Bowl 156,Malleshwaram,North Indian,26,4.9,1,13.000502,77.582162
+REST_0157,Royal Hub 157,Hebbal,Thai,17,3.7,0,12.986688,77.542548
+REST_0158,Fresh Bites 158,Sarjapur Road,Biryani,35,4.1,0,12.917233,77.555714
+REST_0159,Green Bowl 159,BTM Layout,Thai,27,4.3,0,12.983511,77.621799
+REST_0160,Royal Express 160,Yelahanka,Fast Food,30,4.5,1,12.952654,77.536281
+REST_0161,Hungry Cafe 161,Electronic City,South Indian,12,4.5,1,12.913764,77.606097
+REST_0162,Green Grill 162,Rajajinagar,Biryani,13,3.7,0,13.008239,77.655367
+REST_0163,Hungry Bites 163,MG Road,North Indian,12,3.3,0,12.992676,77.634794
+REST_0164,Quick Cafe 164,Yelahanka,Continental,27,3.9,0,12.940975,77.650989
+REST_0165,Desi Cafe 165,Whitefield,South Indian,17,4.4,0,12.98897,77.605387
+REST_0166,Royal Corner 166,Banashankari,Desserts,27,3.1,0,12.930663,77.689065
+REST_0167,Urban Hub 167,Electronic City,Biryani,11,3.0,0,13.012052,77.535139
+REST_0168,Tasty Corner 168,Rajajinagar,Street Food,25,4.7,1,12.910811,77.672353
+REST_0169,Green Kitchen 169,Indiranagar,Continental,10,4.7,1,12.98601,77.6419
+REST_0170,Urban Bites 170,Hebbal,Desserts,8,4.9,0,13.042142,77.592019
+REST_0171,Spice Cafe 171,Malleshwaram,South Indian,15,3.9,0,12.960067,77.515729
+REST_0172,Desi Corner 172,Banashankari,Biryani,32,3.3,0,12.976572,77.522805
+REST_0173,Fresh Palace 173,Bommanahalli,Biryani,31,4.9,1,12.922153,77.520561
+REST_0174,Fresh Express 174,Yelahanka,Thai,12,4.5,1,12.926572,77.65457
+REST_0175,Quick Dhaba 175,Sarjapur Road,Thai,22,4.4,0,13.032307,77.628598
+REST_0176,Desi Palace 176,Brigade Road,Chinese,22,3.1,0,12.966331,77.560564
+REST_0177,Hungry Kitchen 177,Yelahanka,Biryani,24,3.1,0,12.969261,77.507521
+REST_0178,Urban Bites 178,Malleshwaram,South Indian,27,4.2,0,12.957672,77.616066
+REST_0179,Quick Dhaba 179,Indiranagar,Italian,18,4.2,0,12.975205,77.691544
+REST_0180,Spice Palace 180,Bellandur,South Indian,24,4.3,0,12.905871,77.641524
+REST_0181,Tasty Bowl 181,Bellandur,Thai,13,3.7,0,13.037691,77.577483
+REST_0182,Hungry Kitchen 182,JP Nagar,Biryani,10,3.7,0,12.983694,77.577313
+REST_0183,Hungry Express 183,Yelahanka,Biryani,10,4.2,0,12.921214,77.569964
+REST_0184,Golden Dhaba 184,Rajajinagar,South Indian,17,4.1,0,12.996524,77.565695
+REST_0185,Tasty Bites 185,Electronic City,Desserts,24,3.7,0,12.95439,77.536053
+REST_0186,Desi Grill 186,Jayanagar,Italian,15,5.0,0,12.944369,77.657624
+REST_0187,Tasty Bowl 187,Bommanahalli,North Indian,29,3.7,0,13.014946,77.52621
+REST_0188,Golden Express 188,Rajajinagar,Chinese,34,4.4,0,12.993711,77.680531
+REST_0189,Royal Cafe 189,Bellandur,Biryani,29,4.4,0,13.045438,77.622119
+REST_0190,Fresh Bowl 190,Bellandur,Italian,17,4.9,1,13.035596,77.538803
+REST_0191,Quick Grill 191,MG Road,Fast Food,32,3.8,0,12.979119,77.693254
+REST_0192,Hungry Express 192,Jayanagar,Fast Food,9,4.3,0,13.031118,77.610908
+REST_0193,Tasty Bites 193,Whitefield,Fast Food,10,4.5,0,13.035796,77.52947
+REST_0194,Spice Corner 194,Hebbal,Continental,19,4.9,0,12.959468,77.574792
+REST_0195,Spice Palace 195,Rajajinagar,Italian,8,3.6,0,12.914862,77.642941
+REST_0196,Golden Express 196,JP Nagar,North Indian,17,4.8,0,13.024667,77.651768
+REST_0197,Quick Dhaba 197,Sarjapur Road,North Indian,10,3.0,0,12.932348,77.529904
+REST_0198,Tasty Cafe 198,Brigade Road,South Indian,32,3.6,0,12.945173,77.50955
+REST_0199,Hungry Grill 199,Hebbal,South Indian,11,4.7,0,12.980408,77.626391
+REST_0200,Fresh Express 200,MG Road,Fast Food,21,3.0,0,12.952922,77.614133
+REST_0201,Spice Bowl 201,Marathahalli,Biryani,10,4.9,1,13.017962,77.601525
+REST_0202,Green Grill 202,Koramangala,North Indian,28,3.8,0,12.955995,77.649463
+REST_0203,Spice Palace 203,Malleshwaram,Italian,31,4.3,0,12.91555,77.616381
+REST_0204,Golden Kitchen 204,JP Nagar,Biryani,25,3.7,0,12.996419,77.666077
+REST_0205,Quick Express 205,Bellandur,Chinese,10,4.4,0,13.041541,77.507397
+REST_0206,Royal Corner 206,Jayanagar,North Indian,18,4.9,1,13.048368,77.608606
+REST_0207,Royal Corner 207,Yelahanka,Fast Food,19,4.7,0,12.99836,77.554643
+REST_0208,Green Cafe 208,Malleshwaram,Continental,20,3.7,0,12.928023,77.638414
+REST_0209,Tasty Hub 209,Malleshwaram,South Indian,31,3.8,0,12.964591,77.69902
+REST_0210,Tasty Hub 210,Marathahalli,Biryani,11,3.2,0,12.999138,77.561299
+REST_0211,Green Express 211,Brigade Road,Continental,19,3.9,0,13.009022,77.682321
+REST_0212,Green Hub 212,Brigade Road,North Indian,10,4.3,0,12.960932,77.602617
+REST_0213,Royal Express 213,Marathahalli,Thai,29,4.6,0,12.910085,77.655703
+REST_0214,Desi Cafe 214,Malleshwaram,Thai,9,4.2,0,13.001859,77.689765
+REST_0215,Quick Bites 215,Malleshwaram,Thai,12,4.1,0,12.959705,77.629912
+REST_0216,Spice Kitchen 216,BTM Layout,Chinese,23,4.0,0,13.037031,77.523552
+REST_0217,Quick Corner 217,Yelahanka,Thai,17,4.4,0,13.049794,77.540036
+REST_0218,Spice Grill 218,Electronic City,Chinese,30,3.9,0,12.913169,77.636386
+REST_0219,Desi Bites 219,JP Nagar,Street Food,25,3.6,0,12.944994,77.531501
+REST_0220,Desi Bowl 220,Marathahalli,Italian,11,5.0,1,12.93551,77.598804
+REST_0221,Tasty Dhaba 221,Malleshwaram,Biryani,22,4.6,1,12.991792,77.517243
+REST_0222,Green Grill 222,Banashankari,Street Food,21,4.5,1,12.911063,77.694476
+REST_0223,Quick Grill 223,HSR Layout,Street Food,19,3.3,0,13.024358,77.610261
+REST_0224,Golden Express 224,MG Road,Desserts,24,4.8,0,12.918624,77.530603
+REST_0225,Golden Palace 225,Marathahalli,Italian,19,4.9,1,12.942607,77.515772
+REST_0226,Tasty Hub 226,Jayanagar,Chinese,28,3.6,0,12.980022,77.600515
+REST_0227,Hungry Dhaba 227,Marathahalli,Chinese,13,4.3,0,13.008095,77.621028
+REST_0228,Royal Kitchen 228,MG Road,South Indian,9,4.9,1,12.939698,77.542162
+REST_0229,Green Dhaba 229,MG Road,North Indian,23,4.8,1,12.996286,77.560419
+REST_0230,Green Hub 230,BTM Layout,Continental,10,4.4,0,12.923712,77.583124
+REST_0231,Fresh Palace 231,Bellandur,Thai,12,3.6,0,13.007754,77.64684
+REST_0232,Green Express 232,Malleshwaram,Biryani,24,4.1,0,12.947867,77.593295
+REST_0233,Quick Corner 233,Yelahanka,Chinese,11,3.1,0,13.041808,77.672833
+REST_0234,Fresh Express 234,Hebbal,Biryani,26,4.4,0,12.928475,77.531868
+REST_0235,Quick Grill 235,Bommanahalli,Fast Food,23,3.0,0,13.041785,77.601089
+REST_0236,Fresh Dhaba 236,BTM Layout,Biryani,9,3.1,0,12.974234,77.676468
+REST_0237,Urban Bowl 237,Sarjapur Road,North Indian,35,3.2,0,12.92009,77.552895
+REST_0238,Green Palace 238,Malleshwaram,North Indian,20,3.1,0,12.984273,77.572505
+REST_0239,Spice Cafe 239,Banashankari,Street Food,22,4.5,0,13.048364,77.63608
+REST_0240,Golden Bites 240,Whitefield,Desserts,19,4.6,0,13.040842,77.650993
+REST_0241,Hungry Bowl 241,Jayanagar,Desserts,24,3.1,0,12.905837,77.642718
+REST_0242,Tasty Grill 242,Sarjapur Road,Chinese,27,4.8,0,13.039705,77.563706
+REST_0243,Hungry Hub 243,Rajajinagar,Thai,18,4.0,0,12.976457,77.597969
+REST_0244,Urban Grill 244,MG Road,North Indian,19,3.7,0,12.916441,77.583308
+REST_0245,Royal Dhaba 245,Banashankari,Continental,16,4.9,1,13.016424,77.615527
+REST_0246,Hungry Grill 246,Indiranagar,Chinese,24,4.3,0,12.99296,77.668233
+REST_0247,Fresh Kitchen 247,Electronic City,Thai,30,3.2,0,12.902841,77.562738
+REST_0248,Green Corner 248,Electronic City,Desserts,24,4.5,1,13.030923,77.647167
+REST_0249,Golden Bowl 249,Indiranagar,Italian,25,3.7,0,12.999334,77.605095
+REST_0250,Golden Grill 250,JP Nagar,Street Food,18,4.1,0,13.00138,77.673531
+REST_0251,Hungry Grill 251,Yelahanka,Italian,15,3.6,0,12.944775,77.688297
+REST_0252,Urban Corner 252,Banashankari,Continental,18,4.0,0,12.984073,77.686897
+REST_0253,Urban Bites 253,Yelahanka,Thai,29,4.1,0,13.034364,77.578906
+REST_0254,Golden Hub 254,Malleshwaram,North Indian,17,4.9,0,13.038601,77.631194
+REST_0255,Fresh Corner 255,Sarjapur Road,Street Food,16,4.9,1,12.920591,77.623135
+REST_0256,Fresh Corner 256,MG Road,North Indian,29,4.8,0,12.934925,77.52004
+REST_0257,Quick Bites 257,JP Nagar,Chinese,8,4.9,1,12.923691,77.630579
+REST_0258,Quick Corner 258,Sarjapur Road,Fast Food,18,3.6,0,12.908874,77.653745
+REST_0259,Fresh Bowl 259,MG Road,North Indian,13,3.8,0,13.025641,77.686785
+REST_0260,Green Grill 260,Indiranagar,Chinese,31,4.9,1,13.031511,77.501853
+REST_0261,Hungry Bites 261,MG Road,Biryani,17,3.9,0,12.996197,77.604864
+REST_0262,Tasty Grill 262,Electronic City,Fast Food,14,4.6,0,13.009668,77.629657
+REST_0263,Royal Palace 263,Marathahalli,Fast Food,26,4.3,0,12.928974,77.622191
+REST_0264,Green Bowl 264,Rajajinagar,Biryani,10,3.8,0,12.914308,77.696337
+REST_0265,Desi Corner 265,Sarjapur Road,North Indian,16,3.8,0,12.96701,77.553399
+REST_0266,Urban Dhaba 266,JP Nagar,Thai,8,3.5,0,12.953933,77.547261
+REST_0267,Quick Hub 267,Whitefield,Chinese,20,4.4,0,13.038466,77.67756
+REST_0268,Spice Hub 268,Banashankari,Biryani,27,3.4,0,13.043604,77.595636
+REST_0269,Hungry Palace 269,Bellandur,Desserts,30,4.1,0,12.970624,77.607504
+REST_0270,Fresh Dhaba 270,Jayanagar,South Indian,24,3.9,0,13.005565,77.515621
+REST_0271,Spice Kitchen 271,MG Road,Street Food,24,3.4,0,12.980499,77.532907
+REST_0272,Quick Bites 272,Bommanahalli,Italian,30,4.2,0,12.913641,77.602075
+REST_0273,Quick Express 273,Indiranagar,Street Food,21,3.9,0,12.908661,77.592476
+REST_0274,Royal Cafe 274,Banashankari,Fast Food,34,3.0,0,12.932685,77.514606
+REST_0275,Desi Bites 275,Hebbal,Street Food,9,4.9,0,13.040066,77.506347
+REST_0276,Golden Express 276,Hebbal,Desserts,19,5.0,0,13.030443,77.681353
+REST_0277,Spice Bowl 277,Rajajinagar,Chinese,28,4.7,0,13.048927,77.578612
+REST_0278,Fresh Kitchen 278,Electronic City,North Indian,17,3.9,0,13.007864,77.584826
+REST_0279,Fresh Corner 279,Rajajinagar,Continental,19,3.3,0,12.928272,77.675042
+REST_0280,Royal Cafe 280,Whitefield,Thai,32,4.9,1,12.9361,77.513458
+REST_0281,Royal Grill 281,Brigade Road,Thai,29,4.4,0,12.907301,77.648108
+REST_0282,Quick Corner 282,Rajajinagar,Street Food,14,4.5,1,12.92102,77.698697
+REST_0283,Hungry Palace 283,BTM Layout,Thai,27,4.5,1,12.935536,77.675252
+REST_0284,Fresh Cafe 284,Bommanahalli,Fast Food,16,3.1,0,13.042278,77.675943
+REST_0285,Green Bowl 285,Marathahalli,Continental,9,4.9,1,13.000701,77.657161
+REST_0286,Green Cafe 286,JP Nagar,Chinese,17,3.8,0,13.013162,77.594704
+REST_0287,Urban Express 287,BTM Layout,Continental,9,4.1,0,13.045168,77.611457
+REST_0288,Green Corner 288,Electronic City,Fast Food,14,3.7,0,12.911861,77.589957
+REST_0289,Spice Bowl 289,Malleshwaram,Italian,9,3.5,0,13.001051,77.620584
+REST_0290,Fresh Dhaba 290,HSR Layout,Street Food,14,4.0,0,13.030421,77.566593
+REST_0291,Fresh Corner 291,Koramangala,South Indian,31,5.0,0,12.936389,77.62088
+REST_0292,Green Corner 292,Jayanagar,Street Food,18,4.6,0,12.980048,77.571852
+REST_0293,Desi Bowl 293,Yelahanka,Continental,22,3.2,0,13.047198,77.593898
+REST_0294,Fresh Palace 294,JP Nagar,Biryani,21,3.1,0,13.029613,77.64825
+REST_0295,Urban Bowl 295,Koramangala,Thai,26,4.4,0,12.944279,77.539238
+REST_0296,Green Dhaba 296,BTM Layout,Italian,23,4.1,0,13.04152,77.567513
+REST_0297,Quick Grill 297,Sarjapur Road,Chinese,31,4.6,0,13.008047,77.597663
+REST_0298,Royal Bowl 298,Basavanagudi,North Indian,34,4.7,1,13.000232,77.652868
+REST_0299,Golden Corner 299,Hebbal,South Indian,30,3.3,0,12.932808,77.591202
+REST_0300,Hungry Dhaba 300,Indiranagar,Continental,29,4.0,0,12.900992,77.610329
+REST_0301,Royal Bowl 301,Koramangala,Fast Food,25,5.0,0,13.021974,77.634807
+REST_0302,Spice Bites 302,Marathahalli,Street Food,12,3.5,0,12.992967,77.550484
+REST_0303,Urban Cafe 303,Malleshwaram,South Indian,19,4.9,0,12.936481,77.639447
+REST_0304,Spice Kitchen 304,Banashankari,South Indian,20,3.8,0,12.982905,77.511223
+REST_0305,Golden Bites 305,Koramangala,Continental,35,3.9,0,13.017656,77.613171
+REST_0306,Tasty Kitchen 306,Whitefield,Italian,14,4.8,1,12.985018,77.554219
+REST_0307,Urban Bowl 307,HSR Layout,Thai,29,3.1,0,13.039315,77.562897
+REST_0308,Hungry Express 308,Jayanagar,Desserts,10,3.6,0,12.984594,77.613339
+REST_0309,Tasty Palace 309,Rajajinagar,Desserts,32,4.5,1,13.003397,77.515686
+REST_0310,Royal Bites 310,Malleshwaram,Desserts,15,4.7,0,13.015351,77.690972
+REST_0311,Desi Kitchen 311,Rajajinagar,Fast Food,33,5.0,0,12.953372,77.688229
+REST_0312,Golden Dhaba 312,Hebbal,Desserts,10,4.5,0,12.936967,77.514701
+REST_0313,Golden Cafe 313,Yelahanka,Chinese,31,3.8,0,12.954105,77.518304
+REST_0314,Quick Palace 314,Banashankari,Fast Food,11,3.3,0,12.928109,77.589769
+REST_0315,Tasty Cafe 315,Basavanagudi,South Indian,8,3.2,0,12.983133,77.619385
+REST_0316,Green Kitchen 316,JP Nagar,Fast Food,21,3.8,0,12.912705,77.680227
+REST_0317,Hungry Bowl 317,BTM Layout,Chinese,29,3.8,0,12.920826,77.560226
+REST_0318,Golden Bites 318,Sarjapur Road,Chinese,21,3.6,0,12.944963,77.656533
+REST_0319,Urban Corner 319,Malleshwaram,Continental,27,4.2,0,12.968679,77.527098
+REST_0320,Green Palace 320,Koramangala,Thai,20,4.6,0,12.95021,77.663095
+REST_0321,Golden Hub 321,Brigade Road,Biryani,27,4.9,0,12.947127,77.692915
+REST_0322,Urban Grill 322,JP Nagar,Thai,33,3.5,0,12.956408,77.663299
+REST_0323,Desi Bites 323,Rajajinagar,Thai,14,4.2,0,12.981844,77.636343
+REST_0324,Royal Grill 324,Basavanagudi,Italian,22,4.6,1,12.910374,77.669558
+REST_0325,Quick Express 325,Hebbal,Fast Food,15,3.5,0,12.923121,77.584626
+REST_0326,Spice Grill 326,Rajajinagar,Thai,23,4.2,0,12.980155,77.684699
+REST_0327,Tasty Kitchen 327,Hebbal,Biryani,30,4.8,1,12.995727,77.516996
+REST_0328,Desi Express 328,BTM Layout,Thai,9,4.1,0,12.996755,77.629349
+REST_0329,Green Bites 329,JP Nagar,North Indian,11,3.5,0,12.976601,77.60376
+REST_0330,Hungry Corner 330,MG Road,Continental,19,3.8,0,13.015851,77.617718
+REST_0331,Golden Palace 331,Bommanahalli,North Indian,23,3.2,0,12.962396,77.692346
+REST_0332,Golden Palace 332,Whitefield,Fast Food,18,3.9,0,12.93103,77.596585
+REST_0333,Spice Grill 333,Sarjapur Road,Continental,18,3.1,0,12.906702,77.642156
+REST_0334,Desi Bites 334,Koramangala,Chinese,31,3.5,0,12.926168,77.532027
+REST_0335,Green Grill 335,Basavanagudi,Italian,33,3.8,0,12.927668,77.628096
+REST_0336,Green Kitchen 336,Hebbal,Thai,14,3.9,0,12.964433,77.50089
+REST_0337,Fresh Hub 337,Jayanagar,South Indian,26,3.2,0,13.030797,77.537392
+REST_0338,Fresh Grill 338,JP Nagar,South Indian,16,4.3,0,12.973423,77.693183
+REST_0339,Hungry Cafe 339,JP Nagar,Thai,20,4.2,0,12.952189,77.669104
+REST_0340,Golden Hub 340,Brigade Road,Thai,26,3.2,0,12.920092,77.523572
+REST_0341,Spice Express 341,Banashankari,Biryani,30,3.3,0,12.958269,77.619285
+REST_0342,Green Cafe 342,MG Road,Chinese,23,4.3,0,13.004015,77.629052
+REST_0343,Tasty Express 343,Marathahalli,Continental,17,3.3,0,12.947187,77.5902
+REST_0344,Desi Kitchen 344,Indiranagar,Continental,12,3.4,0,12.957592,77.612316
+REST_0345,Green Grill 345,Sarjapur Road,Desserts,30,4.7,0,12.912401,77.506172
+REST_0346,Urban Kitchen 346,BTM Layout,Fast Food,15,4.1,0,12.925231,77.591464
+REST_0347,Tasty Bowl 347,Sarjapur Road,South Indian,26,3.2,0,13.016267,77.664657
+REST_0348,Tasty Kitchen 348,Malleshwaram,Continental,25,3.4,0,12.963773,77.647198
+REST_0349,Urban Kitchen 349,BTM Layout,Continental,16,3.7,0,13.022509,77.587814
+REST_0350,Fresh Corner 350,Whitefield,Thai,30,3.7,0,13.006613,77.626554
+REST_0351,Hungry Express 351,Marathahalli,Italian,34,3.4,0,12.908904,77.570163
+REST_0352,Hungry Bowl 352,Yelahanka,Chinese,18,5.0,0,12.98591,77.690479
+REST_0353,Spice Express 353,Bommanahalli,Desserts,9,5.0,1,12.919033,77.673216
+REST_0354,Golden Palace 354,BTM Layout,Italian,32,4.7,0,12.921326,77.62648
+REST_0355,Green Grill 355,Hebbal,South Indian,28,4.6,1,12.960428,77.64996
+REST_0356,Quick Grill 356,Malleshwaram,Biryani,26,3.0,0,13.01612,77.646545
+REST_0357,Desi Bites 357,Bellandur,Street Food,20,3.4,0,12.964446,77.54237
+REST_0358,Desi Hub 358,Yelahanka,Biryani,25,4.2,0,12.984921,77.597068
+REST_0359,Royal Kitchen 359,JP Nagar,South Indian,28,4.6,0,12.918636,77.67153
+REST_0360,Quick Kitchen 360,Bellandur,Desserts,14,5.0,1,13.032322,77.560373
+REST_0361,Spice Palace 361,Yelahanka,Fast Food,10,3.7,0,13.03557,77.533105
+REST_0362,Urban Corner 362,Rajajinagar,Desserts,28,3.2,0,12.914278,77.542684
+REST_0363,Golden Dhaba 363,HSR Layout,Italian,24,4.4,0,12.901393,77.639119
+REST_0364,Green Express 364,Whitefield,Continental,10,3.5,0,12.9134,77.661191
+REST_0365,Desi Palace 365,Whitefield,Fast Food,12,3.8,0,13.022005,77.674899
+REST_0366,Spice Bowl 366,Electronic City,Thai,8,4.2,0,12.924617,77.570238
+REST_0367,Golden Cafe 367,Jayanagar,Thai,29,3.9,0,12.932587,77.679319
+REST_0368,Spice Dhaba 368,Electronic City,Desserts,19,4.9,0,12.920975,77.555394
+REST_0369,Fresh Bowl 369,HSR Layout,Thai,27,4.4,0,12.942738,77.688256
+REST_0370,Urban Corner 370,Koramangala,Street Food,27,4.0,0,13.012177,77.559108
+REST_0371,Fresh Grill 371,Indiranagar,Desserts,11,3.5,0,12.995712,77.514202
+REST_0372,Desi Palace 372,Koramangala,Chinese,20,4.7,1,12.954812,77.636588
+REST_0373,Spice Kitchen 373,Sarjapur Road,Thai,10,3.0,0,12.932361,77.684516
+REST_0374,Tasty Hub 374,Rajajinagar,Street Food,32,3.8,0,13.005272,77.516486
+REST_0375,Tasty Dhaba 375,Basavanagudi,Chinese,16,3.2,0,12.911853,77.684185
+REST_0376,Tasty Palace 376,Electronic City,Desserts,26,4.3,0,13.025179,77.636211
+REST_0377,Urban Cafe 377,HSR Layout,Italian,9,3.5,0,13.038694,77.523197
+REST_0378,Hungry Kitchen 378,Brigade Road,Fast Food,29,4.5,1,12.917916,77.64158
+REST_0379,Golden Grill 379,Koramangala,Biryani,24,4.0,0,13.023376,77.551849
+REST_0380,Golden Hub 380,Malleshwaram,South Indian,32,4.8,0,12.964399,77.604771
+REST_0381,Hungry Bites 381,Yelahanka,Continental,22,4.0,0,12.908316,77.671872
+REST_0382,Desi Express 382,Marathahalli,Fast Food,32,3.2,0,12.986087,77.644556
+REST_0383,Tasty Kitchen 383,BTM Layout,North Indian,35,4.7,0,12.970765,77.576596
+REST_0384,Golden Kitchen 384,Electronic City,Street Food,33,4.8,1,12.962905,77.56436
+REST_0385,Desi Hub 385,Hebbal,South Indian,26,3.7,0,12.975306,77.680388
+REST_0386,Fresh Bowl 386,Marathahalli,North Indian,20,3.1,0,12.969764,77.556461
+REST_0387,Desi Bites 387,Banashankari,Street Food,22,3.0,0,12.930101,77.612761
+REST_0388,Hungry Corner 388,Banashankari,Continental,19,4.2,0,12.974004,77.654523
+REST_0389,Tasty Corner 389,Jayanagar,Chinese,8,4.9,0,12.981232,77.627188
+REST_0390,Desi Kitchen 390,Koramangala,Desserts,35,4.5,0,12.930779,77.696623
+REST_0391,Quick Kitchen 391,Hebbal,Chinese,30,3.6,0,12.906585,77.546295
+REST_0392,Green Palace 392,Bommanahalli,Continental,31,3.2,0,12.914337,77.526703
+REST_0393,Spice Dhaba 393,Rajajinagar,Thai,9,3.9,0,13.044633,77.547354
+REST_0394,Desi Cafe 394,Yelahanka,Biryani,18,3.9,0,12.935042,77.688711
+REST_0395,Hungry Bites 395,Electronic City,Chinese,11,3.3,0,12.969908,77.581303
+REST_0396,Desi Corner 396,Basavanagudi,Continental,17,3.9,0,13.027872,77.518084
+REST_0397,Hungry Kitchen 397,Banashankari,Italian,34,4.7,0,13.006674,77.69368
+REST_0398,Tasty Kitchen 398,Rajajinagar,Fast Food,16,4.6,0,13.042814,77.67092
+REST_0399,Tasty Corner 399,Basavanagudi,South Indian,22,3.2,0,13.019071,77.524291
+REST_0400,Fresh Express 400,Indiranagar,Italian,34,3.8,0,13.002943,77.687515
+REST_0401,Hungry Dhaba 401,HSR Layout,Fast Food,34,3.1,0,13.049574,77.53955
+REST_0402,Golden Bites 402,Bellandur,Biryani,11,3.1,0,12.969149,77.533598
+REST_0403,Green Cafe 403,MG Road,Continental,8,3.8,0,12.964,77.570789
+REST_0404,Urban Hub 404,Marathahalli,Continental,12,3.1,0,12.992876,77.549157
+REST_0405,Quick Cafe 405,Banashankari,Street Food,23,3.1,0,12.941966,77.527447
+REST_0406,Tasty Corner 406,Jayanagar,Street Food,33,3.0,0,12.957375,77.642674
+REST_0407,Tasty Grill 407,Sarjapur Road,Biryani,26,4.0,0,12.958257,77.535963
+REST_0408,Hungry Corner 408,JP Nagar,North Indian,33,4.6,0,13.04873,77.605886
+REST_0409,Fresh Express 409,MG Road,South Indian,15,4.3,0,12.939979,77.663257
+REST_0410,Fresh Dhaba 410,Indiranagar,Desserts,19,4.9,1,12.926057,77.54731
+REST_0411,Desi Dhaba 411,JP Nagar,North Indian,30,4.4,0,13.042134,77.612721
+REST_0412,Fresh Grill 412,MG Road,Street Food,17,3.4,0,12.905695,77.511234
+REST_0413,Fresh Kitchen 413,Brigade Road,Street Food,23,3.0,0,13.037684,77.540293
+REST_0414,Desi Express 414,Electronic City,Biryani,9,3.0,0,12.987991,77.683445
+REST_0415,Tasty Palace 415,Whitefield,South Indian,19,4.4,0,12.999321,77.617203
+REST_0416,Urban Palace 416,JP Nagar,Chinese,13,4.5,0,12.99589,77.59744
+REST_0417,Golden Bowl 417,JP Nagar,Thai,33,3.7,0,12.99983,77.662891
+REST_0418,Urban Hub 418,Rajajinagar,Chinese,13,4.5,1,13.042305,77.57832
+REST_0419,Royal Express 419,MG Road,Thai,18,4.8,1,12.933134,77.61311
+REST_0420,Golden Palace 420,Sarjapur Road,South Indian,15,3.7,0,12.947928,77.627237
+REST_0421,Desi Grill 421,HSR Layout,North Indian,16,3.4,0,13.003976,77.570096
+REST_0422,Royal Kitchen 422,Whitefield,Desserts,22,4.5,1,13.032683,77.598616
+REST_0423,Desi Bowl 423,Rajajinagar,Desserts,11,4.7,1,12.986708,77.651649
+REST_0424,Golden Grill 424,BTM Layout,South Indian,33,4.7,0,12.947808,77.690332
+REST_0425,Desi Express 425,HSR Layout,Desserts,13,4.5,1,13.034719,77.518621
+REST_0426,Hungry Grill 426,Brigade Road,North Indian,21,4.9,0,13.033463,77.531421
+REST_0427,Desi Corner 427,Whitefield,Italian,21,4.4,0,13.008306,77.645995
+REST_0428,Urban Hub 428,Yelahanka,Italian,11,3.1,0,12.985765,77.667971
+REST_0429,Royal Palace 429,Electronic City,North Indian,21,3.2,0,13.023585,77.625018
+REST_0430,Fresh Bites 430,Sarjapur Road,North Indian,14,3.3,0,12.943772,77.516387
+REST_0431,Urban Cafe 431,Whitefield,Continental,23,4.8,0,12.99628,77.577505
+REST_0432,Green Palace 432,Malleshwaram,Chinese,22,3.1,0,12.965961,77.55268
+REST_0433,Hungry Kitchen 433,Yelahanka,Chinese,32,4.4,0,12.914505,77.633628
+REST_0434,Green Dhaba 434,Basavanagudi,Italian,25,3.1,0,12.958066,77.604516
+REST_0435,Quick Dhaba 435,Basavanagudi,Italian,23,3.6,0,12.959221,77.670788
+REST_0436,Tasty Dhaba 436,Indiranagar,Street Food,33,4.1,0,13.047413,77.52949
+REST_0437,Golden Express 437,Bellandur,Italian,33,3.4,0,12.906401,77.515674
+REST_0438,Fresh Express 438,Hebbal,Thai,16,3.6,0,13.009065,77.661469
+REST_0439,Green Bowl 439,HSR Layout,Desserts,25,3.7,0,12.94143,77.591631
+REST_0440,Hungry Dhaba 440,Koramangala,Street Food,33,3.8,0,12.962166,77.52964
+REST_0441,Hungry Bites 441,MG Road,South Indian,26,4.6,1,13.030121,77.676027
+REST_0442,Urban Cafe 442,Hebbal,Continental,26,4.2,0,12.90562,77.555083
+REST_0443,Hungry Dhaba 443,Electronic City,Desserts,9,3.8,0,13.031844,77.638103
+REST_0444,Quick Hub 444,Indiranagar,Biryani,8,3.7,0,13.019048,77.56219
+REST_0445,Spice Corner 445,Sarjapur Road,Chinese,17,4.9,0,13.023873,77.553884
+REST_0446,Hungry Bites 446,Hebbal,Italian,22,3.4,0,13.023595,77.648189
+REST_0447,Desi Kitchen 447,Bommanahalli,Street Food,33,3.3,0,12.946668,77.601359
+REST_0448,Tasty Dhaba 448,Electronic City,North Indian,13,3.4,0,13.024939,77.667395
+REST_0449,Royal Grill 449,BTM Layout,North Indian,19,4.4,0,12.941097,77.664701
+REST_0450,Green Bites 450,Bommanahalli,North Indian,15,3.7,0,12.989107,77.535517
+REST_0451,Hungry Bowl 451,Sarjapur Road,Biryani,19,3.3,0,13.034174,77.649792
+REST_0452,Urban Kitchen 452,HSR Layout,Desserts,9,3.3,0,12.985839,77.692984
+REST_0453,Fresh Corner 453,BTM Layout,Fast Food,28,3.8,0,12.903008,77.656061
+REST_0454,Quick Express 454,Koramangala,Chinese,27,4.6,0,12.991252,77.688601
+REST_0455,Green Cafe 455,Yelahanka,Biryani,22,3.5,0,12.970005,77.635439
+REST_0456,Green Dhaba 456,Brigade Road,South Indian,8,4.0,0,12.999353,77.668657
+REST_0457,Tasty Dhaba 457,Malleshwaram,Thai,17,3.6,0,12.916216,77.512767
+REST_0458,Desi Hub 458,Yelahanka,Fast Food,28,4.4,0,13.033856,77.559758
+REST_0459,Tasty Corner 459,Electronic City,North Indian,33,4.7,1,12.960615,77.563917
+REST_0460,Royal Grill 460,Electronic City,Fast Food,16,4.8,0,13.01051,77.616605
+REST_0461,Fresh Palace 461,MG Road,Italian,29,4.1,0,13.017735,77.681305
+REST_0462,Tasty Hub 462,Malleshwaram,Chinese,34,4.3,0,12.983737,77.558757
+REST_0463,Golden Hub 463,Sarjapur Road,Street Food,32,4.8,1,13.034939,77.630887
+REST_0464,Desi Corner 464,BTM Layout,Fast Food,21,4.6,0,12.939084,77.55881
+REST_0465,Quick Kitchen 465,Whitefield,Thai,26,4.9,0,13.033414,77.600095
+REST_0466,Tasty Hub 466,Rajajinagar,Desserts,9,4.7,0,13.048852,77.568534
+REST_0467,Quick Express 467,MG Road,Biryani,35,4.4,0,13.016841,77.597516
+REST_0468,Desi Kitchen 468,Marathahalli,North Indian,22,3.5,0,13.014179,77.533721
+REST_0469,Quick Bites 469,Marathahalli,Chinese,27,3.9,0,12.964411,77.585805
+REST_0470,Green Kitchen 470,Sarjapur Road,North Indian,25,3.4,0,12.955965,77.502815
+REST_0471,Tasty Corner 471,JP Nagar,North Indian,29,3.0,0,13.01004,77.545253
+REST_0472,Urban Express 472,Malleshwaram,South Indian,20,4.0,0,12.945917,77.513057
+REST_0473,Urban Hub 473,Indiranagar,Continental,31,4.0,0,12.978618,77.586733
+REST_0474,Desi Grill 474,Electronic City,Biryani,32,3.4,0,13.042213,77.683641
+REST_0475,Royal Corner 475,Rajajinagar,Italian,31,5.0,0,12.903287,77.600927
+REST_0476,Desi Kitchen 476,Whitefield,Desserts,28,3.5,0,12.98021,77.509717
+REST_0477,Spice Kitchen 477,Indiranagar,North Indian,30,3.2,0,12.966647,77.524719
+REST_0478,Quick Express 478,Yelahanka,Italian,30,4.4,0,12.901396,77.584174
+REST_0479,Tasty Hub 479,Whitefield,Thai,27,4.4,0,12.962824,77.679724
+REST_0480,Hungry Bites 480,Bommanahalli,Fast Food,11,4.6,0,12.99135,77.655592
+REST_0481,Fresh Palace 481,Bommanahalli,Desserts,17,3.3,0,12.982221,77.682071
+REST_0482,Desi Corner 482,Sarjapur Road,North Indian,8,4.3,0,13.036032,77.667046
+REST_0483,Golden Bites 483,Sarjapur Road,Street Food,10,4.4,0,12.915194,77.551178
+REST_0484,Quick Hub 484,BTM Layout,Fast Food,22,3.1,0,13.021977,77.674828
+REST_0485,Desi Palace 485,Banashankari,Desserts,31,3.2,0,13.027687,77.678058
+REST_0486,Golden Express 486,Koramangala,Biryani,19,4.8,1,12.940246,77.646614
+REST_0487,Desi Express 487,Malleshwaram,South Indian,20,3.8,0,12.968481,77.667142
+REST_0488,Green Express 488,Sarjapur Road,South Indian,12,4.4,0,12.908797,77.688493
+REST_0489,Spice Cafe 489,Marathahalli,Thai,23,4.6,1,12.927189,77.57595
+REST_0490,Hungry Kitchen 490,Malleshwaram,Chinese,23,4.8,0,12.961693,77.509194
+REST_0491,Desi Kitchen 491,Yelahanka,Street Food,32,4.5,1,12.933598,77.691152
+REST_0492,Tasty Bowl 492,JP Nagar,Thai,11,3.9,0,13.008998,77.596386
+REST_0493,Golden Bowl 493,Rajajinagar,Thai,9,3.0,0,13.040156,77.601114
+REST_0494,Quick Express 494,Sarjapur Road,South Indian,32,4.0,0,12.936134,77.694029
+REST_0495,Tasty Corner 495,Indiranagar,Street Food,28,3.8,0,13.022565,77.515766
+REST_0496,Hungry Grill 496,Bellandur,South Indian,35,4.0,0,12.947409,77.696134
+REST_0497,Spice Cafe 497,Koramangala,Desserts,9,4.1,0,12.900025,77.518179
+REST_0498,Hungry Hub 498,Brigade Road,Street Food,25,3.4,0,13.000721,77.690071
+REST_0499,Royal Corner 499,Malleshwaram,Continental,18,4.1,0,12.992964,77.594627
+REST_0500,Quick Bites 500,Malleshwaram,South Indian,32,4.3,0,12.90033,77.571028
+REST_0501,Tasty Bowl 501,Banashankari,Biryani,30,3.2,0,13.034532,77.598484
+REST_0502,Spice Hub 502,Hebbal,Thai,14,3.4,0,13.039532,77.578579
+REST_0503,Fresh Palace 503,Bellandur,South Indian,32,3.8,0,13.038994,77.667493
+REST_0504,Spice Grill 504,MG Road,Continental,29,4.2,0,12.97563,77.692771
+REST_0505,Tasty Kitchen 505,Koramangala,Street Food,21,4.7,0,12.97625,77.684232
+REST_0506,Hungry Express 506,Marathahalli,Chinese,11,3.8,0,12.990082,77.676539
+REST_0507,Green Cafe 507,Bommanahalli,Thai,30,4.5,0,13.044539,77.694098
+REST_0508,Golden Express 508,Bellandur,Desserts,27,4.4,0,13.012264,77.559783
+REST_0509,Desi Bowl 509,Basavanagudi,Italian,14,3.4,0,13.007158,77.637322
+REST_0510,Golden Bowl 510,Electronic City,Street Food,30,4.3,0,13.006553,77.652155
+REST_0511,Quick Dhaba 511,Basavanagudi,Thai,29,4.4,0,13.001137,77.678773
+REST_0512,Urban Cafe 512,Basavanagudi,North Indian,24,3.2,0,12.957131,77.510613
+REST_0513,Fresh Hub 513,Indiranagar,Chinese,17,4.4,0,12.921964,77.512407
+REST_0514,Fresh Bowl 514,Banashankari,North Indian,19,4.6,0,13.030205,77.647898
+REST_0515,Tasty Cafe 515,BTM Layout,Italian,24,4.6,1,12.943146,77.632899
+REST_0516,Green Cafe 516,Rajajinagar,Biryani,25,3.1,0,13.01155,77.540617
+REST_0517,Fresh Palace 517,Bellandur,Thai,25,4.5,0,13.008737,77.5387
+REST_0518,Golden Bites 518,Bellandur,Chinese,13,4.5,0,12.906095,77.555822
+REST_0519,Golden Express 519,Yelahanka,Thai,35,3.5,0,12.949584,77.641938
+REST_0520,Royal Express 520,Electronic City,Biryani,27,3.1,0,13.039857,77.623122
+REST_0521,Quick Dhaba 521,Banashankari,Street Food,19,3.1,0,13.006152,77.605079
+REST_0522,Tasty Bites 522,Marathahalli,Street Food,13,3.8,0,12.980555,77.518389
+REST_0523,Fresh Palace 523,BTM Layout,Biryani,19,3.6,0,13.042546,77.623656
+REST_0524,Tasty Kitchen 524,Sarjapur Road,South Indian,29,3.7,0,12.936052,77.628453
+REST_0525,Fresh Kitchen 525,Brigade Road,Biryani,20,4.8,1,12.957881,77.608047
+REST_0526,Royal Bowl 526,Banashankari,Biryani,24,4.6,0,12.906578,77.679656
+REST_0527,Desi Bowl 527,Jayanagar,South Indian,11,3.3,0,13.043441,77.607595
+REST_0528,Spice Corner 528,Koramangala,Italian,35,4.4,0,13.02535,77.541116
+REST_0529,Spice Express 529,Hebbal,North Indian,22,4.4,0,12.905683,77.51465
+REST_0530,Urban Bowl 530,Marathahalli,South Indian,26,4.6,1,12.961145,77.590225
+REST_0531,Green Palace 531,Rajajinagar,North Indian,20,4.3,0,12.980225,77.628285
+REST_0532,Spice Dhaba 532,Brigade Road,North Indian,30,4.7,0,12.975426,77.557967
+REST_0533,Hungry Bites 533,Banashankari,Fast Food,32,4.9,0,13.023318,77.506164
+REST_0534,Tasty Corner 534,Marathahalli,Chinese,31,3.8,0,13.019623,77.609145
+REST_0535,Urban Palace 535,Electronic City,North Indian,25,4.7,0,12.906266,77.614544
+REST_0536,Tasty Bowl 536,Rajajinagar,South Indian,17,3.4,0,13.011215,77.645187
+REST_0537,Green Bowl 537,Jayanagar,Chinese,13,3.4,0,12.992533,77.550548
+REST_0538,Golden Dhaba 538,Whitefield,North Indian,35,4.5,1,12.982328,77.628935
+REST_0539,Urban Bites 539,HSR Layout,Fast Food,11,3.4,0,12.987089,77.690308
+REST_0540,Golden Corner 540,Malleshwaram,South Indian,17,4.2,0,13.035018,77.563557
+REST_0541,Desi Dhaba 541,Bellandur,Fast Food,30,4.2,0,12.984833,77.572899
+REST_0542,Green Express 542,JP Nagar,North Indian,18,3.5,0,12.933229,77.647963
+REST_0543,Urban Palace 543,Hebbal,Chinese,29,4.5,1,12.969427,77.571748
+REST_0544,Quick Bowl 544,Banashankari,South Indian,13,4.3,0,12.912296,77.556123
+REST_0545,Tasty Corner 545,Electronic City,Fast Food,31,4.8,0,12.91131,77.503726
+REST_0546,Royal Dhaba 546,Bommanahalli,Thai,20,4.5,0,12.905498,77.552123
+REST_0547,Quick Express 547,Basavanagudi,Biryani,20,3.4,0,13.015822,77.646645
+REST_0548,Golden Grill 548,Banashankari,Street Food,24,3.2,0,12.95458,77.502118
+REST_0549,Hungry Express 549,BTM Layout,Street Food,12,3.9,0,12.926872,77.689742
+REST_0550,Quick Palace 550,Electronic City,North Indian,15,4.5,0,12.939654,77.546804
+REST_0551,Tasty Palace 551,Jayanagar,Desserts,23,4.8,1,12.905986,77.629705
+REST_0552,Tasty Hub 552,Whitefield,Fast Food,26,4.1,0,12.926077,77.630735
+REST_0553,Hungry Bites 553,Malleshwaram,Street Food,16,3.8,0,13.036086,77.603274
+REST_0554,Desi Grill 554,Malleshwaram,Continental,27,3.0,0,13.032305,77.58798
+REST_0555,Spice Bowl 555,BTM Layout,Fast Food,14,3.3,0,12.923604,77.620404
+REST_0556,Fresh Cafe 556,Whitefield,Biryani,31,3.2,0,13.001284,77.595804
+REST_0557,Golden Cafe 557,MG Road,North Indian,15,3.1,0,12.986023,77.532226
+REST_0558,Royal Dhaba 558,Bommanahalli,Chinese,9,3.3,0,13.038367,77.603328
+REST_0559,Hungry Dhaba 559,Rajajinagar,North Indian,31,4.5,1,13.042088,77.543319
+REST_0560,Quick Grill 560,Brigade Road,Chinese,15,4.7,1,13.019192,77.664091
+REST_0561,Hungry Bowl 561,Marathahalli,Fast Food,13,4.4,0,12.951401,77.590694
+REST_0562,Spice Corner 562,MG Road,Desserts,20,3.3,0,12.902484,77.604542
+REST_0563,Green Express 563,Bommanahalli,Thai,11,3.4,0,13.035241,77.619963
+REST_0564,Tasty Bites 564,Basavanagudi,South Indian,23,4.3,0,13.035298,77.607857
+REST_0565,Green Bowl 565,Koramangala,Desserts,19,4.7,1,12.964343,77.687684
+REST_0566,Green Palace 566,Sarjapur Road,Thai,33,4.5,1,13.004506,77.519543
+REST_0567,Urban Grill 567,Electronic City,Italian,35,3.2,0,12.989744,77.608746
+REST_0568,Fresh Kitchen 568,Yelahanka,North Indian,26,4.0,0,12.977964,77.575006
+REST_0569,Desi Cafe 569,Jayanagar,Biryani,11,3.3,0,12.997736,77.550727
+REST_0570,Green Dhaba 570,Basavanagudi,Biryani,27,3.6,0,13.002091,77.650994
+REST_0571,Tasty Bowl 571,Hebbal,Continental,13,3.7,0,12.983237,77.550756
+REST_0572,Hungry Palace 572,Banashankari,Desserts,31,3.3,0,13.029575,77.523817
+REST_0573,Quick Express 573,BTM Layout,South Indian,14,4.0,0,13.017912,77.660171
+REST_0574,Royal Express 574,Brigade Road,Desserts,28,3.0,0,12.913663,77.529066
+REST_0575,Green Bites 575,Brigade Road,South Indian,16,3.4,0,12.912006,77.507551
+REST_0576,Green Dhaba 576,Rajajinagar,Street Food,17,4.4,0,12.989621,77.689143
+REST_0577,Quick Grill 577,Marathahalli,North Indian,14,4.7,1,12.977723,77.538949
+REST_0578,Tasty Bowl 578,Brigade Road,Italian,27,3.3,0,12.905409,77.547851
+REST_0579,Golden Bites 579,Koramangala,Fast Food,32,3.8,0,13.000449,77.58109
+REST_0580,Tasty Kitchen 580,Jayanagar,South Indian,10,4.1,0,13.008921,77.611823
+REST_0581,Desi Palace 581,MG Road,Fast Food,15,4.2,0,12.929179,77.685943
+REST_0582,Royal Hub 582,MG Road,Chinese,21,4.0,0,12.983795,77.600634
+REST_0583,Spice Bowl 583,JP Nagar,Fast Food,25,4.6,1,13.004129,77.693211
+REST_0584,Quick Corner 584,MG Road,Biryani,32,3.9,0,12.969108,77.617365
+REST_0585,Quick Bites 585,Koramangala,Fast Food,10,3.8,0,13.018298,77.544076
+REST_0586,Desi Cafe 586,BTM Layout,Biryani,24,4.1,0,13.005123,77.55267
+REST_0587,Spice Cafe 587,Banashankari,Biryani,10,4.1,0,12.926773,77.562775
+REST_0588,Hungry Hub 588,Jayanagar,Chinese,31,4.4,0,13.036489,77.5998
+REST_0589,Fresh Corner 589,Jayanagar,Fast Food,14,3.5,0,13.025241,77.667267
+REST_0590,Golden Bites 590,Malleshwaram,South Indian,10,4.4,0,12.999514,77.622765
+REST_0591,Royal Grill 591,Basavanagudi,Biryani,27,3.6,0,13.034718,77.676197
+REST_0592,Urban Grill 592,MG Road,Chinese,32,4.8,0,12.933314,77.615333
+REST_0593,Tasty Cafe 593,Indiranagar,Continental,25,3.1,0,12.952093,77.67208
+REST_0594,Quick Bites 594,Marathahalli,Street Food,22,3.6,0,12.901263,77.634821
+REST_0595,Hungry Bites 595,Rajajinagar,Biryani,19,4.2,0,12.938955,77.609713
+REST_0596,Urban Grill 596,BTM Layout,Thai,18,3.7,0,12.974816,77.542106
+REST_0597,Desi Cafe 597,Malleshwaram,Fast Food,22,3.4,0,12.919671,77.615179
+REST_0598,Spice Hub 598,BTM Layout,Italian,25,3.9,0,12.957133,77.529169
+REST_0599,Quick Kitchen 599,Electronic City,Chinese,21,4.0,0,13.049334,77.669878
+REST_0600,Tasty Palace 600,Bommanahalli,Continental,17,3.5,0,13.028775,77.509542
+REST_0601,Golden Kitchen 601,Whitefield,Italian,34,3.5,0,13.025846,77.51926
+REST_0602,Urban Palace 602,JP Nagar,Biryani,25,4.1,0,13.021502,77.568828
+REST_0603,Spice Palace 603,Hebbal,Thai,14,4.2,0,12.99748,77.607688
+REST_0604,Desi Palace 604,Banashankari,Street Food,23,4.5,0,12.911761,77.622733
+REST_0605,Golden Express 605,Bellandur,Biryani,21,4.3,0,12.985746,77.66978
+REST_0606,Spice Express 606,HSR Layout,Biryani,15,3.6,0,12.997952,77.642087
+REST_0607,Green Hub 607,Brigade Road,Continental,32,4.7,0,12.988038,77.693105
+REST_0608,Golden Express 608,Hebbal,North Indian,12,4.5,1,13.041066,77.640139
+REST_0609,Fresh Express 609,HSR Layout,Desserts,11,3.2,0,13.040519,77.594637
+REST_0610,Royal Cafe 610,Indiranagar,Street Food,32,5.0,0,12.992715,77.516862
+REST_0611,Urban Corner 611,Rajajinagar,Italian,31,3.6,0,12.993972,77.526255
+REST_0612,Royal Kitchen 612,Marathahalli,Biryani,35,4.8,1,12.970079,77.67418
+REST_0613,Tasty Grill 613,Yelahanka,Chinese,30,4.1,0,12.988625,77.591309
+REST_0614,Green Bowl 614,MG Road,Street Food,17,4.8,0,12.934069,77.517911
+REST_0615,Desi Cafe 615,Banashankari,Fast Food,12,3.6,0,12.900014,77.663076
+REST_0616,Desi Hub 616,Electronic City,Continental,25,3.0,0,13.038313,77.689392
+REST_0617,Urban Kitchen 617,Sarjapur Road,Desserts,33,3.6,0,12.934682,77.501444
+REST_0618,Fresh Cafe 618,Malleshwaram,Street Food,21,3.8,0,12.92449,77.647424
+REST_0619,Green Corner 619,Rajajinagar,Fast Food,10,3.8,0,12.935934,77.652908
+REST_0620,Urban Hub 620,Brigade Road,Street Food,33,3.5,0,12.9282,77.513693
+REST_0621,Urban Bites 621,Electronic City,Continental,27,3.9,0,13.005071,77.598399
+REST_0622,Royal Express 622,JP Nagar,North Indian,25,3.0,0,13.04585,77.556423
+REST_0623,Quick Kitchen 623,Electronic City,Italian,10,3.3,0,12.974037,77.568383
+REST_0624,Quick Palace 624,Banashankari,Continental,30,4.6,0,13.026532,77.690329
+REST_0625,Urban Cafe 625,Indiranagar,South Indian,25,3.9,0,12.928829,77.668308
+REST_0626,Royal Bites 626,Rajajinagar,Italian,20,4.5,0,13.010643,77.506702
+REST_0627,Spice Bowl 627,Bellandur,Italian,23,3.8,0,13.044182,77.687243
+REST_0628,Royal Bowl 628,Marathahalli,Street Food,11,3.5,0,12.995778,77.539745
+REST_0629,Fresh Bites 629,Indiranagar,Italian,28,3.9,0,12.90226,77.658878
+REST_0630,Spice Cafe 630,MG Road,Italian,8,4.9,1,13.003613,77.637681
+REST_0631,Desi Bites 631,Electronic City,Italian,13,4.0,0,13.002892,77.567684
+REST_0632,Royal Palace 632,Indiranagar,Chinese,30,4.1,0,12.916109,77.597569
+REST_0633,Tasty Palace 633,JP Nagar,Continental,31,3.4,0,13.003387,77.571633
+REST_0634,Urban Kitchen 634,Electronic City,Continental,30,3.9,0,12.944207,77.639408
+REST_0635,Hungry Express 635,Jayanagar,Street Food,19,3.6,0,12.970259,77.673532
+REST_0636,Tasty Express 636,Brigade Road,South Indian,24,3.3,0,12.944351,77.55267
+REST_0637,Quick Kitchen 637,Malleshwaram,Street Food,20,4.5,1,12.99296,77.572815
+REST_0638,Fresh Palace 638,Brigade Road,South Indian,29,4.9,1,12.92848,77.636645
+REST_0639,Golden Dhaba 639,Basavanagudi,Fast Food,18,3.8,0,12.948304,77.519251
+REST_0640,Royal Express 640,HSR Layout,Chinese,35,3.1,0,12.916058,77.538323
+REST_0641,Hungry Cafe 641,Indiranagar,Continental,24,4.2,0,12.988545,77.509817
+REST_0642,Hungry Bites 642,BTM Layout,North Indian,14,4.3,0,13.039261,77.666416
+REST_0643,Royal Palace 643,Bellandur,Street Food,31,4.9,0,12.95536,77.641687
+REST_0644,Urban Bowl 644,Brigade Road,North Indian,31,3.1,0,12.945586,77.688921
+REST_0645,Spice Bites 645,Bommanahalli,Italian,25,3.8,0,12.928968,77.631375
+REST_0646,Golden Bowl 646,MG Road,Street Food,21,4.5,1,12.986485,77.634899
+REST_0647,Spice Express 647,Hebbal,Chinese,25,3.8,0,12.950627,77.531635
+REST_0648,Quick Palace 648,Brigade Road,Biryani,25,5.0,0,12.955758,77.652837
+REST_0649,Desi Dhaba 649,Hebbal,Italian,26,4.1,0,12.956259,77.610048
+REST_0650,Desi Grill 650,Yelahanka,Continental,20,3.0,0,12.905199,77.556896
+REST_0651,Tasty Express 651,Koramangala,Fast Food,8,3.6,0,12.933283,77.671144
+REST_0652,Urban Bowl 652,Koramangala,Street Food,25,4.1,0,12.985742,77.518857
+REST_0653,Desi Express 653,Bellandur,Chinese,16,3.7,0,12.987323,77.546599
+REST_0654,Spice Dhaba 654,Banashankari,Desserts,26,4.8,1,13.008537,77.658581
+REST_0655,Quick Dhaba 655,Marathahalli,South Indian,27,4.3,0,12.905606,77.661668
+REST_0656,Spice Kitchen 656,Rajajinagar,Biryani,19,4.8,0,13.039537,77.524108
+REST_0657,Hungry Kitchen 657,BTM Layout,Desserts,9,3.6,0,12.906177,77.607986
+REST_0658,Desi Bowl 658,Electronic City,Italian,12,3.1,0,13.009737,77.578577
+REST_0659,Hungry Dhaba 659,Bellandur,Street Food,10,3.4,0,12.943467,77.578864
+REST_0660,Desi Bites 660,Electronic City,Continental,26,4.5,1,12.939384,77.579705
+REST_0661,Golden Express 661,Hebbal,Continental,25,3.4,0,12.959298,77.614266
+REST_0662,Hungry Bowl 662,Basavanagudi,Italian,15,3.1,0,13.016516,77.564682
+REST_0663,Spice Bites 663,MG Road,Desserts,21,3.7,0,12.928573,77.568905
+REST_0664,Urban Express 664,Koramangala,Biryani,27,4.6,1,12.993477,77.588093
+REST_0665,Fresh Palace 665,BTM Layout,Chinese,32,4.5,0,13.010937,77.54861
+REST_0666,Golden Hub 666,Brigade Road,North Indian,18,4.4,0,12.916692,77.590012
+REST_0667,Desi Corner 667,Koramangala,Street Food,14,3.4,0,12.97849,77.551732
+REST_0668,Hungry Express 668,Sarjapur Road,North Indian,20,4.2,0,12.999529,77.508696
+REST_0669,Royal Hub 669,Marathahalli,Italian,33,4.4,0,12.940692,77.592992
+REST_0670,Spice Cafe 670,Koramangala,Fast Food,29,4.7,1,13.029642,77.503816
+REST_0671,Fresh Cafe 671,Rajajinagar,Street Food,30,3.2,0,12.947318,77.673355
+REST_0672,Spice Express 672,Basavanagudi,Italian,24,4.9,1,13.00687,77.50795
+REST_0673,Urban Palace 673,Bommanahalli,Continental,20,4.5,0,13.002647,77.571076
+REST_0674,Fresh Bowl 674,Banashankari,Fast Food,33,3.1,0,12.938652,77.577434
+REST_0675,Tasty Hub 675,Koramangala,Italian,12,3.7,0,12.958927,77.527452
+REST_0676,Tasty Dhaba 676,Rajajinagar,Italian,21,3.5,0,12.922912,77.694107
+REST_0677,Desi Grill 677,Brigade Road,Street Food,12,3.4,0,12.920786,77.608271
+REST_0678,Golden Hub 678,Jayanagar,Street Food,12,3.9,0,13.03635,77.65401
+REST_0679,Golden Palace 679,MG Road,South Indian,25,4.1,0,13.007916,77.536827
+REST_0680,Royal Palace 680,Electronic City,Desserts,21,3.6,0,13.011841,77.66434
+REST_0681,Golden Corner 681,Yelahanka,South Indian,12,3.4,0,13.014367,77.622396
+REST_0682,Hungry Dhaba 682,Yelahanka,Thai,15,4.2,0,12.934637,77.505217
+REST_0683,Quick Express 683,HSR Layout,Street Food,35,4.2,0,13.006803,77.574792
+REST_0684,Quick Grill 684,Rajajinagar,Chinese,13,3.4,0,12.904834,77.652908
+REST_0685,Urban Cafe 685,Koramangala,Italian,31,4.3,0,12.930425,77.540912
+REST_0686,Quick Dhaba 686,Marathahalli,Continental,30,3.6,0,12.968632,77.549357
+REST_0687,Royal Dhaba 687,Rajajinagar,Desserts,31,3.6,0,12.991726,77.648494
+REST_0688,Tasty Bowl 688,Brigade Road,North Indian,24,3.2,0,12.968535,77.675553
+REST_0689,Tasty Bowl 689,BTM Layout,Desserts,31,3.1,0,12.95811,77.653032
+REST_0690,Fresh Hub 690,Indiranagar,Continental,20,4.8,1,12.942887,77.533297
+REST_0691,Hungry Kitchen 691,Banashankari,Street Food,12,3.9,0,12.996915,77.518088
+REST_0692,Spice Express 692,Bommanahalli,Thai,30,4.1,0,12.95896,77.564692
+REST_0693,Golden Grill 693,Koramangala,Thai,30,4.8,1,12.913527,77.564815
+REST_0694,Spice Bites 694,Marathahalli,South Indian,30,3.9,0,12.954442,77.604763
+REST_0695,Tasty Dhaba 695,Rajajinagar,Chinese,20,4.1,0,12.906586,77.534177
+REST_0696,Hungry Express 696,JP Nagar,Chinese,35,3.3,0,13.015374,77.510262
+REST_0697,Urban Grill 697,Banashankari,Fast Food,28,3.4,0,13.034781,77.692087
+REST_0698,Hungry Hub 698,Koramangala,North Indian,22,4.0,0,12.974796,77.661491
+REST_0699,Quick Corner 699,Brigade Road,Italian,26,4.3,0,12.968061,77.588375
+REST_0700,Hungry Kitchen 700,Brigade Road,Italian,25,3.6,0,12.994295,77.664024
+REST_0701,Royal Express 701,Jayanagar,Chinese,9,4.3,0,12.905508,77.670766
+REST_0702,Hungry Hub 702,MG Road,Biryani,10,3.1,0,12.962544,77.53565
+REST_0703,Hungry Dhaba 703,Banashankari,Thai,33,4.1,0,13.044944,77.649867
+REST_0704,Royal Bites 704,Malleshwaram,Fast Food,18,3.7,0,12.956841,77.513533
+REST_0705,Tasty Bites 705,Hebbal,Fast Food,23,3.3,0,13.004193,77.554884
+REST_0706,Green Bowl 706,Bommanahalli,Italian,30,3.4,0,12.908728,77.614273
+REST_0707,Spice Grill 707,Bommanahalli,Thai,33,5.0,0,12.991327,77.563298
+REST_0708,Hungry Dhaba 708,Bommanahalli,Biryani,12,4.2,0,12.97446,77.645837
+REST_0709,Quick Express 709,Sarjapur Road,Thai,15,4.4,0,13.046889,77.500316
+REST_0710,Quick Bites 710,Koramangala,Italian,33,4.2,0,12.962195,77.509098
+REST_0711,Tasty Corner 711,Malleshwaram,North Indian,28,3.4,0,12.942244,77.658039
+REST_0712,Urban Bowl 712,Banashankari,Street Food,18,4.5,0,12.949992,77.57921
+REST_0713,Hungry Kitchen 713,MG Road,Chinese,14,3.7,0,12.950691,77.634495
+REST_0714,Royal Express 714,Sarjapur Road,Continental,12,4.3,0,13.033809,77.607394
+REST_0715,Quick Cafe 715,JP Nagar,North Indian,34,4.0,0,12.984741,77.63564
+REST_0716,Tasty Kitchen 716,Basavanagudi,Italian,26,4.4,0,13.01993,77.677606
+REST_0717,Spice Express 717,Malleshwaram,Fast Food,34,3.1,0,13.047543,77.625302
+REST_0718,Hungry Dhaba 718,Marathahalli,Desserts,13,4.2,0,13.029689,77.650308
+REST_0719,Royal Hub 719,JP Nagar,Desserts,10,4.0,0,12.935646,77.590381
+REST_0720,Fresh Bowl 720,Banashankari,Fast Food,13,3.2,0,13.017742,77.655558
+REST_0721,Quick Bowl 721,HSR Layout,North Indian,33,4.0,0,12.975008,77.538042
+REST_0722,Tasty Hub 722,Sarjapur Road,Biryani,12,4.5,0,13.047341,77.603229
+REST_0723,Fresh Kitchen 723,Electronic City,Continental,20,4.4,0,12.978352,77.500822
+REST_0724,Hungry Bites 724,Indiranagar,Biryani,22,4.8,0,13.014927,77.649111
+REST_0725,Hungry Hub 725,Koramangala,Italian,18,3.4,0,12.942985,77.606455
+REST_0726,Spice Hub 726,Bellandur,Chinese,13,3.5,0,12.902289,77.624589
+REST_0727,Spice Corner 727,Bommanahalli,Street Food,19,4.1,0,12.940658,77.688656
+REST_0728,Hungry Corner 728,Banashankari,Chinese,10,3.6,0,13.033836,77.608115
+REST_0729,Golden Kitchen 729,Indiranagar,Continental,29,3.1,0,12.95754,77.517224
+REST_0730,Golden Dhaba 730,Rajajinagar,Thai,28,4.7,1,12.992447,77.562488
+REST_0731,Tasty Bites 731,Jayanagar,Continental,26,3.3,0,13.021928,77.683938
+REST_0732,Spice Grill 732,Bellandur,Fast Food,29,4.3,0,13.014974,77.594109
+REST_0733,Golden Dhaba 733,BTM Layout,Fast Food,19,3.8,0,13.004942,77.633036
+REST_0734,Quick Grill 734,JP Nagar,North Indian,10,4.0,0,12.952716,77.592248
+REST_0735,Urban Palace 735,Marathahalli,Thai,26,3.3,0,12.91544,77.663511
+REST_0736,Desi Bowl 736,Whitefield,South Indian,33,3.6,0,12.969146,77.618107
+REST_0737,Hungry Corner 737,BTM Layout,Street Food,13,4.9,0,12.951107,77.662783
+REST_0738,Green Cafe 738,MG Road,Thai,33,3.7,0,13.00412,77.534617
+REST_0739,Hungry Grill 739,HSR Layout,South Indian,26,4.2,0,12.948807,77.519531
+REST_0740,Golden Hub 740,Bellandur,Desserts,10,4.2,0,13.002826,77.619281
+REST_0741,Desi Grill 741,Rajajinagar,North Indian,10,3.4,0,12.920838,77.616154
+REST_0742,Golden Express 742,Koramangala,Continental,25,3.6,0,12.992336,77.589432
+REST_0743,Desi Hub 743,Jayanagar,Thai,33,4.8,0,13.0415,77.586945
+REST_0744,Spice Dhaba 744,Malleshwaram,North Indian,27,5.0,0,12.919133,77.558837
+REST_0745,Tasty Kitchen 745,Malleshwaram,North Indian,30,4.1,0,13.046804,77.52194
+REST_0746,Royal Corner 746,Banashankari,Desserts,30,4.2,0,12.993782,77.642355
+REST_0747,Green Cafe 747,Rajajinagar,Street Food,14,4.3,0,12.971231,77.537645
+REST_0748,Desi Cafe 748,Rajajinagar,Chinese,17,5.0,1,12.920142,77.514349
+REST_0749,Golden Grill 749,Koramangala,Desserts,12,3.2,0,12.996336,77.583171
+REST_0750,Hungry Cafe 750,Bellandur,Thai,13,3.9,0,12.963619,77.664014
+REST_0751,Desi Corner 751,Rajajinagar,Chinese,21,4.2,0,12.986691,77.669361
+REST_0752,Tasty Hub 752,BTM Layout,Desserts,25,4.2,0,12.905019,77.507573
+REST_0753,Desi Bites 753,Sarjapur Road,Thai,23,4.9,0,13.009528,77.605282
+REST_0754,Quick Bowl 754,Yelahanka,South Indian,24,4.8,0,12.970868,77.648337
+REST_0755,Tasty Dhaba 755,HSR Layout,Fast Food,27,3.1,0,12.951532,77.655705
+REST_0756,Quick Bowl 756,Sarjapur Road,Continental,26,4.5,0,13.044087,77.659645
+REST_0757,Golden Kitchen 757,Banashankari,Thai,31,3.6,0,13.017753,77.552089
+REST_0758,Hungry Express 758,Sarjapur Road,Thai,9,4.3,0,12.943763,77.647476
+REST_0759,Urban Grill 759,Koramangala,South Indian,12,4.0,0,13.027717,77.55557
+REST_0760,Hungry Hub 760,Electronic City,Fast Food,35,3.5,0,13.011214,77.620764
+REST_0761,Golden Grill 761,MG Road,Biryani,33,3.4,0,13.017379,77.547239
+REST_0762,Tasty Kitchen 762,Marathahalli,Biryani,10,4.9,1,13.023259,77.667523
+REST_0763,Green Corner 763,Hebbal,Continental,31,4.3,0,12.931629,77.646872
+REST_0764,Royal Hub 764,Malleshwaram,South Indian,9,3.3,0,12.959812,77.560273
+REST_0765,Fresh Cafe 765,Basavanagudi,Desserts,23,3.5,0,12.979566,77.586947
+REST_0766,Quick Cafe 766,Banashankari,Biryani,24,4.4,0,12.906153,77.683542
+REST_0767,Green Dhaba 767,Malleshwaram,Fast Food,18,3.5,0,13.020347,77.551069
+REST_0768,Green Grill 768,MG Road,Italian,31,4.3,0,13.015575,77.60399
+REST_0769,Desi Bowl 769,Marathahalli,North Indian,29,3.0,0,12.910193,77.58225
+REST_0770,Spice Grill 770,Bommanahalli,Biryani,15,4.5,0,12.905106,77.623879
+REST_0771,Hungry Corner 771,Indiranagar,Thai,28,3.2,0,13.043669,77.517277
+REST_0772,Golden Cafe 772,Brigade Road,Thai,33,4.9,1,13.004348,77.550667
+REST_0773,Spice Grill 773,Bellandur,Fast Food,32,3.9,0,13.035509,77.653976
+REST_0774,Urban Express 774,JP Nagar,South Indian,16,4.6,0,12.949898,77.512012
+REST_0775,Golden Grill 775,Yelahanka,South Indian,23,5.0,0,12.958895,77.629097
+REST_0776,Golden Bowl 776,Whitefield,Desserts,14,4.2,0,12.915937,77.588316
+REST_0777,Spice Kitchen 777,Yelahanka,South Indian,10,4.1,0,12.937589,77.589176
+REST_0778,Golden Kitchen 778,Sarjapur Road,North Indian,29,3.8,0,12.922741,77.565966
+REST_0779,Hungry Kitchen 779,Rajajinagar,Street Food,30,4.9,0,12.965409,77.66881
+REST_0780,Tasty Corner 780,HSR Layout,North Indian,20,4.9,1,12.97231,77.613449
+REST_0781,Desi Hub 781,Malleshwaram,Desserts,9,4.3,0,13.043824,77.518133
+REST_0782,Desi Bites 782,Basavanagudi,Continental,32,4.5,1,12.926493,77.507866
+REST_0783,Fresh Hub 783,Rajajinagar,Desserts,11,4.3,0,12.953889,77.516972
+REST_0784,Fresh Express 784,Bellandur,North Indian,14,3.1,0,13.049458,77.547697
+REST_0785,Spice Bowl 785,Rajajinagar,Fast Food,23,4.1,0,13.025138,77.589861
+REST_0786,Royal Palace 786,Koramangala,North Indian,18,4.6,0,12.917728,77.661421
+REST_0787,Quick Bowl 787,Bommanahalli,Chinese,31,4.2,0,13.038722,77.507376
+REST_0788,Quick Kitchen 788,Electronic City,Continental,27,3.1,0,13.005195,77.526108
+REST_0789,Royal Hub 789,Marathahalli,South Indian,22,4.2,0,13.025303,77.512792
+REST_0790,Spice Grill 790,Whitefield,Thai,33,4.2,0,12.909467,77.540528
+REST_0791,Green Palace 791,JP Nagar,South Indian,29,4.2,0,12.920599,77.667285
+REST_0792,Royal Dhaba 792,Jayanagar,Chinese,18,3.1,0,12.941084,77.65151
+REST_0793,Desi Bowl 793,Marathahalli,Chinese,22,3.5,0,12.987298,77.526674
+REST_0794,Green Express 794,Brigade Road,North Indian,23,3.2,0,12.901084,77.685227
+REST_0795,Urban Cafe 795,MG Road,Continental,30,3.3,0,12.921463,77.55419
+REST_0796,Green Corner 796,Bellandur,Chinese,27,4.4,0,12.989441,77.64344
+REST_0797,Spice Hub 797,Brigade Road,Biryani,21,3.0,0,12.935346,77.523502
+REST_0798,Spice Dhaba 798,Bommanahalli,Biryani,35,4.5,1,12.932891,77.654066
+REST_0799,Urban Kitchen 799,Jayanagar,Italian,11,4.6,1,13.045286,77.594883
+REST_0800,Golden Kitchen 800,Marathahalli,North Indian,28,3.7,0,12.931438,77.550276
+REST_0801,Quick Kitchen 801,Brigade Road,South Indian,31,3.1,0,12.980604,77.531609
+REST_0802,Quick Bowl 802,Koramangala,South Indian,10,4.8,1,12.988906,77.565194
+REST_0803,Desi Corner 803,Jayanagar,South Indian,18,3.5,0,12.935568,77.582519
+REST_0804,Green Corner 804,Jayanagar,South Indian,23,4.2,0,12.908151,77.587173
+REST_0805,Hungry Grill 805,Jayanagar,Chinese,20,3.7,0,12.968661,77.538831
+REST_0806,Urban Corner 806,Malleshwaram,Biryani,12,3.1,0,12.9853,77.556121
+REST_0807,Quick Grill 807,Whitefield,Desserts,13,4.5,0,12.944274,77.531358
+REST_0808,Golden Dhaba 808,Brigade Road,Street Food,35,3.5,0,12.961754,77.604354
+REST_0809,Hungry Grill 809,Jayanagar,Continental,16,3.0,0,12.964217,77.67452
+REST_0810,Desi Cafe 810,BTM Layout,Thai,15,4.8,1,12.922345,77.61474
+REST_0811,Green Kitchen 811,Koramangala,North Indian,23,4.5,1,12.963855,77.578864
+REST_0812,Quick Grill 812,Whitefield,Italian,10,4.1,0,12.901863,77.646357
+REST_0813,Golden Palace 813,Jayanagar,Fast Food,15,4.3,0,12.913609,77.595957
+REST_0814,Golden Grill 814,Banashankari,Thai,31,4.2,0,13.046463,77.592752
+REST_0815,Green Express 815,Electronic City,Biryani,28,3.9,0,12.99501,77.672077
+REST_0816,Green Palace 816,HSR Layout,Street Food,9,3.6,0,13.012933,77.639611
+REST_0817,Tasty Dhaba 817,Brigade Road,Italian,33,4.4,0,12.993068,77.567139
+REST_0818,Tasty Palace 818,Indiranagar,North Indian,11,3.8,0,12.969803,77.508175
+REST_0819,Golden Bowl 819,Malleshwaram,South Indian,25,4.4,0,12.930707,77.69625
+REST_0820,Tasty Bites 820,BTM Layout,Continental,31,4.9,1,13.043866,77.541959
+REST_0821,Desi Palace 821,BTM Layout,Fast Food,24,4.4,0,12.941572,77.512674
+REST_0822,Quick Grill 822,Malleshwaram,Street Food,24,4.7,0,12.979786,77.665076
+REST_0823,Quick Dhaba 823,Banashankari,Biryani,33,4.3,0,13.003983,77.695617
+REST_0824,Fresh Grill 824,HSR Layout,South Indian,10,3.8,0,12.926822,77.691651
+REST_0825,Spice Express 825,HSR Layout,Fast Food,11,4.4,0,12.974449,77.674999
+REST_0826,Royal Hub 826,Bommanahalli,Desserts,29,4.1,0,12.919804,77.56934
+REST_0827,Royal Hub 827,Bellandur,Italian,10,3.0,0,13.020298,77.66699
+REST_0828,Desi Cafe 828,Bommanahalli,Thai,18,4.3,0,13.018024,77.59723
+REST_0829,Tasty Grill 829,Bommanahalli,Continental,17,4.1,0,13.034742,77.561299
+REST_0830,Fresh Grill 830,Yelahanka,Biryani,17,4.5,0,12.952968,77.591185
+REST_0831,Hungry Express 831,Marathahalli,Street Food,17,3.4,0,12.926304,77.641622
+REST_0832,Golden Corner 832,Electronic City,South Indian,9,5.0,1,12.966133,77.573934
+REST_0833,Tasty Kitchen 833,Jayanagar,Biryani,19,3.3,0,12.967264,77.695093
+REST_0834,Urban Bites 834,Basavanagudi,North Indian,20,4.9,1,13.042168,77.685562
+REST_0835,Royal Bowl 835,Electronic City,Street Food,18,4.3,0,12.944334,77.679195
+REST_0836,Golden Dhaba 836,MG Road,Continental,18,4.4,0,13.009746,77.680035
+REST_0837,Tasty Bites 837,Electronic City,Fast Food,8,3.8,0,13.026132,77.589195
+REST_0838,Desi Kitchen 838,HSR Layout,Thai,28,3.4,0,12.978965,77.656257
+REST_0839,Fresh Kitchen 839,Yelahanka,South Indian,25,4.7,1,13.043644,77.695168
+REST_0840,Fresh Grill 840,Rajajinagar,Biryani,27,4.2,0,13.04151,77.681689
+REST_0841,Green Express 841,Malleshwaram,Desserts,19,3.8,0,12.901829,77.568984
+REST_0842,Quick Bowl 842,Banashankari,South Indian,14,4.5,0,13.04889,77.660737
+REST_0843,Golden Cafe 843,Banashankari,Desserts,12,4.7,1,12.921546,77.560646
+REST_0844,Desi Bites 844,Bommanahalli,Thai,32,3.8,0,12.900993,77.627761
+REST_0845,Green Express 845,Yelahanka,Street Food,22,4.4,0,13.013287,77.527385
+REST_0846,Green Hub 846,Marathahalli,Street Food,23,3.1,0,13.023937,77.666917
+REST_0847,Quick Bowl 847,Banashankari,Continental,15,3.1,0,12.900367,77.552535
+REST_0848,Spice Hub 848,Sarjapur Road,Desserts,13,4.0,0,13.003176,77.54895
+REST_0849,Urban Grill 849,Whitefield,South Indian,27,4.5,1,12.984836,77.673669
+REST_0850,Spice Palace 850,Sarjapur Road,Street Food,31,4.2,0,13.026792,77.532569
+REST_0851,Golden Palace 851,Indiranagar,Continental,30,3.3,0,12.924496,77.554534
+REST_0852,Desi Kitchen 852,Hebbal,Fast Food,17,4.1,0,13.040448,77.602773
+REST_0853,Spice Dhaba 853,Marathahalli,Chinese,25,3.6,0,12.947432,77.668999
+REST_0854,Urban Palace 854,Banashankari,South Indian,25,4.2,0,13.023497,77.50258
+REST_0855,Urban Palace 855,Bommanahalli,Continental,21,3.7,0,13.036618,77.520484
+REST_0856,Tasty Corner 856,Electronic City,Italian,33,4.8,1,13.024712,77.605131
+REST_0857,Tasty Bites 857,Basavanagudi,Desserts,22,4.8,0,12.919685,77.503476
+REST_0858,Urban Palace 858,Malleshwaram,Chinese,34,3.9,0,13.048137,77.604624
+REST_0859,Golden Hub 859,JP Nagar,North Indian,31,4.6,0,13.028522,77.528472
+REST_0860,Urban Express 860,BTM Layout,Italian,12,5.0,0,13.014454,77.522344
+REST_0861,Quick Cafe 861,Koramangala,North Indian,14,3.2,0,13.018958,77.602696
+REST_0862,Quick Bites 862,Indiranagar,Fast Food,9,3.1,0,13.000138,77.65091
+REST_0863,Hungry Corner 863,Whitefield,Thai,14,3.4,0,12.95273,77.518156
+REST_0864,Hungry Palace 864,Yelahanka,Biryani,13,4.7,1,12.991943,77.600982
+REST_0865,Spice Dhaba 865,HSR Layout,North Indian,24,3.4,0,12.928732,77.556371
+REST_0866,Royal Bites 866,Basavanagudi,Italian,24,4.7,0,13.00472,77.537025
+REST_0867,Golden Palace 867,Whitefield,Desserts,21,3.4,0,12.934133,77.522569
+REST_0868,Spice Grill 868,JP Nagar,South Indian,24,3.3,0,13.014341,77.640946
+REST_0869,Royal Bites 869,Basavanagudi,Biryani,23,3.2,0,12.942542,77.620078
+REST_0870,Quick Corner 870,Banashankari,Street Food,21,3.6,0,13.028305,77.537757
+REST_0871,Quick Palace 871,HSR Layout,Chinese,8,5.0,0,12.915776,77.587612
+REST_0872,Spice Express 872,HSR Layout,Desserts,20,4.4,0,13.046636,77.648286
+REST_0873,Spice Palace 873,Marathahalli,Italian,18,3.4,0,13.026604,77.580858
+REST_0874,Green Grill 874,BTM Layout,Fast Food,32,4.4,0,12.987288,77.554595
+REST_0875,Desi Grill 875,Rajajinagar,Thai,20,5.0,1,12.922106,77.590927
+REST_0876,Urban Grill 876,Whitefield,Continental,15,4.3,0,12.920191,77.519921
+REST_0877,Spice Grill 877,Indiranagar,North Indian,13,3.8,0,13.001881,77.530547
+REST_0878,Hungry Bites 878,Brigade Road,South Indian,29,4.5,1,13.01891,77.540386
+REST_0879,Quick Bowl 879,Sarjapur Road,Fast Food,25,3.7,0,13.028951,77.609324
+REST_0880,Green Bites 880,Indiranagar,Desserts,22,3.6,0,12.95645,77.591931
+REST_0881,Golden Bowl 881,Indiranagar,Fast Food,30,3.3,0,12.964602,77.562492
+REST_0882,Quick Bites 882,Rajajinagar,Thai,29,4.0,0,12.983068,77.607878
+REST_0883,Quick Bowl 883,Sarjapur Road,Chinese,24,3.1,0,12.939509,77.618209
+REST_0884,Hungry Palace 884,Rajajinagar,Fast Food,18,3.1,0,12.98857,77.52564
+REST_0885,Desi Dhaba 885,Malleshwaram,North Indian,32,4.8,0,12.914603,77.569029
+REST_0886,Green Palace 886,Malleshwaram,North Indian,29,3.5,0,12.935193,77.56242
+REST_0887,Spice Hub 887,HSR Layout,South Indian,18,3.3,0,12.980763,77.507476
+REST_0888,Hungry Bowl 888,Hebbal,Desserts,16,3.0,0,12.970455,77.504447
+REST_0889,Green Dhaba 889,JP Nagar,Desserts,18,4.1,0,13.021249,77.520011
+REST_0890,Desi Grill 890,Jayanagar,Street Food,33,4.5,0,12.992224,77.572667
+REST_0891,Fresh Grill 891,Hebbal,South Indian,34,4.7,0,12.939773,77.559464
+REST_0892,Green Corner 892,MG Road,Thai,31,4.9,1,12.986729,77.618373
+REST_0893,Spice Dhaba 893,Yelahanka,Street Food,23,3.9,0,12.952097,77.515332
+REST_0894,Tasty Hub 894,Banashankari,Desserts,29,4.1,0,12.930012,77.58046
+REST_0895,Tasty Grill 895,Brigade Road,Street Food,13,4.8,1,12.977434,77.537308
+REST_0896,Fresh Grill 896,Sarjapur Road,Fast Food,28,4.1,0,12.992163,77.653824
+REST_0897,Hungry Kitchen 897,Hebbal,Street Food,14,3.7,0,12.922162,77.530095
+REST_0898,Green Cafe 898,Banashankari,Biryani,35,4.7,0,12.930534,77.582488
+REST_0899,Golden Hub 899,Banashankari,Thai,15,3.8,0,12.917034,77.538383
+REST_0900,Urban Grill 900,BTM Layout,Continental,25,5.0,0,13.035848,77.540398
+REST_0901,Golden Kitchen 901,Yelahanka,Fast Food,33,4.6,1,12.926398,77.670504
+REST_0902,Royal Kitchen 902,Sarjapur Road,South Indian,18,4.2,0,13.030076,77.680115
+REST_0903,Desi Bites 903,Hebbal,Desserts,34,4.4,0,12.921084,77.522386
+REST_0904,Spice Bowl 904,Bommanahalli,Thai,32,4.9,0,13.032685,77.547615
+REST_0905,Desi Palace 905,Whitefield,Thai,31,3.8,0,13.012256,77.547188
+REST_0906,Fresh Express 906,Hebbal,South Indian,13,3.4,0,12.941182,77.581675
+REST_0907,Royal Grill 907,MG Road,Street Food,19,4.4,0,12.916944,77.609149
+REST_0908,Fresh Hub 908,Sarjapur Road,Chinese,19,4.0,0,12.955161,77.561634
+REST_0909,Royal Kitchen 909,Brigade Road,Italian,16,4.1,0,12.94639,77.691697
+REST_0910,Spice Bowl 910,Malleshwaram,Italian,35,3.9,0,12.90118,77.69215
+REST_0911,Urban Bites 911,Yelahanka,Italian,17,3.4,0,13.033537,77.683178
+REST_0912,Green Kitchen 912,JP Nagar,Fast Food,35,3.2,0,13.016919,77.598338
+REST_0913,Desi Cafe 913,Hebbal,South Indian,34,3.3,0,12.939146,77.513273
+REST_0914,Hungry Bowl 914,Hebbal,Biryani,22,4.4,0,13.014296,77.628275
+REST_0915,Quick Express 915,Marathahalli,North Indian,20,3.4,0,12.945832,77.615162
+REST_0916,Golden Corner 916,Whitefield,Street Food,30,4.9,1,13.014474,77.669392
+REST_0917,Desi Grill 917,Hebbal,Continental,35,4.5,0,13.00312,77.665354
+REST_0918,Fresh Bites 918,Banashankari,Desserts,19,3.4,0,13.031459,77.688951
+REST_0919,Fresh Kitchen 919,MG Road,North Indian,25,4.3,0,12.993994,77.681369
+REST_0920,Fresh Hub 920,Bellandur,Chinese,9,3.8,0,12.964336,77.552032
+REST_0921,Desi Express 921,HSR Layout,Thai,11,3.0,0,12.978876,77.654672
+REST_0922,Quick Bites 922,Bellandur,Italian,30,3.4,0,13.041908,77.662682
+REST_0923,Urban Grill 923,Yelahanka,Desserts,12,3.9,0,12.930991,77.543113
+REST_0924,Fresh Cafe 924,Banashankari,Chinese,21,4.6,0,13.046419,77.547097
+REST_0925,Fresh Palace 925,Bellandur,Thai,29,4.3,0,12.912861,77.593776
+REST_0926,Green Corner 926,JP Nagar,Desserts,30,3.8,0,12.989579,77.514611
+REST_0927,Royal Kitchen 927,Basavanagudi,Biryani,15,3.9,0,12.953145,77.621275
+REST_0928,Royal Kitchen 928,Brigade Road,Fast Food,24,4.2,0,12.945376,77.578939
+REST_0929,Golden Bowl 929,Malleshwaram,North Indian,26,3.4,0,12.92548,77.598568
+REST_0930,Quick Express 930,JP Nagar,South Indian,18,4.4,0,12.964939,77.552081
+REST_0931,Royal Express 931,JP Nagar,Continental,35,4.9,0,12.954089,77.586017
+REST_0932,Hungry Hub 932,Yelahanka,Street Food,18,3.9,0,12.924748,77.647374
+REST_0933,Golden Bowl 933,Sarjapur Road,Continental,9,3.4,0,12.908185,77.536628
+REST_0934,Urban Express 934,Sarjapur Road,Continental,21,3.2,0,13.034276,77.598982
+REST_0935,Desi Bowl 935,Bellandur,Continental,22,4.0,0,13.026876,77.673376
+REST_0936,Desi Bites 936,Whitefield,Italian,35,3.6,0,13.025243,77.649987
+REST_0937,Hungry Dhaba 937,Yelahanka,Italian,26,5.0,0,13.015027,77.536114
+REST_0938,Fresh Grill 938,HSR Layout,South Indian,18,3.1,0,13.002197,77.636128
+REST_0939,Desi Dhaba 939,Rajajinagar,South Indian,34,3.6,0,12.904331,77.592047
+REST_0940,Quick Hub 940,Sarjapur Road,Thai,29,3.0,0,13.045466,77.631235
+REST_0941,Desi Dhaba 941,Bellandur,Chinese,14,4.7,1,12.942443,77.659629
+REST_0942,Tasty Dhaba 942,HSR Layout,Desserts,10,3.8,0,12.926702,77.69301
+REST_0943,Spice Kitchen 943,Rajajinagar,Italian,13,3.8,0,12.960359,77.629434
+REST_0944,Spice Hub 944,Electronic City,Continental,33,3.9,0,13.020953,77.56202
+REST_0945,Golden Palace 945,Brigade Road,South Indian,34,3.7,0,12.929981,77.589088
+REST_0946,Quick Hub 946,Rajajinagar,Thai,27,3.8,0,13.013474,77.662199
+REST_0947,Golden Cafe 947,Brigade Road,Desserts,10,3.1,0,12.951262,77.592705
+REST_0948,Golden Grill 948,BTM Layout,Street Food,28,4.3,0,12.912596,77.593644
+REST_0949,Quick Hub 949,HSR Layout,Chinese,12,4.4,0,12.945061,77.549731
+REST_0950,Urban Dhaba 950,Hebbal,North Indian,25,3.2,0,12.906764,77.521526
+REST_0951,Green Bites 951,Hebbal,Continental,29,4.4,0,13.021924,77.571092
+REST_0952,Spice Bowl 952,MG Road,North Indian,11,4.5,0,13.017927,77.668582
+REST_0953,Spice Cafe 953,Indiranagar,Fast Food,18,4.2,0,12.96825,77.634052
+REST_0954,Urban Palace 954,Brigade Road,Chinese,14,3.4,0,13.012054,77.620811
+REST_0955,Green Bowl 955,Whitefield,North Indian,8,3.8,0,12.901996,77.63116
+REST_0956,Green Dhaba 956,Bellandur,Continental,17,4.2,0,13.046088,77.572146
+REST_0957,Urban Bites 957,Rajajinagar,Chinese,12,3.0,0,12.916787,77.503177
+REST_0958,Royal Corner 958,Jayanagar,Continental,28,3.3,0,12.936267,77.668418
+REST_0959,Fresh Bites 959,Basavanagudi,Fast Food,32,3.9,0,12.971098,77.504363
+REST_0960,Golden Grill 960,Marathahalli,Continental,23,3.0,0,12.967427,77.548526
+REST_0961,Hungry Cafe 961,Banashankari,North Indian,18,3.0,0,12.994561,77.642619
+REST_0962,Quick Dhaba 962,Hebbal,Thai,31,4.1,0,12.943616,77.597499
+REST_0963,Tasty Dhaba 963,Sarjapur Road,Thai,29,4.8,1,12.934786,77.512141
+REST_0964,Green Dhaba 964,Koramangala,Biryani,25,3.1,0,13.033932,77.583427
+REST_0965,Spice Grill 965,Sarjapur Road,Thai,28,3.7,0,13.004627,77.504161
+REST_0966,Fresh Grill 966,Banashankari,Biryani,22,3.5,0,12.932955,77.681814
+REST_0967,Hungry Grill 967,JP Nagar,Chinese,17,4.4,0,12.958556,77.583372
+REST_0968,Quick Express 968,Malleshwaram,Thai,14,3.6,0,13.012388,77.633411
+REST_0969,Golden Corner 969,Electronic City,Chinese,27,4.0,0,13.019022,77.688611
+REST_0970,Urban Corner 970,Sarjapur Road,Italian,25,3.1,0,12.90272,77.676181
+REST_0971,Golden Express 971,Malleshwaram,Street Food,9,4.6,0,12.917095,77.545338
+REST_0972,Fresh Grill 972,Basavanagudi,Fast Food,18,4.6,1,13.015514,77.611404
+REST_0973,Tasty Dhaba 973,Electronic City,South Indian,30,3.1,0,13.04194,77.659797
+REST_0974,Spice Dhaba 974,Whitefield,Thai,33,4.7,0,12.984371,77.601461
+REST_0975,Spice Corner 975,Marathahalli,Biryani,13,4.5,1,13.014295,77.599678
+REST_0976,Golden Palace 976,Whitefield,Biryani,34,3.3,0,13.027289,77.587822
+REST_0977,Royal Corner 977,Hebbal,Continental,18,3.6,0,12.925689,77.553203
+REST_0978,Desi Corner 978,Hebbal,Chinese,32,4.5,0,12.934227,77.660354
+REST_0979,Green Grill 979,Hebbal,Street Food,33,4.4,0,13.041561,77.588516
+REST_0980,Tasty Bites 980,Koramangala,South Indian,18,3.6,0,13.047292,77.532865
+REST_0981,Green Kitchen 981,Indiranagar,Chinese,26,3.1,0,12.994741,77.642674
+REST_0982,Urban Cafe 982,Bommanahalli,Desserts,29,4.4,0,13.031032,77.64431
+REST_0983,Desi Kitchen 983,JP Nagar,Fast Food,24,4.2,0,12.922029,77.580788
+REST_0984,Tasty Dhaba 984,Jayanagar,Thai,28,3.9,0,12.951788,77.662366
+REST_0985,Fresh Hub 985,Rajajinagar,South Indian,9,4.1,0,12.958499,77.643776
+REST_0986,Tasty Bowl 986,Electronic City,Fast Food,14,3.2,0,12.982768,77.604267
+REST_0987,Royal Kitchen 987,Marathahalli,Street Food,26,3.5,0,13.024834,77.560788
+REST_0988,Tasty Bites 988,Hebbal,North Indian,34,3.7,0,12.994048,77.570895
+REST_0989,Spice Grill 989,Indiranagar,Fast Food,26,4.5,0,13.047443,77.661078
+REST_0990,Hungry Bowl 990,MG Road,Thai,15,3.7,0,12.94268,77.656958
+REST_0991,Golden Cafe 991,MG Road,Street Food,31,3.5,0,12.949177,77.616474
+REST_0992,Quick Bites 992,Malleshwaram,Chinese,30,3.9,0,12.961808,77.51845
+REST_0993,Golden Grill 993,Hebbal,Italian,22,3.2,0,13.001523,77.580551
+REST_0994,Tasty Cafe 994,Basavanagudi,Fast Food,26,4.0,0,12.963513,77.588016
+REST_0995,Green Express 995,Sarjapur Road,Chinese,24,3.3,0,13.006673,77.525877
+REST_0996,Tasty Bites 996,Bommanahalli,Italian,22,3.9,0,13.011974,77.688814
+REST_0997,Spice Dhaba 997,Malleshwaram,Desserts,11,3.2,0,12.985765,77.508056
+REST_0998,Spice Palace 998,Electronic City,Fast Food,19,3.6,0,12.972889,77.658241
+REST_0999,Hungry Cafe 999,Electronic City,North Indian,17,4.8,0,13.022869,77.597759
+REST_1000,Tasty Palace 1000,Whitefield,South Indian,35,3.1,0,12.972176,77.56194
+REST_1001,Desi Cafe 1001,Bellandur,Continental,34,4.4,0,12.990856,77.65239
+REST_1002,Quick Grill 1002,Bommanahalli,Continental,12,4.7,0,13.019972,77.6329
+REST_1003,Green Corner 1003,Hebbal,Desserts,18,4.1,0,13.043712,77.678009
+REST_1004,Spice Express 1004,Yelahanka,North Indian,26,4.3,0,13.015739,77.56177
+REST_1005,Tasty Bites 1005,Whitefield,Italian,27,4.1,0,13.013642,77.691459
+REST_1006,Fresh Grill 1006,Bommanahalli,Street Food,8,3.2,0,13.040427,77.535949
+REST_1007,Urban Corner 1007,Koramangala,Italian,34,4.4,0,13.033148,77.588846
+REST_1008,Hungry Palace 1008,Basavanagudi,Desserts,26,3.1,0,13.029296,77.504653
+REST_1009,Golden Cafe 1009,Hebbal,North Indian,35,4.1,0,12.957302,77.518205
+REST_1010,Tasty Express 1010,Whitefield,Fast Food,12,3.4,0,13.015246,77.530845
+REST_1011,Golden Kitchen 1011,Hebbal,Thai,18,3.4,0,13.006995,77.559605
+REST_1012,Desi Express 1012,Whitefield,Desserts,18,3.5,0,13.041237,77.6799
+REST_1013,Fresh Corner 1013,Indiranagar,Thai,26,3.5,0,12.976293,77.600884
+REST_1014,Urban Kitchen 1014,Whitefield,Biryani,22,4.1,0,12.909819,77.505781
+REST_1015,Royal Hub 1015,BTM Layout,Street Food,26,4.4,0,12.936947,77.610941
+REST_1016,Urban Dhaba 1016,Electronic City,Desserts,22,3.2,0,12.99537,77.540691
+REST_1017,Desi Bowl 1017,Electronic City,Chinese,33,3.5,0,13.042892,77.69227
+REST_1018,Quick Kitchen 1018,Basavanagudi,North Indian,34,3.9,0,13.024406,77.55785
+REST_1019,Royal Kitchen 1019,Marathahalli,Continental,16,4.2,0,13.025923,77.576031
+REST_1020,Fresh Dhaba 1020,Malleshwaram,Street Food,17,3.1,0,13.010877,77.612616
+REST_1021,Spice Cafe 1021,Banashankari,South Indian,34,3.3,0,12.983472,77.555892
+REST_1022,Fresh Dhaba 1022,Hebbal,Street Food,33,3.6,0,13.002315,77.568527
+REST_1023,Quick Hub 1023,Yelahanka,Italian,29,5.0,0,12.96897,77.619903
+REST_1024,Golden Kitchen 1024,Koramangala,Thai,23,3.0,0,12.901437,77.534707
+REST_1025,Quick Cafe 1025,Basavanagudi,Street Food,10,4.6,1,12.911628,77.50619
+REST_1026,Spice Palace 1026,Bellandur,Desserts,34,4.2,0,12.958013,77.667829
+REST_1027,Spice Grill 1027,Koramangala,Biryani,14,3.9,0,12.933228,77.503956
+REST_1028,Desi Corner 1028,Yelahanka,South Indian,34,4.2,0,12.945477,77.643562
+REST_1029,Quick Palace 1029,BTM Layout,North Indian,16,4.0,0,13.005607,77.621205
+REST_1030,Fresh Cafe 1030,Koramangala,South Indian,35,3.6,0,12.975049,77.534095
+REST_1031,Hungry Dhaba 1031,Jayanagar,Thai,13,3.1,0,12.919237,77.51301
+REST_1032,Hungry Corner 1032,Yelahanka,Street Food,31,4.6,0,13.001697,77.69839
+REST_1033,Hungry Hub 1033,Basavanagudi,Street Food,22,3.0,0,12.964067,77.63462
+REST_1034,Desi Cafe 1034,Indiranagar,Desserts,16,3.2,0,12.977744,77.599115
+REST_1035,Royal Corner 1035,Bommanahalli,North Indian,16,4.8,1,12.947436,77.578372
+REST_1036,Spice Dhaba 1036,JP Nagar,North Indian,31,3.5,0,13.003432,77.691555
+REST_1037,Fresh Express 1037,BTM Layout,Biryani,17,3.1,0,12.993794,77.505575
+REST_1038,Royal Dhaba 1038,Hebbal,Biryani,34,3.5,0,12.916176,77.547672
+REST_1039,Royal Palace 1039,JP Nagar,Street Food,33,3.5,0,12.910937,77.619993
+REST_1040,Spice Grill 1040,Bellandur,Thai,11,3.2,0,12.909103,77.506669
+REST_1041,Spice Express 1041,JP Nagar,North Indian,33,3.9,0,12.945221,77.625237
+REST_1042,Spice Kitchen 1042,HSR Layout,Street Food,9,3.6,0,12.957218,77.519166
+REST_1043,Fresh Dhaba 1043,Hebbal,Thai,8,3.9,0,12.969631,77.585621
+REST_1044,Hungry Bites 1044,Brigade Road,Biryani,28,4.9,1,12.968112,77.565639
+REST_1045,Spice Bites 1045,Jayanagar,North Indian,27,4.4,0,12.988933,77.668156
+REST_1046,Golden Bowl 1046,MG Road,Fast Food,19,3.8,0,13.008693,77.588925
+REST_1047,Golden Kitchen 1047,BTM Layout,North Indian,12,3.6,0,12.965377,77.691948
+REST_1048,Urban Dhaba 1048,Malleshwaram,Street Food,32,3.3,0,12.970429,77.620666
+REST_1049,Desi Kitchen 1049,Banashankari,Street Food,26,4.3,0,12.92169,77.547477
+REST_1050,Royal Cafe 1050,Basavanagudi,Biryani,14,5.0,1,12.930189,77.513681
+REST_1051,Quick Grill 1051,Jayanagar,Thai,30,3.7,0,12.986762,77.692613
+REST_1052,Urban Cafe 1052,Brigade Road,Biryani,13,3.2,0,13.031416,77.682109
+REST_1053,Fresh Kitchen 1053,Sarjapur Road,Italian,30,3.5,0,12.993588,77.547804
+REST_1054,Green Corner 1054,JP Nagar,Desserts,13,4.7,0,12.901484,77.571577
+REST_1055,Spice Express 1055,Basavanagudi,Fast Food,22,3.4,0,12.987853,77.653107
+REST_1056,Royal Corner 1056,Indiranagar,Italian,17,3.3,0,13.032807,77.643767
+REST_1057,Tasty Corner 1057,JP Nagar,Chinese,14,3.0,0,13.026432,77.68213
+REST_1058,Golden Cafe 1058,Koramangala,South Indian,18,4.9,0,12.936022,77.661898
+REST_1059,Tasty Dhaba 1059,Marathahalli,Desserts,30,3.1,0,12.921665,77.684831
+REST_1060,Fresh Bowl 1060,Jayanagar,Desserts,30,3.7,0,12.989932,77.695396
+REST_1061,Royal Dhaba 1061,BTM Layout,Thai,14,4.7,0,12.922285,77.549434
+REST_1062,Golden Bowl 1062,Yelahanka,Thai,23,3.4,0,12.912211,77.594133
+REST_1063,Spice Express 1063,Brigade Road,Street Food,20,4.5,1,12.976374,77.599718
+REST_1064,Golden Palace 1064,Bellandur,Biryani,24,4.4,0,13.007347,77.598958
+REST_1065,Hungry Cafe 1065,Yelahanka,Thai,28,3.1,0,12.932929,77.5406
+REST_1066,Green Corner 1066,BTM Layout,Fast Food,21,4.8,1,13.040325,77.574821
+REST_1067,Spice Express 1067,Basavanagudi,South Indian,17,3.9,0,12.952736,77.616792
+REST_1068,Tasty Dhaba 1068,Bellandur,Biryani,21,3.9,0,12.964876,77.573502
+REST_1069,Desi Hub 1069,Sarjapur Road,Desserts,8,3.4,0,12.935069,77.629071
+REST_1070,Spice Hub 1070,Malleshwaram,Street Food,24,4.1,0,12.911724,77.555285
+REST_1071,Spice Bites 1071,BTM Layout,South Indian,19,3.1,0,12.930046,77.539329
+REST_1072,Urban Hub 1072,JP Nagar,Fast Food,14,4.4,0,13.049699,77.699681
+REST_1073,Urban Kitchen 1073,Basavanagudi,Fast Food,17,4.6,1,12.960572,77.581152
+REST_1074,Royal Grill 1074,MG Road,Street Food,32,4.9,1,12.934137,77.644667
+REST_1075,Quick Corner 1075,Jayanagar,Street Food,26,4.6,1,13.008377,77.59228
+REST_1076,Desi Corner 1076,HSR Layout,Desserts,32,4.9,0,12.965802,77.670589
+REST_1077,Desi Express 1077,Koramangala,Thai,35,3.3,0,13.041503,77.501936
+REST_1078,Desi Corner 1078,Malleshwaram,Desserts,21,4.4,0,12.960505,77.655729
+REST_1079,Urban Palace 1079,Basavanagudi,Thai,8,4.1,0,12.904831,77.527827
+REST_1080,Hungry Dhaba 1080,JP Nagar,Thai,26,4.7,1,12.930631,77.578127
+REST_1081,Green Corner 1081,Basavanagudi,Continental,11,3.7,0,13.044291,77.627801
+REST_1082,Spice Express 1082,Banashankari,South Indian,29,4.1,0,12.904809,77.637805
+REST_1083,Royal Express 1083,Sarjapur Road,Italian,10,4.8,0,12.930884,77.558221
+REST_1084,Spice Grill 1084,Bommanahalli,North Indian,19,4.0,0,12.925774,77.671941
+REST_1085,Green Express 1085,Hebbal,South Indian,12,4.1,0,12.971738,77.513753
+REST_1086,Golden Corner 1086,Jayanagar,Fast Food,21,4.6,1,12.923817,77.615018
+REST_1087,Hungry Corner 1087,Banashankari,Street Food,30,4.4,0,12.941316,77.501489
+REST_1088,Quick Bites 1088,Electronic City,Desserts,27,4.6,1,13.036545,77.675848
+REST_1089,Quick Dhaba 1089,Bellandur,North Indian,31,3.2,0,12.996945,77.683779
+REST_1090,Urban Cafe 1090,Malleshwaram,Thai,34,4.6,0,12.93737,77.679993
+REST_1091,Quick Cafe 1091,Hebbal,Chinese,30,4.1,0,12.959033,77.689137
+REST_1092,Golden Hub 1092,BTM Layout,Street Food,17,4.3,0,12.910012,77.645308
+REST_1093,Quick Cafe 1093,Jayanagar,Street Food,11,5.0,0,12.915784,77.653308
+REST_1094,Green Grill 1094,JP Nagar,Chinese,16,3.4,0,12.906695,77.505344
+REST_1095,Green Palace 1095,Bellandur,Desserts,35,3.4,0,12.905666,77.550121
+REST_1096,Desi Grill 1096,Electronic City,Continental,22,3.1,0,12.982264,77.548459
+REST_1097,Golden Grill 1097,Bellandur,Fast Food,34,3.3,0,13.025774,77.621398
+REST_1098,Urban Bites 1098,Marathahalli,Street Food,31,3.8,0,12.911638,77.652718
+REST_1099,Golden Grill 1099,Yelahanka,Biryani,13,3.4,0,12.905167,77.635009
+REST_1100,Quick Kitchen 1100,Jayanagar,Street Food,28,4.3,0,12.999006,77.520559
+REST_1101,Quick Kitchen 1101,Banashankari,Thai,8,3.1,0,12.956609,77.540348
+REST_1102,Desi Corner 1102,BTM Layout,Italian,10,3.0,0,12.904192,77.502912
+REST_1103,Spice Corner 1103,Jayanagar,South Indian,33,4.7,1,13.008602,77.508803
+REST_1104,Spice Palace 1104,Bommanahalli,Biryani,25,4.3,0,12.993701,77.686865
+REST_1105,Green Bites 1105,Rajajinagar,Italian,14,3.2,0,12.948505,77.502999
+REST_1106,Royal Cafe 1106,JP Nagar,Italian,22,3.4,0,12.998694,77.555692
+REST_1107,Desi Kitchen 1107,Brigade Road,South Indian,14,3.8,0,13.015132,77.599915
+REST_1108,Tasty Dhaba 1108,Whitefield,Chinese,16,4.9,1,13.047212,77.639263
+REST_1109,Desi Express 1109,Electronic City,Biryani,35,4.3,0,12.910127,77.50353
+REST_1110,Quick Cafe 1110,MG Road,Street Food,28,4.5,1,13.005694,77.502658
+REST_1111,Hungry Bites 1111,Koramangala,Fast Food,15,4.5,1,12.992965,77.511985
+REST_1112,Quick Hub 1112,Malleshwaram,Italian,12,3.8,0,12.996306,77.547613
+REST_1113,Quick Palace 1113,Brigade Road,Chinese,16,3.6,0,13.018046,77.507921
+REST_1114,Urban Kitchen 1114,Hebbal,Italian,35,4.5,0,12.930873,77.510815
+REST_1115,Fresh Dhaba 1115,BTM Layout,Desserts,24,3.6,0,12.966354,77.501209
+REST_1116,Spice Corner 1116,Sarjapur Road,North Indian,28,5.0,1,12.918834,77.534735
+REST_1117,Fresh Corner 1117,Basavanagudi,Street Food,10,3.9,0,12.970061,77.532832
+REST_1118,Fresh Cafe 1118,Jayanagar,Chinese,27,3.5,0,12.942803,77.589654
+REST_1119,Urban Grill 1119,Jayanagar,South Indian,19,3.8,0,12.925165,77.588275
+REST_1120,Hungry Cafe 1120,Bommanahalli,Chinese,34,4.9,0,13.014289,77.585479
+REST_1121,Urban Dhaba 1121,HSR Layout,Street Food,12,4.1,0,12.926355,77.57609
+REST_1122,Quick Hub 1122,Banashankari,Desserts,25,4.2,0,12.910791,77.527331
+REST_1123,Fresh Express 1123,Sarjapur Road,Italian,8,3.0,0,12.975105,77.645069
+REST_1124,Green Cafe 1124,Sarjapur Road,Desserts,31,3.7,0,12.973433,77.62821
+REST_1125,Spice Cafe 1125,MG Road,North Indian,11,3.8,0,12.984841,77.538846
+REST_1126,Urban Palace 1126,Hebbal,Street Food,30,4.0,0,13.003273,77.639291
+REST_1127,Green Corner 1127,Rajajinagar,Italian,23,3.1,0,13.021969,77.626191
+REST_1128,Golden Hub 1128,Koramangala,Thai,22,4.9,0,12.937112,77.615668
+REST_1129,Royal Bites 1129,Marathahalli,South Indian,28,4.4,0,12.957652,77.641214
+REST_1130,Tasty Corner 1130,HSR Layout,Desserts,13,4.7,0,12.945333,77.693537
+REST_1131,Hungry Hub 1131,Rajajinagar,Desserts,32,4.8,1,12.913331,77.627236
+REST_1132,Golden Hub 1132,Malleshwaram,Italian,31,3.8,0,12.946215,77.697405
+REST_1133,Royal Bites 1133,Sarjapur Road,South Indian,32,4.4,0,12.978744,77.630904
+REST_1134,Golden Express 1134,Hebbal,Biryani,13,4.4,0,12.929703,77.536397
+REST_1135,Quick Dhaba 1135,Whitefield,Italian,13,3.4,0,13.012487,77.661836
+REST_1136,Urban Cafe 1136,Jayanagar,Continental,28,4.8,0,12.995465,77.515962
+REST_1137,Green Bites 1137,HSR Layout,Fast Food,10,3.7,0,12.987847,77.595579
+REST_1138,Royal Kitchen 1138,Whitefield,Fast Food,32,4.9,1,13.018381,77.508372
+REST_1139,Tasty Kitchen 1139,Jayanagar,Desserts,27,4.0,0,13.044309,77.553167
+REST_1140,Quick Palace 1140,Sarjapur Road,Thai,21,3.7,0,13.002279,77.568615
+REST_1141,Fresh Palace 1141,JP Nagar,Desserts,20,4.2,0,13.046296,77.674615
+REST_1142,Royal Grill 1142,Whitefield,Desserts,31,4.7,1,12.903852,77.524579
+REST_1143,Urban Corner 1143,Bommanahalli,Biryani,22,4.2,0,12.998831,77.59504
+REST_1144,Fresh Kitchen 1144,Hebbal,Biryani,8,4.3,0,13.031015,77.69392
+REST_1145,Quick Corner 1145,JP Nagar,Thai,23,3.8,0,12.991889,77.516274
+REST_1146,Quick Bites 1146,Hebbal,Desserts,17,4.2,0,13.006791,77.673972
+REST_1147,Tasty Kitchen 1147,MG Road,Chinese,23,4.6,0,13.000959,77.609749
+REST_1148,Golden Grill 1148,Bellandur,South Indian,23,4.3,0,12.936135,77.542328
+REST_1149,Spice Cafe 1149,HSR Layout,North Indian,13,4.9,0,12.957523,77.556072
+REST_1150,Quick Bites 1150,Yelahanka,Chinese,25,4.3,0,12.973794,77.659108
+REST_1151,Fresh Dhaba 1151,JP Nagar,Thai,10,4.3,0,12.956552,77.643489
+REST_1152,Tasty Cafe 1152,Rajajinagar,Italian,15,3.5,0,12.943646,77.522277
+REST_1153,Hungry Corner 1153,JP Nagar,South Indian,26,3.7,0,13.028,77.690814
+REST_1154,Royal Hub 1154,MG Road,North Indian,26,4.1,0,13.027068,77.69597
+REST_1155,Desi Express 1155,JP Nagar,Street Food,29,4.2,0,12.933321,77.579062
+REST_1156,Quick Palace 1156,Basavanagudi,Chinese,34,4.9,1,12.974975,77.591157
+REST_1157,Urban Express 1157,Brigade Road,North Indian,27,3.6,0,12.975357,77.63772
+REST_1158,Hungry Grill 1158,Yelahanka,Italian,23,3.6,0,13.044974,77.511763
+REST_1159,Golden Corner 1159,JP Nagar,Italian,30,4.5,1,13.016406,77.671356
+REST_1160,Urban Express 1160,Rajajinagar,North Indian,25,3.8,0,12.963366,77.594684
+REST_1161,Green Cafe 1161,Malleshwaram,South Indian,24,4.5,0,13.03846,77.640222
+REST_1162,Green Bites 1162,Basavanagudi,Chinese,18,4.5,1,13.020761,77.669962
+REST_1163,Quick Express 1163,Banashankari,Thai,12,3.9,0,12.972366,77.679444
+REST_1164,Fresh Corner 1164,Jayanagar,North Indian,19,4.5,1,13.001748,77.697697
+REST_1165,Green Cafe 1165,Electronic City,Chinese,9,3.2,0,13.046124,77.535927
+REST_1166,Spice Bowl 1166,Indiranagar,Biryani,26,3.9,0,12.922285,77.64451
+REST_1167,Royal Bites 1167,BTM Layout,Italian,20,4.0,0,13.003198,77.690911
+REST_1168,Spice Grill 1168,Rajajinagar,Desserts,16,4.3,0,12.966768,77.50232
+REST_1169,Spice Bites 1169,Whitefield,Continental,28,4.3,0,12.976462,77.504605
+REST_1170,Hungry Grill 1170,MG Road,Fast Food,30,4.5,1,12.927164,77.596838
+REST_1171,Urban Dhaba 1171,Hebbal,Chinese,11,3.7,0,13.007065,77.672442
+REST_1172,Golden Cafe 1172,Basavanagudi,North Indian,20,4.1,0,12.980463,77.662439
+REST_1173,Spice Bowl 1173,Sarjapur Road,Thai,25,4.4,0,13.01851,77.524818
+REST_1174,Spice Express 1174,Jayanagar,Thai,30,3.4,0,12.983208,77.660103
+REST_1175,Royal Express 1175,Whitefield,Thai,14,4.3,0,12.913173,77.551352
+REST_1176,Spice Bites 1176,Indiranagar,Street Food,17,3.7,0,12.981664,77.58461
+REST_1177,Fresh Hub 1177,Koramangala,North Indian,24,4.8,0,12.980115,77.527971
+REST_1178,Desi Bowl 1178,Sarjapur Road,Biryani,27,4.1,0,12.931476,77.519802
+REST_1179,Fresh Kitchen 1179,Indiranagar,Italian,12,3.6,0,13.024894,77.691485
+REST_1180,Tasty Corner 1180,Brigade Road,Thai,19,3.6,0,13.009366,77.584403
+REST_1181,Urban Hub 1181,Basavanagudi,Desserts,28,4.8,0,12.912488,77.550836
+REST_1182,Golden Bowl 1182,Hebbal,Italian,10,4.3,0,12.94041,77.626624
+REST_1183,Desi Dhaba 1183,Jayanagar,Street Food,27,3.3,0,13.023235,77.563272
+REST_1184,Green Kitchen 1184,Hebbal,Thai,15,3.2,0,12.918693,77.521998
+REST_1185,Green Bites 1185,Basavanagudi,Biryani,28,3.2,0,13.036387,77.655614
+REST_1186,Fresh Hub 1186,Electronic City,North Indian,11,3.8,0,13.045316,77.575726
+REST_1187,Spice Express 1187,Whitefield,Street Food,31,4.8,1,13.02102,77.519108
+REST_1188,Hungry Hub 1188,Malleshwaram,Street Food,16,4.2,0,13.034486,77.534149
+REST_1189,Golden Palace 1189,Rajajinagar,Street Food,25,4.2,0,13.027445,77.595372
+REST_1190,Urban Kitchen 1190,Electronic City,Street Food,30,3.3,0,12.918955,77.57576
+REST_1191,Royal Palace 1191,Yelahanka,Italian,29,4.2,0,13.006018,77.536621
+REST_1192,Quick Bowl 1192,Malleshwaram,Fast Food,16,4.9,1,13.00777,77.684762
+REST_1193,Urban Bites 1193,BTM Layout,Fast Food,21,4.5,1,12.995202,77.515339
+REST_1194,Spice Express 1194,BTM Layout,Thai,9,3.2,0,12.942878,77.685918
+REST_1195,Green Bowl 1195,Koramangala,Chinese,23,4.0,0,13.002768,77.635355
+REST_1196,Spice Cafe 1196,Basavanagudi,North Indian,27,3.4,0,13.02471,77.501458
+REST_1197,Tasty Palace 1197,Hebbal,Italian,31,4.3,0,13.038069,77.699834
+REST_1198,Hungry Kitchen 1198,Bommanahalli,Thai,22,4.9,1,13.03229,77.604703
+REST_1199,Golden Bites 1199,BTM Layout,Biryani,34,3.3,0,12.952994,77.510181
+REST_1200,Green Express 1200,Sarjapur Road,Biryani,11,3.7,0,13.001859,77.666345
+REST_1201,Urban Hub 1201,Whitefield,Continental,17,3.5,0,12.900335,77.626235
+REST_1202,Fresh Hub 1202,Rajajinagar,Street Food,34,4.8,1,13.033874,77.66967
+REST_1203,Desi Kitchen 1203,Indiranagar,Thai,22,3.7,0,12.953084,77.501031
+REST_1204,Green Palace 1204,Marathahalli,North Indian,11,3.9,0,12.929632,77.605819
+REST_1205,Green Bites 1205,Electronic City,Continental,8,3.3,0,12.998495,77.545219
+REST_1206,Desi Hub 1206,Rajajinagar,Biryani,21,4.8,1,12.940422,77.697874
+REST_1207,Golden Express 1207,Bellandur,Biryani,31,3.9,0,12.953886,77.674103
+REST_1208,Spice Corner 1208,Jayanagar,Fast Food,9,3.3,0,12.963158,77.566243
+REST_1209,Golden Corner 1209,Indiranagar,Continental,29,5.0,0,12.97336,77.599114
+REST_1210,Desi Cafe 1210,Electronic City,Street Food,31,4.8,1,12.958327,77.521947
+REST_1211,Royal Express 1211,Whitefield,Chinese,19,4.0,0,13.015108,77.547301
+REST_1212,Green Dhaba 1212,JP Nagar,North Indian,21,4.0,0,12.942334,77.516523
+REST_1213,Fresh Dhaba 1213,Hebbal,Chinese,31,4.0,0,12.93742,77.653346
+REST_1214,Fresh Cafe 1214,Yelahanka,Italian,23,4.4,0,13.021493,77.640229
+REST_1215,Hungry Express 1215,Bommanahalli,Italian,35,4.2,0,12.995172,77.545877
+REST_1216,Green Kitchen 1216,Electronic City,Fast Food,14,4.9,0,12.99247,77.518187
+REST_1217,Green Cafe 1217,Indiranagar,Street Food,17,4.4,0,13.047019,77.544355
+REST_1218,Quick Kitchen 1218,Hebbal,Street Food,21,4.3,0,12.945643,77.553849
+REST_1219,Desi Cafe 1219,Yelahanka,Italian,18,4.8,0,12.90008,77.632086
+REST_1220,Fresh Hub 1220,JP Nagar,Continental,16,4.8,0,12.927726,77.689666
+REST_1221,Desi Hub 1221,Malleshwaram,South Indian,11,4.3,0,13.002444,77.654093
+REST_1222,Desi Palace 1222,Electronic City,Biryani,31,4.6,1,12.955739,77.63005
+REST_1223,Hungry Cafe 1223,Jayanagar,South Indian,11,3.3,0,13.011388,77.524071
+REST_1224,Fresh Corner 1224,MG Road,Continental,11,3.1,0,12.981987,77.56858
+REST_1225,Fresh Bowl 1225,Sarjapur Road,Chinese,9,3.3,0,12.962732,77.642321
+REST_1226,Desi Palace 1226,Basavanagudi,Continental,28,4.4,0,13.036627,77.513542
+REST_1227,Tasty Bowl 1227,Hebbal,North Indian,13,4.2,0,13.004506,77.525787
+REST_1228,Hungry Kitchen 1228,Indiranagar,Italian,31,4.6,0,12.97987,77.602698
+REST_1229,Golden Grill 1229,HSR Layout,Street Food,20,4.1,0,12.958537,77.621444
+REST_1230,Golden Kitchen 1230,Jayanagar,Chinese,26,3.4,0,13.004508,77.675831
+REST_1231,Quick Bowl 1231,Bommanahalli,Street Food,16,3.6,0,12.93305,77.641651
+REST_1232,Spice Express 1232,Basavanagudi,Italian,9,4.1,0,12.943776,77.627923
+REST_1233,Golden Hub 1233,Yelahanka,North Indian,28,5.0,1,12.931496,77.523237
+REST_1234,Hungry Palace 1234,Malleshwaram,Biryani,10,4.9,1,12.939606,77.526722
+REST_1235,Urban Palace 1235,Brigade Road,North Indian,28,4.6,1,12.932892,77.693045
+REST_1236,Urban Kitchen 1236,Marathahalli,Street Food,29,5.0,1,13.017077,77.521289
+REST_1237,Urban Dhaba 1237,Rajajinagar,Street Food,14,4.6,0,12.940319,77.616333
+REST_1238,Golden Grill 1238,Rajajinagar,Italian,31,4.5,0,13.035325,77.518738
+REST_1239,Quick Express 1239,Marathahalli,Chinese,14,4.1,0,13.041503,77.536081
+REST_1240,Royal Hub 1240,Banashankari,Chinese,13,4.6,1,12.928177,77.528704
+REST_1241,Fresh Grill 1241,Hebbal,Desserts,11,4.4,0,12.920594,77.650089
+REST_1242,Hungry Bites 1242,Koramangala,Desserts,20,3.0,0,13.023984,77.652689
+REST_1243,Golden Corner 1243,Indiranagar,South Indian,16,3.3,0,12.994108,77.502699
+REST_1244,Spice Bowl 1244,Koramangala,Biryani,35,4.4,0,12.930348,77.596085
+REST_1245,Quick Express 1245,MG Road,Fast Food,18,4.0,0,12.936571,77.608705
+REST_1246,Tasty Bites 1246,Yelahanka,North Indian,34,3.1,0,12.981696,77.520513
+REST_1247,Golden Kitchen 1247,Hebbal,Italian,8,3.5,0,12.957807,77.570662
+REST_1248,Fresh Cafe 1248,Banashankari,South Indian,23,3.3,0,12.91652,77.520347
+REST_1249,Desi Bites 1249,Banashankari,Thai,18,3.2,0,13.038498,77.683975
+REST_1250,Hungry Express 1250,Indiranagar,Chinese,21,4.1,0,12.989942,77.635887
+REST_1251,Urban Dhaba 1251,Electronic City,Fast Food,19,4.8,0,12.974888,77.573822
+REST_1252,Spice Kitchen 1252,Yelahanka,Chinese,32,4.3,0,12.948038,77.57812
+REST_1253,Spice Bites 1253,Sarjapur Road,Thai,21,4.9,0,12.913567,77.698954
+REST_1254,Green Palace 1254,Marathahalli,Biryani,23,3.8,0,13.004013,77.582789
+REST_1255,Golden Corner 1255,JP Nagar,Desserts,21,4.1,0,12.980812,77.59852
+REST_1256,Fresh Cafe 1256,Basavanagudi,South Indian,26,4.4,0,12.979042,77.655319
+REST_1257,Spice Corner 1257,BTM Layout,Biryani,8,3.4,0,13.027589,77.57248
+REST_1258,Golden Bites 1258,Sarjapur Road,North Indian,19,3.7,0,13.027399,77.655729
+REST_1259,Urban Grill 1259,Electronic City,Chinese,34,4.7,1,13.036943,77.548499
+REST_1260,Royal Express 1260,BTM Layout,South Indian,30,4.4,0,12.956619,77.505269
+REST_1261,Desi Kitchen 1261,Hebbal,South Indian,29,4.2,0,12.971524,77.618785
+REST_1262,Royal Express 1262,Marathahalli,Biryani,12,3.2,0,12.91156,77.613837
+REST_1263,Golden Express 1263,Hebbal,Continental,31,3.3,0,12.979118,77.689753
+REST_1264,Green Palace 1264,Sarjapur Road,Continental,33,4.3,0,12.901981,77.522253
+REST_1265,Royal Dhaba 1265,Indiranagar,Chinese,24,3.3,0,12.959459,77.584724
+REST_1266,Tasty Hub 1266,Bellandur,Thai,24,3.6,0,12.934097,77.68629
+REST_1267,Spice Bowl 1267,Yelahanka,Desserts,12,4.5,0,12.9084,77.578458
+REST_1268,Hungry Bites 1268,Basavanagudi,Continental,23,3.6,0,12.996284,77.665451
+REST_1269,Royal Palace 1269,Marathahalli,Desserts,14,3.5,0,12.91566,77.57254
+REST_1270,Royal Corner 1270,JP Nagar,Fast Food,13,4.1,0,12.909798,77.619422
+REST_1271,Fresh Bowl 1271,Banashankari,Italian,28,4.9,0,12.912756,77.614025
+REST_1272,Hungry Grill 1272,Indiranagar,North Indian,9,3.6,0,13.041526,77.501696
+REST_1273,Urban Cafe 1273,Malleshwaram,Street Food,14,3.6,0,12.958596,77.571167
+REST_1274,Spice Palace 1274,Electronic City,Desserts,31,4.0,0,12.975327,77.655012
+REST_1275,Hungry Cafe 1275,Koramangala,Continental,26,4.7,0,12.924183,77.636475
+REST_1276,Spice Corner 1276,HSR Layout,Italian,33,4.4,0,12.921129,77.643711
+REST_1277,Tasty Dhaba 1277,Bommanahalli,Street Food,32,3.7,0,13.017803,77.567804
+REST_1278,Hungry Cafe 1278,Malleshwaram,North Indian,30,4.5,0,12.931323,77.622077
+REST_1279,Golden Dhaba 1279,HSR Layout,Continental,11,4.6,0,13.030569,77.609427
+REST_1280,Quick Bites 1280,HSR Layout,Continental,18,3.3,0,12.944341,77.513632
+REST_1281,Desi Palace 1281,MG Road,South Indian,10,3.4,0,13.015791,77.551589
+REST_1282,Urban Grill 1282,Sarjapur Road,Chinese,11,4.9,0,12.954521,77.557325
+REST_1283,Hungry Express 1283,Hebbal,Continental,19,4.0,0,12.993695,77.562729
+REST_1284,Green Bowl 1284,HSR Layout,Continental,16,4.8,1,12.906401,77.695486
+REST_1285,Fresh Bowl 1285,Indiranagar,North Indian,12,4.7,0,12.923731,77.579856
+REST_1286,Fresh Cafe 1286,HSR Layout,Continental,29,3.2,0,12.969882,77.628497
+REST_1287,Spice Bites 1287,Bellandur,Chinese,31,3.2,0,13.043932,77.579389
+REST_1288,Fresh Cafe 1288,Hebbal,Biryani,10,3.6,0,13.049466,77.597259
+REST_1289,Spice Hub 1289,Sarjapur Road,Continental,9,4.1,0,13.04228,77.529103
+REST_1290,Desi Dhaba 1290,Jayanagar,North Indian,27,4.5,0,13.02128,77.657912
+REST_1291,Fresh Kitchen 1291,Sarjapur Road,Italian,35,3.0,0,13.013792,77.584584
+REST_1292,Golden Bites 1292,Yelahanka,Chinese,10,3.5,0,12.912256,77.674755
+REST_1293,Green Bowl 1293,Bellandur,Italian,29,4.8,0,12.908061,77.678991
+REST_1294,Desi Hub 1294,Hebbal,Chinese,14,3.7,0,12.962865,77.5951
+REST_1295,Green Palace 1295,Marathahalli,Thai,20,4.6,1,13.034067,77.539712
+REST_1296,Hungry Express 1296,MG Road,Biryani,29,5.0,1,13.011425,77.647344
+REST_1297,Royal Express 1297,JP Nagar,Continental,12,4.0,0,12.947461,77.658403
+REST_1298,Urban Bowl 1298,Hebbal,North Indian,22,4.9,1,12.995144,77.627783
+REST_1299,Spice Kitchen 1299,MG Road,Italian,31,5.0,0,12.981913,77.53322
+REST_1300,Fresh Palace 1300,Rajajinagar,Italian,14,4.9,1,12.902156,77.662756
+REST_1301,Urban Hub 1301,Koramangala,Street Food,34,4.7,1,12.997337,77.591199
+REST_1302,Desi Palace 1302,Hebbal,Street Food,21,4.0,0,13.014762,77.522676
+REST_1303,Quick Cafe 1303,Marathahalli,Biryani,13,4.1,0,12.924399,77.587175
+REST_1304,Green Hub 1304,Banashankari,Thai,35,3.2,0,12.913143,77.667447
+REST_1305,Royal Dhaba 1305,HSR Layout,Desserts,11,4.0,0,13.012759,77.685446
+REST_1306,Quick Bowl 1306,Whitefield,Thai,33,3.1,0,12.943486,77.584128
+REST_1307,Quick Bowl 1307,BTM Layout,Desserts,11,3.4,0,12.970436,77.524888
+REST_1308,Green Cafe 1308,Bellandur,North Indian,19,4.6,1,12.940141,77.631736
+REST_1309,Green Corner 1309,Banashankari,North Indian,21,3.1,0,12.903937,77.658102
+REST_1310,Hungry Palace 1310,Bommanahalli,Biryani,13,4.9,1,12.936275,77.694698
+REST_1311,Hungry Cafe 1311,Jayanagar,North Indian,33,4.9,0,13.040909,77.578082
+REST_1312,Green Palace 1312,Marathahalli,Street Food,13,3.9,0,12.914937,77.660234
+REST_1313,Spice Dhaba 1313,Bommanahalli,Desserts,34,4.5,1,13.025601,77.531811
+REST_1314,Fresh Bites 1314,JP Nagar,South Indian,8,3.9,0,12.994334,77.618658
+REST_1315,Hungry Bowl 1315,Koramangala,South Indian,26,3.8,0,13.011351,77.52611
+REST_1316,Desi Express 1316,Bellandur,Italian,28,4.8,0,12.980313,77.549051
+REST_1317,Urban Kitchen 1317,Rajajinagar,Fast Food,10,4.9,1,12.995758,77.615871
+REST_1318,Spice Grill 1318,Whitefield,Thai,11,3.2,0,12.942369,77.678921
+REST_1319,Spice Grill 1319,HSR Layout,Biryani,34,3.4,0,12.915101,77.659088
+REST_1320,Spice Grill 1320,Hebbal,South Indian,14,4.4,0,12.956288,77.562717
+REST_1321,Golden Express 1321,Bellandur,Fast Food,8,4.8,1,12.994682,77.670962
+REST_1322,Desi Palace 1322,Whitefield,Continental,27,4.2,0,12.900752,77.60435
+REST_1323,Spice Corner 1323,Yelahanka,Thai,8,4.1,0,12.977699,77.652192
+REST_1324,Desi Bites 1324,Jayanagar,Italian,8,3.7,0,12.932964,77.645549
+REST_1325,Urban Hub 1325,Electronic City,Continental,14,4.9,0,12.982725,77.558864
+REST_1326,Green Bowl 1326,Sarjapur Road,Desserts,14,3.5,0,12.929681,77.669207
+REST_1327,Green Bites 1327,Yelahanka,Thai,33,4.5,0,13.019115,77.690752
+REST_1328,Green Grill 1328,Sarjapur Road,Desserts,27,4.5,1,12.993437,77.621459
+REST_1329,Fresh Dhaba 1329,Hebbal,Biryani,19,4.8,1,12.967411,77.67789
+REST_1330,Urban Dhaba 1330,Bommanahalli,Desserts,17,4.2,0,13.031588,77.690076
+REST_1331,Desi Cafe 1331,Bommanahalli,North Indian,11,3.4,0,12.948402,77.658179
+REST_1332,Fresh Bites 1332,Malleshwaram,Italian,29,3.7,0,12.921756,77.562891
+REST_1333,Desi Kitchen 1333,Koramangala,Biryani,14,3.9,0,13.019286,77.679749
+REST_1334,Spice Cafe 1334,Basavanagudi,Fast Food,27,3.4,0,12.93262,77.612192
+REST_1335,Spice Dhaba 1335,Brigade Road,Desserts,29,4.5,0,12.948018,77.539425
+REST_1336,Quick Kitchen 1336,Sarjapur Road,Fast Food,21,3.2,0,12.967918,77.620286
+REST_1337,Green Corner 1337,MG Road,Thai,8,3.6,0,12.99655,77.671221
+REST_1338,Quick Hub 1338,Koramangala,Chinese,34,4.9,0,12.98002,77.605503
+REST_1339,Royal Bites 1339,JP Nagar,Continental,11,4.7,0,12.94515,77.563438
+REST_1340,Green Bites 1340,Malleshwaram,Street Food,32,3.6,0,12.991848,77.578665
+REST_1341,Quick Bites 1341,Bellandur,Biryani,27,3.2,0,12.933602,77.665091
+REST_1342,Spice Palace 1342,Electronic City,Desserts,15,3.3,0,12.928674,77.680455
+REST_1343,Tasty Kitchen 1343,Malleshwaram,North Indian,16,4.8,0,12.907201,77.560858
+REST_1344,Desi Dhaba 1344,Yelahanka,Desserts,16,4.4,0,13.038729,77.616691
+REST_1345,Golden Palace 1345,Whitefield,Chinese,32,4.2,0,13.027523,77.679095
+REST_1346,Spice Bowl 1346,Bellandur,Street Food,15,4.2,0,12.99919,77.69527
+REST_1347,Quick Corner 1347,JP Nagar,South Indian,16,4.5,1,12.952951,77.667108
+REST_1348,Fresh Bites 1348,BTM Layout,South Indian,23,3.1,0,12.901969,77.543227
+REST_1349,Fresh Grill 1349,Rajajinagar,South Indian,18,3.4,0,12.988578,77.605529
+REST_1350,Urban Grill 1350,JP Nagar,Chinese,35,4.0,0,13.037119,77.543757
+REST_1351,Green Grill 1351,Malleshwaram,Thai,24,3.4,0,12.960031,77.513728
+REST_1352,Golden Hub 1352,Hebbal,Thai,28,3.2,0,12.969143,77.521435
+REST_1353,Fresh Kitchen 1353,Whitefield,Continental,13,3.5,0,12.971436,77.606177
+REST_1354,Urban Bites 1354,Malleshwaram,Street Food,10,3.7,0,12.93181,77.579386
+REST_1355,Tasty Palace 1355,Hebbal,North Indian,22,3.5,0,12.914672,77.629724
+REST_1356,Fresh Hub 1356,Hebbal,Italian,20,3.4,0,12.941389,77.62149
+REST_1357,Green Bites 1357,Bommanahalli,North Indian,28,3.5,0,12.916662,77.523038
+REST_1358,Hungry Hub 1358,Indiranagar,Italian,10,4.1,0,12.941319,77.67652
+REST_1359,Green Cafe 1359,Rajajinagar,South Indian,15,4.5,1,12.94024,77.541141
+REST_1360,Desi Hub 1360,Jayanagar,Thai,17,4.5,0,12.975486,77.640094
+REST_1361,Urban Corner 1361,Sarjapur Road,Chinese,18,4.4,0,12.924997,77.566431
+REST_1362,Golden Kitchen 1362,Bellandur,Continental,21,3.7,0,12.926627,77.552766
+REST_1363,Golden Kitchen 1363,HSR Layout,Thai,19,4.9,1,12.973246,77.549502
+REST_1364,Royal Kitchen 1364,Whitefield,Thai,29,5.0,1,12.97879,77.533461
+REST_1365,Spice Bites 1365,Electronic City,Fast Food,33,4.5,0,13.010222,77.697959
+REST_1366,Quick Hub 1366,Yelahanka,Biryani,22,3.0,0,12.952894,77.642031
+REST_1367,Hungry Grill 1367,Bommanahalli,South Indian,16,4.4,0,13.009232,77.504145
+REST_1368,Fresh Express 1368,Hebbal,Biryani,23,3.1,0,12.986638,77.639161
+REST_1369,Desi Corner 1369,Hebbal,South Indian,14,4.8,0,12.91619,77.554785
+REST_1370,Quick Bowl 1370,Basavanagudi,Chinese,16,4.8,0,12.949679,77.61783
+REST_1371,Urban Corner 1371,Yelahanka,North Indian,26,4.0,0,12.951491,77.622473
+REST_1372,Quick Dhaba 1372,Hebbal,Biryani,17,3.2,0,12.90125,77.685447
+REST_1373,Quick Express 1373,Electronic City,Street Food,17,4.2,0,12.999648,77.560729
+REST_1374,Spice Hub 1374,Banashankari,North Indian,22,3.1,0,12.942453,77.618614
+REST_1375,Quick Hub 1375,Indiranagar,North Indian,21,3.7,0,13.025117,77.50998
+REST_1376,Desi Hub 1376,Electronic City,Street Food,29,4.9,1,13.043053,77.642639
+REST_1377,Fresh Cafe 1377,Electronic City,Thai,10,3.6,0,12.904821,77.686587
+REST_1378,Green Cafe 1378,BTM Layout,Desserts,11,4.8,1,12.989556,77.53466
+REST_1379,Desi Dhaba 1379,Hebbal,Chinese,29,4.5,0,12.962447,77.539905
+REST_1380,Spice Hub 1380,Banashankari,Thai,28,3.9,0,12.927506,77.656481
+REST_1381,Spice Express 1381,Hebbal,Street Food,22,4.4,0,12.975572,77.637033
+REST_1382,Quick Palace 1382,Malleshwaram,Desserts,22,3.8,0,12.961539,77.505535
+REST_1383,Royal Cafe 1383,Basavanagudi,South Indian,32,3.3,0,13.036027,77.657326
+REST_1384,Tasty Palace 1384,MG Road,Chinese,27,4.1,0,12.984836,77.558669
+REST_1385,Golden Cafe 1385,Rajajinagar,North Indian,22,4.6,1,12.969033,77.510869
+REST_1386,Urban Bites 1386,Indiranagar,Biryani,27,3.2,0,12.943587,77.596294
+REST_1387,Royal Bites 1387,JP Nagar,Thai,29,4.0,0,13.007543,77.640315
+REST_1388,Golden Bowl 1388,Bommanahalli,Continental,12,3.4,0,13.001352,77.670451
+REST_1389,Urban Kitchen 1389,Banashankari,Continental,27,4.4,0,12.917206,77.500007
+REST_1390,Spice Bowl 1390,Brigade Road,South Indian,15,3.4,0,12.971061,77.666545
+REST_1391,Green Kitchen 1391,Bellandur,South Indian,17,3.8,0,13.047404,77.664054
+REST_1392,Urban Dhaba 1392,Basavanagudi,Continental,35,4.3,0,12.918479,77.529249
+REST_1393,Golden Express 1393,Koramangala,Italian,13,4.0,0,13.004944,77.54007
+REST_1394,Urban Hub 1394,Sarjapur Road,South Indian,26,4.0,0,13.000155,77.578238
+REST_1395,Quick Cafe 1395,Whitefield,Desserts,12,3.1,0,12.968562,77.612842
+REST_1396,Hungry Hub 1396,Koramangala,North Indian,28,4.3,0,12.998579,77.588896
+REST_1397,Golden Grill 1397,Malleshwaram,Continental,16,3.0,0,12.923747,77.600128
+REST_1398,Fresh Palace 1398,Bommanahalli,Street Food,20,4.0,0,12.926175,77.530281
+REST_1399,Desi Grill 1399,MG Road,Chinese,16,4.6,1,13.038522,77.513642
+REST_1400,Green Grill 1400,Sarjapur Road,Thai,29,3.4,0,13.006275,77.601396
+REST_1401,Urban Express 1401,Bommanahalli,Biryani,26,4.9,0,12.992621,77.580755
+REST_1402,Royal Express 1402,Indiranagar,Italian,11,4.3,0,12.974915,77.635864
+REST_1403,Fresh Corner 1403,JP Nagar,South Indian,13,4.5,0,13.045998,77.684475
+REST_1404,Hungry Hub 1404,Indiranagar,South Indian,9,4.7,0,13.014503,77.621307
+REST_1405,Golden Palace 1405,Koramangala,South Indian,30,3.9,0,12.919982,77.627479
+REST_1406,Fresh Corner 1406,Basavanagudi,Fast Food,23,3.9,0,12.942913,77.540239
+REST_1407,Green Bowl 1407,Marathahalli,Italian,10,4.2,0,12.994367,77.633732
+REST_1408,Royal Express 1408,Jayanagar,North Indian,19,4.5,1,13.029674,77.568142
+REST_1409,Quick Corner 1409,Bommanahalli,Italian,26,4.7,1,12.953473,77.679951
+REST_1410,Spice Grill 1410,Electronic City,Desserts,28,3.8,0,12.91063,77.515629
+REST_1411,Urban Bites 1411,Bommanahalli,South Indian,23,3.5,0,12.990223,77.566184
+REST_1412,Urban Hub 1412,BTM Layout,Desserts,30,3.7,0,13.030866,77.531573
+REST_1413,Spice Bowl 1413,Banashankari,Thai,15,4.7,1,12.975007,77.579844
+REST_1414,Tasty Bites 1414,Indiranagar,Thai,23,4.9,1,12.997985,77.506455
+REST_1415,Urban Corner 1415,Hebbal,Biryani,32,3.1,0,12.930635,77.663352
+REST_1416,Royal Corner 1416,JP Nagar,Continental,10,4.6,1,12.9915,77.667001
+REST_1417,Desi Bites 1417,Indiranagar,Desserts,27,4.5,1,13.033128,77.595754
+REST_1418,Urban Kitchen 1418,Electronic City,South Indian,9,4.0,0,12.933787,77.570052
+REST_1419,Urban Corner 1419,Sarjapur Road,North Indian,9,3.1,0,13.017273,77.539235
+REST_1420,Green Kitchen 1420,Brigade Road,Street Food,23,3.1,0,13.014852,77.639088
+REST_1421,Green Bowl 1421,Hebbal,Chinese,11,3.9,0,13.034572,77.696507
+REST_1422,Desi Corner 1422,Malleshwaram,Biryani,21,4.8,0,12.913799,77.50201
+REST_1423,Tasty Dhaba 1423,Hebbal,North Indian,33,3.0,0,13.007974,77.662524
+REST_1424,Royal Express 1424,HSR Layout,Continental,13,3.6,0,12.947119,77.620483
+REST_1425,Urban Express 1425,BTM Layout,Thai,20,4.0,0,12.918356,77.515361
+REST_1426,Tasty Corner 1426,Yelahanka,Continental,30,4.5,0,13.037265,77.544057
+REST_1427,Desi Bowl 1427,Banashankari,Fast Food,35,4.3,0,12.979027,77.553507
+REST_1428,Tasty Bites 1428,Basavanagudi,North Indian,19,4.8,1,12.993281,77.555957
+REST_1429,Golden Bowl 1429,Jayanagar,Italian,17,4.5,0,12.955858,77.663276
+REST_1430,Royal Corner 1430,Electronic City,Continental,28,4.5,1,12.903193,77.667265
+REST_1431,Urban Dhaba 1431,Yelahanka,Desserts,17,4.7,0,12.941864,77.62195
+REST_1432,Royal Cafe 1432,Sarjapur Road,Desserts,22,3.1,0,12.93086,77.536885
+REST_1433,Tasty Kitchen 1433,Hebbal,Fast Food,9,4.1,0,12.952171,77.505198
+REST_1434,Desi Hub 1434,Brigade Road,Thai,14,4.5,0,13.024386,77.586815
+REST_1435,Royal Bites 1435,Hebbal,Street Food,20,4.9,1,12.943113,77.698178
+REST_1436,Quick Cafe 1436,Basavanagudi,Thai,31,4.1,0,12.977837,77.53251
+REST_1437,Quick Corner 1437,Rajajinagar,Chinese,8,3.6,0,13.00239,77.554879
+REST_1438,Tasty Hub 1438,BTM Layout,Biryani,26,3.8,0,12.992332,77.572339
+REST_1439,Hungry Kitchen 1439,Yelahanka,South Indian,17,4.1,0,12.948148,77.552904
+REST_1440,Quick Grill 1440,Marathahalli,North Indian,22,3.0,0,12.905551,77.571745
+REST_1441,Fresh Cafe 1441,Basavanagudi,North Indian,26,4.9,0,12.991549,77.562805
+REST_1442,Quick Express 1442,HSR Layout,Fast Food,32,4.6,0,12.974239,77.545484
+REST_1443,Golden Dhaba 1443,Marathahalli,North Indian,15,3.2,0,12.905775,77.636888
+REST_1444,Hungry Palace 1444,Bellandur,North Indian,25,4.4,0,12.909122,77.64291
+REST_1445,Urban Kitchen 1445,Yelahanka,Biryani,25,4.4,0,12.990087,77.569946
+REST_1446,Tasty Grill 1446,HSR Layout,South Indian,24,3.2,0,12.930606,77.614073
+REST_1447,Spice Cafe 1447,Hebbal,Fast Food,12,3.0,0,12.991045,77.572057
+REST_1448,Desi Grill 1448,Hebbal,Fast Food,27,3.1,0,12.955245,77.558175
+REST_1449,Hungry Kitchen 1449,Electronic City,South Indian,27,3.4,0,12.946966,77.643154
+REST_1450,Hungry Palace 1450,Bommanahalli,Italian,20,4.7,0,13.008939,77.576218
+REST_1451,Spice Corner 1451,HSR Layout,Thai,24,5.0,1,13.010093,77.607793
+REST_1452,Tasty Kitchen 1452,Whitefield,Thai,23,4.3,0,12.97805,77.563388
+REST_1453,Hungry Hub 1453,Jayanagar,Italian,18,3.5,0,13.015147,77.572393
+REST_1454,Desi Bites 1454,Bellandur,Italian,22,4.5,1,12.954282,77.570397
+REST_1455,Spice Palace 1455,Bommanahalli,Continental,27,3.5,0,13.017946,77.545953
+REST_1456,Tasty Corner 1456,Electronic City,Desserts,29,4.2,0,12.920721,77.552056
+REST_1457,Desi Palace 1457,Banashankari,South Indian,10,3.8,0,12.975754,77.52968
+REST_1458,Fresh Express 1458,Sarjapur Road,Continental,8,3.3,0,12.962794,77.653102
+REST_1459,Spice Express 1459,Sarjapur Road,North Indian,34,3.9,0,13.003507,77.697987
+REST_1460,Tasty Bowl 1460,Electronic City,Desserts,21,3.7,0,12.960348,77.611388
+REST_1461,Spice Palace 1461,Banashankari,Biryani,26,4.2,0,12.916166,77.644436
+REST_1462,Desi Grill 1462,HSR Layout,Desserts,28,3.9,0,13.025221,77.557858
+REST_1463,Golden Express 1463,Sarjapur Road,Thai,34,4.9,0,13.03434,77.618711
+REST_1464,Quick Cafe 1464,Malleshwaram,Biryani,22,3.4,0,13.00838,77.55586
+REST_1465,Fresh Hub 1465,Whitefield,Continental,18,3.1,0,12.977652,77.605039
+REST_1466,Green Hub 1466,Bommanahalli,Biryani,20,3.6,0,12.926762,77.528639
+REST_1467,Green Bowl 1467,Jayanagar,Fast Food,26,4.8,0,12.952102,77.533119
+REST_1468,Urban Grill 1468,Banashankari,Continental,15,4.8,0,13.037654,77.697761
+REST_1469,Fresh Hub 1469,Whitefield,Chinese,11,3.4,0,13.025818,77.650973
+REST_1470,Hungry Kitchen 1470,Koramangala,Street Food,25,4.6,0,13.024876,77.505155
+REST_1471,Urban Dhaba 1471,Jayanagar,Desserts,31,3.9,0,12.918927,77.59077
+REST_1472,Spice Grill 1472,Whitefield,Desserts,23,3.5,0,13.029675,77.698615
+REST_1473,Desi Bites 1473,Whitefield,Italian,31,3.1,0,12.923509,77.567067
+REST_1474,Tasty Bites 1474,Bellandur,Biryani,9,3.9,0,13.039855,77.658839
+REST_1475,Fresh Bowl 1475,JP Nagar,North Indian,28,4.3,0,12.936887,77.617269
+REST_1476,Fresh Hub 1476,BTM Layout,Continental,12,4.0,0,12.928066,77.599345
+REST_1477,Fresh Bites 1477,Electronic City,Street Food,35,4.4,0,12.932128,77.586864
+REST_1478,Tasty Dhaba 1478,Sarjapur Road,Italian,30,3.4,0,12.962724,77.552615
+REST_1479,Hungry Corner 1479,Rajajinagar,Biryani,23,4.1,0,13.04315,77.675578
+REST_1480,Urban Grill 1480,BTM Layout,Continental,33,4.3,0,12.989676,77.608683
+REST_1481,Spice Corner 1481,Banashankari,South Indian,32,4.5,0,12.967076,77.549479
+REST_1482,Spice Express 1482,Hebbal,Continental,18,4.3,0,12.952137,77.579618
+REST_1483,Quick Grill 1483,Electronic City,Thai,21,4.4,0,12.904344,77.553585
+REST_1484,Green Kitchen 1484,Jayanagar,Street Food,32,3.6,0,13.001248,77.582246
+REST_1485,Green Cafe 1485,Bellandur,Fast Food,9,3.5,0,13.009228,77.567968
+REST_1486,Urban Grill 1486,Indiranagar,Desserts,15,4.1,0,12.92498,77.54124
+REST_1487,Hungry Dhaba 1487,Whitefield,Biryani,12,4.2,0,12.902988,77.644446
+REST_1488,Spice Palace 1488,Rajajinagar,Biryani,32,4.5,0,12.907382,77.542093
+REST_1489,Fresh Express 1489,Basavanagudi,Street Food,20,4.7,0,13.020193,77.682131
+REST_1490,Green Corner 1490,JP Nagar,Street Food,31,3.5,0,12.902046,77.669096
+REST_1491,Spice Bowl 1491,Bommanahalli,Desserts,33,4.0,0,12.923542,77.560293
+REST_1492,Fresh Kitchen 1492,BTM Layout,Fast Food,31,3.2,0,13.017608,77.631055
+REST_1493,Urban Bites 1493,Electronic City,South Indian,10,4.0,0,13.005523,77.646528
+REST_1494,Royal Bowl 1494,Koramangala,Thai,12,3.2,0,12.988229,77.578225
+REST_1495,Urban Palace 1495,Brigade Road,Desserts,24,4.5,0,12.968836,77.519936
+REST_1496,Quick Cafe 1496,MG Road,Fast Food,21,3.2,0,13.045033,77.612199
+REST_1497,Urban Bowl 1497,Sarjapur Road,Street Food,15,3.8,0,13.048973,77.645511
+REST_1498,Tasty Bites 1498,Malleshwaram,Continental,15,4.2,0,12.903734,77.654241
+REST_1499,Desi Grill 1499,Bellandur,Thai,11,4.3,0,12.949865,77.661936
+REST_1500,Spice Bowl 1500,HSR Layout,Chinese,14,4.7,0,12.937495,77.528266
+REST_1501,Quick Bowl 1501,Brigade Road,Thai,32,3.5,0,13.015111,77.550405
+REST_1502,Desi Express 1502,Banashankari,North Indian,18,4.4,0,12.98981,77.674286
+REST_1503,Fresh Bowl 1503,Yelahanka,Continental,25,4.0,0,13.043921,77.547148
+REST_1504,Quick Bowl 1504,Bellandur,Street Food,35,4.5,1,13.038185,77.58514
+REST_1505,Green Express 1505,HSR Layout,North Indian,13,4.0,0,12.918222,77.539474
+REST_1506,Royal Cafe 1506,Whitefield,Continental,13,4.3,0,12.978688,77.527973
+REST_1507,Green Cafe 1507,Basavanagudi,North Indian,17,3.2,0,13.049362,77.643989
+REST_1508,Tasty Palace 1508,Yelahanka,Thai,19,4.1,0,12.924892,77.558039
+REST_1509,Hungry Palace 1509,Jayanagar,Street Food,27,3.5,0,12.969432,77.68724
+REST_1510,Golden Bowl 1510,Electronic City,Continental,8,3.6,0,12.926884,77.594099
+REST_1511,Urban Corner 1511,Koramangala,Italian,30,3.2,0,12.968789,77.518943
+REST_1512,Quick Dhaba 1512,Brigade Road,Chinese,10,3.7,0,12.983873,77.545206
+REST_1513,Fresh Hub 1513,Koramangala,Fast Food,34,4.8,0,13.009398,77.573455
+REST_1514,Urban Bowl 1514,Rajajinagar,Street Food,28,4.3,0,12.911621,77.530484
+REST_1515,Urban Express 1515,Jayanagar,Fast Food,26,3.2,0,13.019533,77.617463
+REST_1516,Desi Dhaba 1516,Rajajinagar,Thai,27,3.6,0,13.021095,77.674267
+REST_1517,Fresh Express 1517,Sarjapur Road,North Indian,33,3.5,0,12.932467,77.685909
+REST_1518,Golden Express 1518,Brigade Road,Chinese,23,4.7,0,13.034393,77.510438
+REST_1519,Quick Cafe 1519,Bommanahalli,Continental,18,3.6,0,13.014001,77.548155
+REST_1520,Green Cafe 1520,Rajajinagar,Continental,19,3.6,0,12.978298,77.606137
+REST_1521,Fresh Express 1521,Brigade Road,Fast Food,30,3.3,0,12.965586,77.588329
+REST_1522,Spice Bowl 1522,Yelahanka,Desserts,28,3.7,0,12.903794,77.573137
+REST_1523,Desi Cafe 1523,Bellandur,Italian,27,4.1,0,13.049685,77.687881
+REST_1524,Desi Express 1524,Rajajinagar,North Indian,14,3.9,0,12.9789,77.501123
+REST_1525,Desi Bites 1525,Banashankari,Biryani,16,4.0,0,12.901949,77.554606
+REST_1526,Quick Cafe 1526,Yelahanka,North Indian,30,4.4,0,12.941126,77.511445
+REST_1527,Royal Grill 1527,MG Road,Thai,28,3.9,0,12.926066,77.649987
+REST_1528,Spice Kitchen 1528,Basavanagudi,Biryani,8,4.2,0,13.006997,77.641128
+REST_1529,Golden Bites 1529,Marathahalli,Desserts,34,4.7,0,12.995622,77.512465
+REST_1530,Tasty Hub 1530,Whitefield,Italian,28,4.2,0,12.902501,77.667455
+REST_1531,Golden Dhaba 1531,JP Nagar,Biryani,24,3.0,0,12.999674,77.583276
+REST_1532,Spice Corner 1532,Indiranagar,Street Food,12,4.5,0,12.96651,77.555105
+REST_1533,Tasty Cafe 1533,Jayanagar,Chinese,28,4.5,1,12.900484,77.554753
+REST_1534,Spice Palace 1534,Malleshwaram,Continental,26,4.7,0,13.039541,77.517632
+REST_1535,Golden Bites 1535,HSR Layout,Chinese,18,4.2,0,13.044865,77.653345
+REST_1536,Fresh Palace 1536,Koramangala,Continental,10,4.8,1,12.946167,77.636178
+REST_1537,Golden Hub 1537,Jayanagar,North Indian,20,4.4,0,12.926701,77.528085
+REST_1538,Green Corner 1538,JP Nagar,Italian,16,4.8,0,12.94424,77.639512
+REST_1539,Spice Grill 1539,Yelahanka,Biryani,26,3.7,0,13.015856,77.604609
+REST_1540,Royal Dhaba 1540,Marathahalli,Desserts,12,4.1,0,12.931599,77.640437
+REST_1541,Urban Corner 1541,Malleshwaram,Biryani,30,4.9,1,13.01147,77.55379
+REST_1542,Fresh Hub 1542,Bommanahalli,Italian,22,3.5,0,13.038288,77.603406
+REST_1543,Quick Express 1543,Marathahalli,Continental,26,3.6,0,12.984565,77.631661
+REST_1544,Desi Bites 1544,Indiranagar,Biryani,35,4.8,0,12.971324,77.567334
+REST_1545,Golden Palace 1545,Whitefield,Fast Food,13,3.9,0,12.927924,77.50435
+REST_1546,Quick Dhaba 1546,Brigade Road,Thai,30,3.9,0,12.9599,77.666819
+REST_1547,Desi Dhaba 1547,Yelahanka,Biryani,23,4.4,0,12.945026,77.694153
+REST_1548,Tasty Bites 1548,BTM Layout,Desserts,21,4.5,1,12.960113,77.505711
+REST_1549,Golden Hub 1549,Bommanahalli,Thai,30,4.9,0,13.045864,77.65037
+REST_1550,Desi Kitchen 1550,Electronic City,South Indian,17,4.6,0,12.951915,77.579199
+REST_1551,Royal Express 1551,Bellandur,Italian,13,3.6,0,12.912056,77.547237
+REST_1552,Green Bites 1552,Jayanagar,Italian,12,4.4,0,13.02685,77.574852
+REST_1553,Golden Palace 1553,Sarjapur Road,South Indian,23,4.1,0,12.959107,77.542498
+REST_1554,Green Grill 1554,Sarjapur Road,Italian,32,4.8,0,12.947754,77.687052
+REST_1555,Desi Hub 1555,Rajajinagar,Desserts,27,3.8,0,12.910749,77.597662
+REST_1556,Royal Corner 1556,MG Road,Thai,13,4.5,0,12.950978,77.664648
+REST_1557,Hungry Cafe 1557,Brigade Road,South Indian,28,3.5,0,12.974992,77.50885
+REST_1558,Green Bites 1558,Banashankari,Biryani,20,4.3,0,12.963857,77.556993
+REST_1559,Quick Kitchen 1559,Rajajinagar,Fast Food,21,3.4,0,12.959732,77.60347
+REST_1560,Quick Bites 1560,Whitefield,Biryani,29,4.5,1,12.960671,77.661383
+REST_1561,Desi Express 1561,Marathahalli,Thai,24,3.8,0,12.968204,77.597228
+REST_1562,Green Kitchen 1562,Rajajinagar,Fast Food,21,3.5,0,12.995118,77.620727
+REST_1563,Tasty Palace 1563,Bellandur,Continental,30,3.7,0,12.980254,77.572972
+REST_1564,Green Bowl 1564,Marathahalli,Desserts,35,4.3,0,12.922558,77.567423
+REST_1565,Urban Corner 1565,MG Road,Street Food,34,4.2,0,13.030831,77.586978
+REST_1566,Urban Kitchen 1566,Bellandur,South Indian,35,4.0,0,12.955066,77.677833
+REST_1567,Urban Cafe 1567,Malleshwaram,Biryani,29,3.6,0,13.022875,77.60855
+REST_1568,Urban Palace 1568,Marathahalli,Desserts,8,3.9,0,12.944653,77.507123
+REST_1569,Desi Kitchen 1569,Whitefield,Street Food,31,3.8,0,12.926285,77.606997
+REST_1570,Golden Grill 1570,Electronic City,Desserts,16,3.7,0,12.968705,77.623448
+REST_1571,Hungry Grill 1571,Bommanahalli,North Indian,10,3.7,0,12.905743,77.621871
+REST_1572,Green Bowl 1572,Whitefield,South Indian,18,4.9,1,12.963379,77.504477
+REST_1573,Spice Cafe 1573,Yelahanka,South Indian,33,3.4,0,12.939146,77.56064
+REST_1574,Tasty Corner 1574,Bommanahalli,North Indian,19,4.1,0,12.932281,77.687096
+REST_1575,Golden Hub 1575,Yelahanka,Street Food,29,3.1,0,12.959801,77.536252
+REST_1576,Urban Kitchen 1576,Banashankari,Desserts,14,3.0,0,12.962149,77.525953
+REST_1577,Quick Dhaba 1577,Yelahanka,Biryani,11,3.4,0,12.902711,77.564922
+REST_1578,Hungry Hub 1578,HSR Layout,Thai,34,3.9,0,12.963115,77.619046
+REST_1579,Green Grill 1579,Basavanagudi,Street Food,8,3.7,0,12.947946,77.664526
+REST_1580,Quick Grill 1580,Electronic City,Italian,25,4.4,0,13.000948,77.551139
+REST_1581,Hungry Bites 1581,Indiranagar,Continental,25,5.0,0,13.012202,77.605918
+REST_1582,Urban Palace 1582,Banashankari,Continental,29,3.9,0,12.923385,77.616987
+REST_1583,Desi Dhaba 1583,Brigade Road,Desserts,21,5.0,0,13.046004,77.611288
+REST_1584,Fresh Cafe 1584,Sarjapur Road,Street Food,12,3.8,0,13.042323,77.524699
+REST_1585,Fresh Corner 1585,Rajajinagar,South Indian,26,3.6,0,13.029734,77.653375
+REST_1586,Tasty Cafe 1586,Rajajinagar,Biryani,32,3.4,0,13.035069,77.555776
+REST_1587,Spice Palace 1587,Malleshwaram,Street Food,25,4.1,0,12.933765,77.580793
+REST_1588,Urban Grill 1588,Bellandur,Chinese,35,3.4,0,12.943261,77.606533
+REST_1589,Quick Express 1589,JP Nagar,South Indian,20,4.2,0,12.962715,77.583654
+REST_1590,Royal Dhaba 1590,Jayanagar,Italian,12,4.2,0,12.975504,77.516101
+REST_1591,Green Kitchen 1591,MG Road,Biryani,27,3.5,0,12.985396,77.594383
+REST_1592,Desi Kitchen 1592,HSR Layout,Thai,33,4.3,0,12.982809,77.672688
+REST_1593,Quick Palace 1593,Marathahalli,Italian,13,3.9,0,13.006919,77.539957
+REST_1594,Urban Bites 1594,Electronic City,North Indian,14,4.2,0,12.968879,77.636734
+REST_1595,Fresh Express 1595,Bellandur,Continental,24,4.3,0,13.020553,77.667575
+REST_1596,Fresh Grill 1596,Marathahalli,South Indian,8,4.5,1,12.960952,77.603954
+REST_1597,Green Bites 1597,Sarjapur Road,Desserts,16,4.8,1,13.007369,77.621395
+REST_1598,Royal Grill 1598,Basavanagudi,Continental,34,4.5,0,12.95976,77.664463
+REST_1599,Desi Cafe 1599,Indiranagar,Street Food,28,4.3,0,12.964288,77.524811
+REST_1600,Urban Dhaba 1600,Electronic City,South Indian,31,3.3,0,12.961934,77.567967
+REST_1601,Quick Corner 1601,BTM Layout,Fast Food,11,3.7,0,13.004057,77.591648
+REST_1602,Fresh Hub 1602,Sarjapur Road,Biryani,17,4.4,0,12.949599,77.590075
+REST_1603,Hungry Hub 1603,Yelahanka,Thai,9,4.5,0,12.943265,77.544204
+REST_1604,Hungry Palace 1604,Malleshwaram,Fast Food,17,4.9,0,12.995084,77.595057
+REST_1605,Urban Express 1605,Bellandur,Chinese,12,4.2,0,13.028872,77.551461
+REST_1606,Royal Corner 1606,BTM Layout,Thai,17,3.3,0,12.90181,77.572832
+REST_1607,Tasty Cafe 1607,Bommanahalli,Continental,27,4.8,1,12.996578,77.617427
+REST_1608,Desi Bowl 1608,Bommanahalli,Biryani,20,4.7,0,12.925368,77.605047
+REST_1609,Quick Cafe 1609,Marathahalli,North Indian,29,4.9,0,12.946396,77.544862
+REST_1610,Hungry Bites 1610,Yelahanka,Italian,19,4.0,0,12.985411,77.627727
+REST_1611,Tasty Corner 1611,Koramangala,Italian,19,4.3,0,12.959774,77.519768
+REST_1612,Tasty Bites 1612,JP Nagar,Fast Food,25,4.9,1,12.980659,77.515889
+REST_1613,Quick Dhaba 1613,Indiranagar,Street Food,15,3.5,0,13.01959,77.536537
+REST_1614,Fresh Grill 1614,BTM Layout,Chinese,9,5.0,0,12.941621,77.648622
+REST_1615,Golden Bowl 1615,HSR Layout,Fast Food,9,3.4,0,12.936591,77.652336
+REST_1616,Quick Bites 1616,Sarjapur Road,Street Food,33,3.1,0,13.018502,77.514611
+REST_1617,Spice Grill 1617,Sarjapur Road,South Indian,23,3.4,0,12.981355,77.542999
+REST_1618,Urban Dhaba 1618,Sarjapur Road,North Indian,26,3.9,0,13.035748,77.643996
+REST_1619,Fresh Dhaba 1619,Bellandur,Thai,32,3.9,0,12.900074,77.650912
+REST_1620,Urban Grill 1620,Brigade Road,Chinese,18,4.0,0,12.97713,77.690287
+REST_1621,Urban Bowl 1621,Banashankari,Italian,18,3.6,0,12.98419,77.561761
+REST_1622,Spice Express 1622,Bellandur,Continental,8,3.6,0,13.046153,77.594101
+REST_1623,Golden Bites 1623,Marathahalli,Desserts,29,3.6,0,13.038794,77.58864
+REST_1624,Golden Corner 1624,Basavanagudi,South Indian,32,3.5,0,12.94608,77.561077
+REST_1625,Quick Bites 1625,Bommanahalli,Fast Food,27,3.4,0,13.000783,77.564753
+REST_1626,Green Express 1626,Jayanagar,Chinese,27,4.3,0,12.948852,77.603293
+REST_1627,Hungry Cafe 1627,Sarjapur Road,Fast Food,15,4.9,0,13.028436,77.560724
+REST_1628,Urban Palace 1628,Electronic City,Biryani,34,4.5,0,12.963795,77.578708
+REST_1629,Royal Cafe 1629,Hebbal,North Indian,21,3.7,0,13.020806,77.694997
+REST_1630,Royal Corner 1630,Yelahanka,Italian,29,4.4,0,12.94422,77.574695
+REST_1631,Green Cafe 1631,JP Nagar,Biryani,25,4.1,0,12.929918,77.542996
+REST_1632,Quick Hub 1632,Bommanahalli,South Indian,10,3.5,0,12.948822,77.595937
+REST_1633,Quick Kitchen 1633,MG Road,Desserts,30,4.9,1,12.937477,77.697386
+REST_1634,Green Kitchen 1634,MG Road,South Indian,9,4.3,0,12.941407,77.57389
+REST_1635,Spice Grill 1635,Banashankari,Chinese,31,3.1,0,13.046577,77.64649
+REST_1636,Golden Dhaba 1636,Electronic City,Fast Food,26,3.4,0,12.913201,77.549045
+REST_1637,Tasty Hub 1637,MG Road,Street Food,24,4.6,1,12.92107,77.653981
+REST_1638,Desi Grill 1638,JP Nagar,Italian,13,3.6,0,12.934152,77.572441
+REST_1639,Urban Hub 1639,Jayanagar,Thai,31,4.9,0,12.996336,77.585466
+REST_1640,Royal Bowl 1640,Sarjapur Road,North Indian,24,3.7,0,12.984857,77.699131
+REST_1641,Desi Bowl 1641,Bommanahalli,Continental,17,4.1,0,12.995156,77.646887
+REST_1642,Spice Bowl 1642,MG Road,South Indian,25,3.3,0,12.977025,77.670297
+REST_1643,Quick Dhaba 1643,MG Road,Italian,32,3.1,0,13.002593,77.663551
+REST_1644,Quick Express 1644,Bellandur,Biryani,10,3.4,0,12.986284,77.590809
+REST_1645,Royal Cafe 1645,Hebbal,Thai,17,3.0,0,13.024233,77.503774
+REST_1646,Desi Cafe 1646,BTM Layout,Chinese,16,4.7,1,13.015167,77.606473
+REST_1647,Hungry Palace 1647,Jayanagar,Thai,12,3.4,0,12.922243,77.561696
+REST_1648,Royal Bowl 1648,Whitefield,Thai,35,3.1,0,12.919099,77.569704
+REST_1649,Desi Palace 1649,HSR Layout,Italian,29,3.4,0,12.945439,77.584857
+REST_1650,Fresh Corner 1650,Yelahanka,Biryani,8,3.3,0,13.034832,77.587928
+REST_1651,Royal Grill 1651,Rajajinagar,Italian,20,3.1,0,12.965782,77.539728
+REST_1652,Hungry Bites 1652,Rajajinagar,South Indian,13,4.0,0,12.986746,77.603299
+REST_1653,Fresh Bites 1653,Marathahalli,Continental,31,4.2,0,13.012452,77.563376
+REST_1654,Fresh Bites 1654,Jayanagar,Street Food,19,4.0,0,12.97631,77.688979
+REST_1655,Royal Cafe 1655,Koramangala,Desserts,20,4.9,0,12.954059,77.561996
+REST_1656,Green Hub 1656,HSR Layout,Italian,30,3.2,0,12.996537,77.577937
+REST_1657,Royal Hub 1657,Sarjapur Road,Biryani,9,3.3,0,12.93735,77.612916
+REST_1658,Tasty Express 1658,Electronic City,Chinese,30,3.9,0,12.905849,77.619241
+REST_1659,Urban Palace 1659,Jayanagar,Thai,21,4.6,0,12.926196,77.60372
+REST_1660,Golden Palace 1660,Electronic City,South Indian,33,3.3,0,12.974633,77.561213
+REST_1661,Urban Dhaba 1661,Malleshwaram,Biryani,8,4.6,0,13.033323,77.506845
+REST_1662,Green Kitchen 1662,Electronic City,Street Food,20,4.5,1,12.925461,77.520023
+REST_1663,Fresh Bites 1663,Malleshwaram,Desserts,10,3.2,0,12.971353,77.696674
+REST_1664,Quick Express 1664,Basavanagudi,Thai,33,4.3,0,12.946715,77.593897
+REST_1665,Golden Palace 1665,Yelahanka,Street Food,19,4.9,1,12.91446,77.59856
+REST_1666,Fresh Express 1666,MG Road,Italian,24,3.3,0,13.041343,77.54511
+REST_1667,Spice Cafe 1667,HSR Layout,Fast Food,27,3.2,0,12.933934,77.536925
+REST_1668,Desi Grill 1668,Banashankari,Thai,24,4.0,0,13.048146,77.553345
+REST_1669,Desi Cafe 1669,Electronic City,Biryani,29,3.3,0,13.010462,77.67015
+REST_1670,Royal Corner 1670,Rajajinagar,Chinese,8,3.3,0,12.905117,77.658954
+REST_1671,Green Palace 1671,Marathahalli,North Indian,26,4.0,0,13.028652,77.53755
+REST_1672,Green Grill 1672,MG Road,Italian,22,4.2,0,12.981882,77.523564
+REST_1673,Tasty Palace 1673,Yelahanka,Biryani,13,3.5,0,13.021048,77.597471
+REST_1674,Quick Bites 1674,Basavanagudi,Biryani,32,4.0,0,12.909468,77.573084
+REST_1675,Tasty Express 1675,Koramangala,South Indian,15,5.0,1,12.918042,77.642539
+REST_1676,Desi Hub 1676,Electronic City,Continental,21,4.1,0,13.040932,77.693259
+REST_1677,Golden Cafe 1677,Bommanahalli,Street Food,14,3.3,0,13.002086,77.655182
+REST_1678,Desi Bowl 1678,Jayanagar,Thai,32,3.3,0,13.028989,77.605009
+REST_1679,Desi Bowl 1679,Basavanagudi,Italian,30,4.9,1,12.956171,77.520028
+REST_1680,Hungry Corner 1680,Marathahalli,Chinese,25,4.9,1,13.028744,77.555684
+REST_1681,Urban Cafe 1681,Rajajinagar,Street Food,21,4.8,0,12.920418,77.687629
+REST_1682,Spice Hub 1682,Koramangala,Street Food,29,3.6,0,13.038458,77.622623
+REST_1683,Royal Cafe 1683,HSR Layout,Chinese,12,4.0,0,12.924038,77.694419
+REST_1684,Green Express 1684,BTM Layout,Desserts,20,4.2,0,12.937286,77.570081
+REST_1685,Urban Express 1685,BTM Layout,Desserts,11,4.5,1,13.000848,77.541166
+REST_1686,Urban Palace 1686,Electronic City,North Indian,28,3.2,0,12.946674,77.520522
+REST_1687,Quick Corner 1687,Brigade Road,Continental,17,4.6,1,12.991505,77.530735
+REST_1688,Urban Kitchen 1688,JP Nagar,Desserts,34,4.8,0,12.969979,77.616996
+REST_1689,Urban Corner 1689,Sarjapur Road,Street Food,11,3.2,0,13.009764,77.691947
+REST_1690,Fresh Grill 1690,Malleshwaram,Desserts,21,3.1,0,12.915779,77.653989
+REST_1691,Urban Bowl 1691,Yelahanka,Biryani,21,4.3,0,12.937687,77.571332
+REST_1692,Spice Grill 1692,Koramangala,Italian,26,4.0,0,12.988663,77.633126
+REST_1693,Quick Bowl 1693,Whitefield,Thai,34,4.1,0,12.990994,77.674079
+REST_1694,Royal Dhaba 1694,Rajajinagar,South Indian,26,4.7,1,12.914787,77.518983
+REST_1695,Desi Dhaba 1695,BTM Layout,Thai,21,4.6,1,12.90598,77.629418
+REST_1696,Quick Dhaba 1696,Bellandur,Street Food,9,4.9,1,12.994218,77.655526
+REST_1697,Fresh Dhaba 1697,Koramangala,Chinese,8,4.3,0,12.949344,77.558455
+REST_1698,Royal Grill 1698,Hebbal,Fast Food,19,4.6,0,13.046037,77.54974
+REST_1699,Royal Palace 1699,Bellandur,Continental,30,5.0,0,13.019046,77.541876
+REST_1700,Desi Cafe 1700,Basavanagudi,Biryani,32,4.6,1,13.028497,77.566753
+REST_1701,Tasty Corner 1701,Brigade Road,Biryani,34,3.6,0,13.037126,77.518086
+REST_1702,Desi Dhaba 1702,Rajajinagar,Continental,28,3.4,0,12.957404,77.552936
+REST_1703,Desi Palace 1703,Sarjapur Road,Continental,19,4.5,1,12.948414,77.522296
+REST_1704,Urban Bowl 1704,MG Road,Street Food,17,4.5,1,12.959696,77.639127
+REST_1705,Spice Bites 1705,Jayanagar,Thai,29,3.8,0,12.939506,77.643178
+REST_1706,Desi Cafe 1706,Basavanagudi,Chinese,20,3.2,0,13.043411,77.662915
+REST_1707,Hungry Dhaba 1707,Banashankari,South Indian,18,5.0,0,12.906116,77.609597
+REST_1708,Royal Grill 1708,Yelahanka,Italian,34,4.4,0,12.932846,77.675027
+REST_1709,Fresh Express 1709,Bellandur,North Indian,17,3.5,0,12.903116,77.622444
+REST_1710,Green Bowl 1710,Bellandur,Street Food,26,3.4,0,12.927909,77.603714
+REST_1711,Hungry Cafe 1711,Rajajinagar,Fast Food,30,4.6,0,13.020259,77.586263
+REST_1712,Fresh Palace 1712,Malleshwaram,Street Food,19,3.2,0,13.00398,77.564333
+REST_1713,Tasty Dhaba 1713,BTM Layout,Chinese,11,5.0,1,12.976118,77.595148
+REST_1714,Spice Dhaba 1714,JP Nagar,Italian,31,3.7,0,13.005322,77.695299
+REST_1715,Quick Hub 1715,BTM Layout,Thai,34,3.1,0,12.992821,77.599427
+REST_1716,Spice Express 1716,Hebbal,North Indian,25,3.9,0,12.997542,77.679168
+REST_1717,Golden Bites 1717,Sarjapur Road,Biryani,10,4.9,0,12.937802,77.679306
+REST_1718,Hungry Grill 1718,Koramangala,Desserts,30,4.5,0,12.959437,77.63236
+REST_1719,Tasty Hub 1719,Banashankari,Biryani,15,4.1,0,13.031395,77.689254
+REST_1720,Tasty Dhaba 1720,Electronic City,Biryani,35,3.0,0,12.991439,77.642423
+REST_1721,Hungry Bites 1721,Malleshwaram,South Indian,27,3.1,0,12.962057,77.532241
+REST_1722,Fresh Dhaba 1722,Jayanagar,Chinese,34,3.4,0,12.997411,77.598995
+REST_1723,Desi Bites 1723,Whitefield,South Indian,20,4.1,0,13.042354,77.57749
+REST_1724,Green Grill 1724,Hebbal,Chinese,35,3.7,0,12.914379,77.571031
+REST_1725,Urban Grill 1725,Hebbal,South Indian,13,3.5,0,12.930091,77.57024
+REST_1726,Desi Grill 1726,HSR Layout,South Indian,24,3.5,0,13.031895,77.51218
+REST_1727,Royal Palace 1727,Basavanagudi,South Indian,13,3.0,0,13.047769,77.502516
+REST_1728,Green Hub 1728,JP Nagar,North Indian,33,4.8,1,13.028904,77.691142
+REST_1729,Hungry Grill 1729,Jayanagar,Chinese,25,3.4,0,12.951787,77.674419
+REST_1730,Hungry Palace 1730,Electronic City,Thai,13,4.8,1,13.031951,77.535498
+REST_1731,Quick Kitchen 1731,Electronic City,Thai,9,4.9,1,13.019047,77.524057
+REST_1732,Urban Bites 1732,Banashankari,Biryani,29,3.4,0,12.977773,77.680046
+REST_1733,Fresh Dhaba 1733,Sarjapur Road,Chinese,27,4.8,1,13.039291,77.609596
+REST_1734,Quick Bites 1734,Rajajinagar,Street Food,10,3.7,0,12.954854,77.54789
+REST_1735,Fresh Cafe 1735,Sarjapur Road,North Indian,19,3.1,0,13.047352,77.596085
+REST_1736,Spice Bowl 1736,MG Road,South Indian,29,4.3,0,13.03678,77.612599
+REST_1737,Tasty Cafe 1737,Basavanagudi,Street Food,28,3.4,0,12.948047,77.589581
+REST_1738,Urban Cafe 1738,Jayanagar,Desserts,21,3.8,0,12.97357,77.598248
+REST_1739,Tasty Grill 1739,JP Nagar,Thai,20,3.6,0,13.048843,77.654148
+REST_1740,Tasty Kitchen 1740,Indiranagar,Italian,10,3.6,0,12.98812,77.680055
+REST_1741,Golden Palace 1741,Basavanagudi,North Indian,25,3.1,0,13.045015,77.57698
+REST_1742,Tasty Kitchen 1742,Malleshwaram,Desserts,31,4.0,0,13.027383,77.601749
+REST_1743,Fresh Bites 1743,Indiranagar,Continental,13,4.8,1,12.910945,77.540722
+REST_1744,Hungry Dhaba 1744,Jayanagar,North Indian,9,4.8,0,13.003408,77.684862
+REST_1745,Fresh Palace 1745,Koramangala,Chinese,20,4.7,0,13.025668,77.508951
+REST_1746,Hungry Corner 1746,Electronic City,Thai,29,3.5,0,13.038327,77.636079
+REST_1747,Fresh Hub 1747,Banashankari,Desserts,30,3.0,0,13.023533,77.575426
+REST_1748,Quick Hub 1748,Jayanagar,Thai,8,4.3,0,12.95932,77.6392
+REST_1749,Golden Corner 1749,Bellandur,South Indian,28,3.2,0,12.923839,77.658238
+REST_1750,Golden Bowl 1750,HSR Layout,Biryani,13,4.9,0,13.002136,77.686124
+REST_1751,Urban Bowl 1751,Rajajinagar,Fast Food,17,4.7,0,13.014148,77.578981
+REST_1752,Spice Bowl 1752,Jayanagar,Continental,14,3.3,0,13.049334,77.593791
+REST_1753,Spice Corner 1753,Whitefield,North Indian,34,3.8,0,12.912541,77.638723
+REST_1754,Fresh Cafe 1754,HSR Layout,Thai,19,3.9,0,12.921414,77.6194
+REST_1755,Tasty Corner 1755,Indiranagar,Italian,31,3.6,0,12.98532,77.689718
+REST_1756,Urban Express 1756,JP Nagar,Biryani,22,3.4,0,12.99662,77.578262
+REST_1757,Urban Bowl 1757,Electronic City,South Indian,15,3.4,0,12.929151,77.631602
+REST_1758,Royal Grill 1758,Bellandur,South Indian,34,3.5,0,12.979283,77.611371
+REST_1759,Tasty Palace 1759,Electronic City,North Indian,11,4.4,0,12.961489,77.606855
+REST_1760,Golden Palace 1760,Brigade Road,Biryani,9,3.3,0,12.915569,77.546732
+REST_1761,Royal Dhaba 1761,Rajajinagar,North Indian,34,3.8,0,12.985043,77.671401
+REST_1762,Hungry Bowl 1762,Indiranagar,South Indian,8,4.3,0,13.036622,77.687442
+REST_1763,Urban Dhaba 1763,Rajajinagar,Desserts,22,4.8,0,12.973584,77.550008
+REST_1764,Quick Express 1764,Bellandur,Continental,25,4.8,0,12.94303,77.646196
+REST_1765,Urban Express 1765,Rajajinagar,Biryani,31,3.0,0,13.020818,77.528797
+REST_1766,Green Bowl 1766,Bellandur,Italian,20,3.3,0,12.993975,77.54162
+REST_1767,Green Cafe 1767,Rajajinagar,Continental,31,3.9,0,13.042856,77.592703
+REST_1768,Desi Cafe 1768,JP Nagar,Chinese,31,4.1,0,12.936901,77.642518
+REST_1769,Fresh Dhaba 1769,MG Road,Biryani,22,4.1,0,13.014596,77.581642
+REST_1770,Fresh Cafe 1770,Banashankari,Chinese,23,3.2,0,12.997836,77.560064
+REST_1771,Green Kitchen 1771,Brigade Road,Italian,14,3.7,0,13.033489,77.63193
+REST_1772,Green Express 1772,Bommanahalli,Continental,8,4.4,0,12.957896,77.633399
+REST_1773,Hungry Express 1773,Yelahanka,Desserts,26,4.6,0,12.961693,77.593716
+REST_1774,Quick Palace 1774,Electronic City,Thai,32,4.2,0,13.010298,77.675183
+REST_1775,Spice Bites 1775,Whitefield,North Indian,8,4.8,1,12.949726,77.517989
+REST_1776,Fresh Express 1776,Malleshwaram,Italian,17,4.7,0,13.036387,77.61669
+REST_1777,Quick Palace 1777,Bellandur,Chinese,17,3.6,0,13.02035,77.531962
+REST_1778,Golden Cafe 1778,Electronic City,South Indian,25,4.8,0,12.98425,77.625736
+REST_1779,Fresh Bites 1779,Yelahanka,Chinese,22,3.2,0,12.905907,77.676046
+REST_1780,Green Grill 1780,Sarjapur Road,Chinese,32,3.0,0,13.003218,77.66359
+REST_1781,Hungry Dhaba 1781,Bellandur,Chinese,22,4.8,1,13.041991,77.613357
+REST_1782,Spice Palace 1782,JP Nagar,South Indian,13,3.3,0,12.945016,77.578723
+REST_1783,Spice Corner 1783,Electronic City,Biryani,17,4.4,0,13.042314,77.516615
+REST_1784,Quick Kitchen 1784,Brigade Road,Thai,26,3.8,0,12.925359,77.670251
+REST_1785,Tasty Hub 1785,Jayanagar,Street Food,8,4.0,0,13.035872,77.510402
+REST_1786,Urban Hub 1786,BTM Layout,Continental,21,3.7,0,12.940925,77.699019
+REST_1787,Spice Palace 1787,Bellandur,Street Food,9,3.3,0,13.046737,77.624834
+REST_1788,Royal Hub 1788,MG Road,Desserts,14,4.8,0,12.905397,77.634381
+REST_1789,Desi Palace 1789,Rajajinagar,Street Food,35,5.0,0,13.006092,77.526468
+REST_1790,Urban Bowl 1790,Malleshwaram,Italian,23,3.6,0,12.912496,77.589975
+REST_1791,Desi Bowl 1791,HSR Layout,South Indian,8,4.6,1,12.916057,77.514883
+REST_1792,Spice Express 1792,Malleshwaram,Thai,33,3.5,0,12.913108,77.515082
+REST_1793,Desi Dhaba 1793,Koramangala,South Indian,12,4.2,0,13.044847,77.693822
+REST_1794,Spice Dhaba 1794,JP Nagar,South Indian,9,4.4,0,12.929928,77.649213
+REST_1795,Golden Bites 1795,HSR Layout,South Indian,8,3.9,0,13.00284,77.542044
+REST_1796,Green Palace 1796,HSR Layout,Street Food,14,4.0,0,12.929595,77.697586
+REST_1797,Golden Grill 1797,Brigade Road,Fast Food,31,4.4,0,13.029751,77.512253
+REST_1798,Tasty Kitchen 1798,Marathahalli,South Indian,13,4.9,0,13.031726,77.615087
+REST_1799,Spice Bites 1799,Jayanagar,Italian,13,4.7,1,12.934157,77.578934
+REST_1800,Urban Dhaba 1800,MG Road,Desserts,24,4.3,0,12.932739,77.55019
+REST_1801,Fresh Bowl 1801,Malleshwaram,North Indian,28,4.8,1,12.942217,77.532253
+REST_1802,Spice Grill 1802,Indiranagar,Biryani,31,3.1,0,13.013348,77.586019
+REST_1803,Royal Bites 1803,Bellandur,Biryani,26,4.5,1,13.004711,77.621101
+REST_1804,Hungry Hub 1804,HSR Layout,Biryani,22,3.7,0,13.021645,77.574089
+REST_1805,Quick Palace 1805,Banashankari,Street Food,31,3.4,0,12.988084,77.50854
+REST_1806,Green Grill 1806,Malleshwaram,Continental,18,4.8,1,13.045841,77.592725
+REST_1807,Quick Express 1807,Bellandur,Chinese,31,4.5,0,12.903672,77.527886
+REST_1808,Green Express 1808,JP Nagar,Desserts,19,3.0,0,13.018706,77.632354
+REST_1809,Golden Dhaba 1809,Marathahalli,Chinese,14,3.2,0,12.958694,77.52998
+REST_1810,Fresh Kitchen 1810,JP Nagar,Continental,20,3.3,0,13.024467,77.670763
+REST_1811,Fresh Corner 1811,Yelahanka,Continental,27,4.4,0,12.964928,77.689466
+REST_1812,Quick Kitchen 1812,Marathahalli,Biryani,11,3.1,0,12.948492,77.59534
+REST_1813,Golden Corner 1813,Banashankari,Street Food,23,4.6,0,12.901945,77.561602
+REST_1814,Desi Hub 1814,Marathahalli,Thai,21,4.2,0,12.989867,77.605927
+REST_1815,Desi Express 1815,JP Nagar,Biryani,26,4.9,0,12.967062,77.5834
+REST_1816,Desi Corner 1816,Jayanagar,Biryani,28,4.8,1,13.018021,77.610999
+REST_1817,Desi Corner 1817,MG Road,Chinese,18,4.6,1,13.036707,77.641621
+REST_1818,Fresh Corner 1818,Brigade Road,Continental,26,3.9,0,12.90291,77.602192
+REST_1819,Green Express 1819,Whitefield,Thai,18,3.2,0,12.973641,77.62052
+REST_1820,Spice Grill 1820,Yelahanka,Desserts,32,3.4,0,13.015492,77.642382
+REST_1821,Royal Grill 1821,Malleshwaram,Italian,15,4.3,0,12.949082,77.664967
+REST_1822,Tasty Express 1822,Sarjapur Road,Fast Food,18,4.0,0,12.947125,77.676643
+REST_1823,Fresh Dhaba 1823,Jayanagar,Thai,11,3.6,0,12.909084,77.676954
+REST_1824,Tasty Hub 1824,Bommanahalli,Italian,33,3.8,0,13.005097,77.67054
+REST_1825,Urban Corner 1825,Banashankari,Chinese,17,3.1,0,12.997745,77.652475
+REST_1826,Desi Grill 1826,HSR Layout,Chinese,22,4.3,0,12.98329,77.618769
+REST_1827,Spice Hub 1827,JP Nagar,Continental,16,3.4,0,12.990981,77.556953
+REST_1828,Golden Palace 1828,MG Road,North Indian,11,3.1,0,12.948981,77.59542
+REST_1829,Desi Cafe 1829,Electronic City,Street Food,8,4.3,0,12.996949,77.579108
+REST_1830,Hungry Kitchen 1830,JP Nagar,Fast Food,18,4.1,0,12.985279,77.676652
+REST_1831,Golden Grill 1831,Indiranagar,South Indian,10,3.3,0,12.915338,77.532676
+REST_1832,Spice Palace 1832,BTM Layout,Biryani,18,3.2,0,12.951536,77.513915
+REST_1833,Tasty Kitchen 1833,Rajajinagar,Street Food,21,4.3,0,12.959399,77.530997
+REST_1834,Fresh Grill 1834,HSR Layout,Chinese,11,4.5,1,12.934109,77.511303
+REST_1835,Royal Kitchen 1835,Basavanagudi,Italian,23,3.1,0,12.93285,77.546533
+REST_1836,Golden Bowl 1836,Electronic City,Biryani,18,3.8,0,12.99515,77.579162
+REST_1837,Urban Grill 1837,Bommanahalli,North Indian,29,4.4,0,12.962241,77.513592
+REST_1838,Hungry Kitchen 1838,Jayanagar,Italian,15,4.2,0,12.901073,77.640365
+REST_1839,Desi Bowl 1839,MG Road,Chinese,20,3.4,0,12.980434,77.68304
+REST_1840,Urban Hub 1840,Brigade Road,Street Food,19,4.0,0,12.923979,77.540317
+REST_1841,Urban Palace 1841,Brigade Road,Italian,18,4.8,0,12.997569,77.59033
+REST_1842,Hungry Bowl 1842,Bellandur,Desserts,14,3.4,0,12.906249,77.660927
+REST_1843,Fresh Dhaba 1843,Jayanagar,Fast Food,34,4.4,0,12.932151,77.618652
+REST_1844,Desi Grill 1844,Banashankari,North Indian,28,4.3,0,12.985027,77.676876
+REST_1845,Fresh Bowl 1845,Yelahanka,North Indian,17,3.0,0,13.024438,77.672072
+REST_1846,Quick Cafe 1846,Jayanagar,Biryani,22,5.0,1,12.924789,77.598336
+REST_1847,Hungry Hub 1847,Basavanagudi,Italian,10,4.2,0,13.032662,77.670536
+REST_1848,Royal Kitchen 1848,Brigade Road,Fast Food,8,3.6,0,12.957213,77.613622
+REST_1849,Spice Kitchen 1849,Marathahalli,Biryani,14,4.3,0,13.045641,77.648369
+REST_1850,Spice Hub 1850,Malleshwaram,Desserts,28,3.0,0,13.015567,77.679704
+REST_1851,Golden Hub 1851,Banashankari,Continental,33,4.8,0,12.995506,77.690485
+REST_1852,Quick Express 1852,Koramangala,North Indian,11,3.2,0,12.93522,77.673958
+REST_1853,Tasty Hub 1853,MG Road,Fast Food,8,4.4,0,12.971959,77.646287
+REST_1854,Fresh Bites 1854,Electronic City,Desserts,29,3.8,0,12.905574,77.586498
+REST_1855,Green Express 1855,Bellandur,North Indian,26,4.8,1,13.043914,77.675275
+REST_1856,Quick Corner 1856,Banashankari,Fast Food,8,4.3,0,13.044478,77.537614
+REST_1857,Royal Kitchen 1857,Bellandur,Thai,34,4.7,1,13.005442,77.658393
+REST_1858,Urban Palace 1858,Indiranagar,South Indian,27,3.7,0,13.023107,77.608918
+REST_1859,Desi Bowl 1859,Malleshwaram,Street Food,12,3.6,0,12.995897,77.5814
+REST_1860,Green Palace 1860,MG Road,Continental,19,4.5,0,13.000899,77.677886
+REST_1861,Green Palace 1861,Basavanagudi,Desserts,10,4.2,0,13.032716,77.566561
+REST_1862,Quick Grill 1862,Malleshwaram,Street Food,35,4.4,0,13.033461,77.568691
+REST_1863,Hungry Palace 1863,Electronic City,Street Food,28,4.7,0,13.01981,77.527904
+REST_1864,Green Bites 1864,Jayanagar,Desserts,11,5.0,1,12.977935,77.615093
+REST_1865,Tasty Express 1865,Yelahanka,Italian,29,4.4,0,12.950235,77.523384
+REST_1866,Tasty Cafe 1866,Malleshwaram,Street Food,29,4.6,0,12.95267,77.5816
+REST_1867,Fresh Grill 1867,Whitefield,Chinese,34,4.4,0,13.012998,77.64324
+REST_1868,Spice Grill 1868,Bommanahalli,Chinese,10,4.4,0,12.945983,77.65116
+REST_1869,Fresh Bowl 1869,Banashankari,South Indian,34,3.4,0,12.902433,77.559157
+REST_1870,Golden Bites 1870,Jayanagar,South Indian,16,3.9,0,12.917843,77.688975
+REST_1871,Royal Dhaba 1871,Rajajinagar,Fast Food,18,3.8,0,12.931267,77.585705
+REST_1872,Quick Dhaba 1872,MG Road,Thai,9,4.4,0,13.046552,77.599999
+REST_1873,Royal Hub 1873,Malleshwaram,Continental,35,4.6,1,13.015468,77.58454
+REST_1874,Hungry Palace 1874,MG Road,Continental,8,3.8,0,13.044415,77.65181
+REST_1875,Quick Hub 1875,HSR Layout,Street Food,10,3.2,0,13.008642,77.643122
+REST_1876,Quick Cafe 1876,Whitefield,Biryani,15,4.2,0,12.970392,77.564575
+REST_1877,Quick Corner 1877,Basavanagudi,Thai,21,3.2,0,13.002574,77.618686
+REST_1878,Tasty Grill 1878,Koramangala,South Indian,24,3.4,0,12.941211,77.61301
+REST_1879,Royal Hub 1879,Basavanagudi,Thai,11,4.4,0,12.973665,77.680452
+REST_1880,Golden Kitchen 1880,Banashankari,Fast Food,27,3.7,0,12.916451,77.530959
+REST_1881,Fresh Grill 1881,HSR Layout,Continental,15,3.0,0,13.016361,77.661361
+REST_1882,Green Kitchen 1882,Marathahalli,Fast Food,13,3.4,0,13.029835,77.616714
+REST_1883,Fresh Grill 1883,Sarjapur Road,South Indian,11,3.3,0,12.9198,77.695759
+REST_1884,Hungry Kitchen 1884,Brigade Road,Continental,23,3.7,0,13.004838,77.504108
+REST_1885,Desi Bowl 1885,Bommanahalli,South Indian,21,3.9,0,12.941835,77.611456
+REST_1886,Spice Bites 1886,Hebbal,South Indian,16,4.8,1,12.971194,77.601423
+REST_1887,Golden Bites 1887,BTM Layout,North Indian,13,3.2,0,12.928019,77.539303
+REST_1888,Desi Bowl 1888,Basavanagudi,Fast Food,23,3.1,0,13.0185,77.537102
+REST_1889,Spice Bowl 1889,Hebbal,North Indian,15,3.4,0,12.945051,77.649328
+REST_1890,Royal Palace 1890,Rajajinagar,North Indian,24,4.6,0,12.999887,77.617115
+REST_1891,Urban Express 1891,Koramangala,Biryani,15,4.7,1,12.9283,77.594952
+REST_1892,Fresh Bites 1892,Sarjapur Road,Chinese,20,4.1,0,12.994054,77.671739
+REST_1893,Golden Express 1893,HSR Layout,Street Food,12,4.7,0,12.977008,77.697472
+REST_1894,Golden Corner 1894,MG Road,Desserts,34,4.3,0,13.040641,77.665595
+REST_1895,Royal Cafe 1895,Hebbal,North Indian,35,3.6,0,12.959194,77.538521
+REST_1896,Green Grill 1896,Malleshwaram,Thai,34,4.7,1,12.919099,77.622979
+REST_1897,Green Express 1897,Bommanahalli,Italian,27,4.0,0,12.97457,77.515011
+REST_1898,Royal Cafe 1898,Brigade Road,South Indian,25,3.2,0,13.033748,77.529113
+REST_1899,Desi Hub 1899,Indiranagar,Desserts,16,3.9,0,13.021022,77.683422
+REST_1900,Tasty Dhaba 1900,Banashankari,Biryani,17,4.7,0,12.973168,77.651484
+REST_1901,Tasty Dhaba 1901,MG Road,Thai,29,4.6,0,12.950561,77.638285
+REST_1902,Tasty Bowl 1902,JP Nagar,Thai,28,3.1,0,12.994368,77.686832
+REST_1903,Hungry Bowl 1903,Banashankari,Italian,18,4.9,0,12.935912,77.538253
+REST_1904,Fresh Palace 1904,Banashankari,Street Food,29,3.8,0,12.939587,77.58477
+REST_1905,Hungry Express 1905,Jayanagar,Fast Food,14,4.4,0,12.954223,77.608555
+REST_1906,Fresh Grill 1906,JP Nagar,Thai,24,3.3,0,13.008689,77.675229
+REST_1907,Fresh Dhaba 1907,BTM Layout,Biryani,13,4.8,1,12.95625,77.578326
+REST_1908,Hungry Grill 1908,Yelahanka,Street Food,18,3.3,0,12.990898,77.550507
+REST_1909,Tasty Cafe 1909,Rajajinagar,North Indian,10,3.4,0,13.040118,77.685561
+REST_1910,Tasty Dhaba 1910,Bellandur,Fast Food,24,4.1,0,12.929879,77.510199
+REST_1911,Quick Dhaba 1911,Hebbal,South Indian,23,3.9,0,12.946971,77.527945
+REST_1912,Desi Kitchen 1912,Whitefield,North Indian,35,3.1,0,12.916119,77.607045
+REST_1913,Spice Cafe 1913,Electronic City,Italian,9,4.8,1,12.901478,77.567521
+REST_1914,Urban Hub 1914,Brigade Road,Desserts,15,3.5,0,12.992747,77.614123
+REST_1915,Tasty Palace 1915,Yelahanka,Italian,12,3.0,0,12.987618,77.65247
+REST_1916,Green Corner 1916,Marathahalli,Street Food,27,3.0,0,12.924059,77.614248
+REST_1917,Urban Grill 1917,Brigade Road,South Indian,11,3.5,0,12.96096,77.548405
+REST_1918,Golden Express 1918,Brigade Road,Italian,16,3.2,0,12.935816,77.561699
+REST_1919,Hungry Cafe 1919,MG Road,Continental,14,3.5,0,13.027092,77.581707
+REST_1920,Quick Express 1920,Bellandur,Desserts,35,4.2,0,12.957024,77.608253
+REST_1921,Fresh Grill 1921,Yelahanka,Desserts,33,4.8,0,12.903107,77.601512
+REST_1922,Quick Dhaba 1922,Rajajinagar,Italian,19,3.3,0,12.911604,77.667388
+REST_1923,Golden Cafe 1923,Rajajinagar,Italian,14,3.6,0,12.960765,77.549753
+REST_1924,Fresh Cafe 1924,Banashankari,Thai,23,4.9,1,12.984496,77.629095
+REST_1925,Quick Kitchen 1925,HSR Layout,Desserts,26,3.7,0,12.957146,77.598191
+REST_1926,Green Bites 1926,Bellandur,Desserts,16,3.7,0,12.940368,77.68232
+REST_1927,Quick Express 1927,Yelahanka,Chinese,15,4.7,1,12.989866,77.662028
+REST_1928,Green Palace 1928,Indiranagar,North Indian,32,3.5,0,13.006066,77.531751
+REST_1929,Tasty Kitchen 1929,Brigade Road,Fast Food,10,4.1,0,12.938272,77.529806
+REST_1930,Green Hub 1930,Electronic City,Chinese,15,3.8,0,12.924994,77.513356
+REST_1931,Hungry Kitchen 1931,HSR Layout,Thai,28,4.6,1,13.030021,77.648219
+REST_1932,Tasty Grill 1932,Banashankari,Desserts,13,3.5,0,13.021159,77.539077
+REST_1933,Spice Bites 1933,HSR Layout,Fast Food,34,4.6,1,13.016859,77.610688
+REST_1934,Golden Express 1934,Malleshwaram,Street Food,13,3.5,0,12.901312,77.671081
+REST_1935,Tasty Kitchen 1935,Yelahanka,Street Food,24,4.8,0,12.92505,77.593813
+REST_1936,Fresh Dhaba 1936,Electronic City,Biryani,26,4.6,0,12.968242,77.642042
+REST_1937,Golden Dhaba 1937,BTM Layout,North Indian,10,5.0,0,12.94308,77.605779
+REST_1938,Green Bowl 1938,Sarjapur Road,Street Food,31,3.8,0,12.978758,77.692421
+REST_1939,Desi Dhaba 1939,Bommanahalli,Thai,30,4.7,0,12.937714,77.687374
+REST_1940,Tasty Grill 1940,Marathahalli,Chinese,33,3.1,0,12.911013,77.698943
+REST_1941,Spice Dhaba 1941,Banashankari,Desserts,20,3.8,0,12.956044,77.562909
+REST_1942,Royal Corner 1942,Jayanagar,Desserts,32,4.3,0,12.922076,77.673039
+REST_1943,Urban Cafe 1943,Electronic City,Italian,12,3.0,0,12.934061,77.587805
+REST_1944,Green Grill 1944,Sarjapur Road,Continental,19,4.8,0,12.96237,77.510269
+REST_1945,Spice Hub 1945,Electronic City,Biryani,9,3.7,0,13.036409,77.677409
+REST_1946,Spice Dhaba 1946,Hebbal,Fast Food,19,4.6,1,12.906079,77.696271
+REST_1947,Spice Palace 1947,Sarjapur Road,Biryani,14,3.6,0,12.976008,77.502211
+REST_1948,Golden Bowl 1948,Whitefield,Fast Food,9,3.0,0,12.932804,77.604218
+REST_1949,Quick Cafe 1949,Koramangala,Biryani,33,4.2,0,12.952039,77.565309
+REST_1950,Royal Bowl 1950,Malleshwaram,Thai,11,4.8,1,12.965011,77.602794
+REST_1951,Hungry Bowl 1951,Basavanagudi,South Indian,12,4.9,0,12.999092,77.587972
+REST_1952,Golden Express 1952,Yelahanka,Italian,10,4.2,0,12.941364,77.544048
+REST_1953,Urban Kitchen 1953,Indiranagar,Chinese,14,3.8,0,12.92905,77.659894
+REST_1954,Green Bowl 1954,Electronic City,Thai,16,5.0,0,13.048654,77.532678
+REST_1955,Urban Grill 1955,Indiranagar,South Indian,15,3.9,0,13.04718,77.684964
+REST_1956,Spice Bites 1956,Sarjapur Road,Continental,33,4.8,1,13.046919,77.670119
+REST_1957,Hungry Bowl 1957,Yelahanka,Street Food,34,4.5,1,12.94898,77.53112
+REST_1958,Tasty Hub 1958,MG Road,Thai,32,4.8,0,12.903334,77.596679
+REST_1959,Tasty Hub 1959,JP Nagar,Continental,31,5.0,0,12.988754,77.660335
+REST_1960,Spice Express 1960,Yelahanka,Street Food,15,4.7,0,13.043427,77.59287
+REST_1961,Spice Bowl 1961,Electronic City,Street Food,19,3.8,0,12.959978,77.613315
+REST_1962,Spice Corner 1962,Banashankari,Chinese,27,4.0,0,13.039261,77.513264
+REST_1963,Royal Cafe 1963,JP Nagar,Desserts,34,3.9,0,12.962133,77.695672
+REST_1964,Desi Bites 1964,JP Nagar,Fast Food,15,4.0,0,13.04967,77.685567
+REST_1965,Hungry Corner 1965,Rajajinagar,Desserts,21,4.7,0,12.991586,77.532979
+REST_1966,Hungry Palace 1966,Marathahalli,Thai,20,4.7,0,12.912347,77.647486
+REST_1967,Tasty Cafe 1967,Electronic City,Continental,10,4.9,1,13.004608,77.530378
+REST_1968,Royal Grill 1968,Indiranagar,Chinese,9,3.3,0,13.047555,77.573353
+REST_1969,Hungry Bites 1969,Malleshwaram,North Indian,13,4.8,0,12.905841,77.616573
+REST_1970,Hungry Kitchen 1970,Indiranagar,Italian,33,3.3,0,12.95863,77.698696
+REST_1971,Urban Dhaba 1971,Whitefield,Fast Food,27,4.7,0,12.991911,77.527723
+REST_1972,Hungry Hub 1972,Bellandur,Chinese,28,4.6,1,12.974462,77.544758
+REST_1973,Royal Cafe 1973,Banashankari,Biryani,29,3.3,0,12.970899,77.590502
+REST_1974,Urban Hub 1974,Bommanahalli,Desserts,21,4.6,0,13.04769,77.561865
+REST_1975,Fresh Corner 1975,JP Nagar,Continental,12,4.4,0,12.90552,77.51175
+REST_1976,Golden Bites 1976,Whitefield,Continental,12,3.3,0,12.911016,77.654073
+REST_1977,Hungry Corner 1977,JP Nagar,Continental,21,3.8,0,13.039481,77.633654
+REST_1978,Hungry Hub 1978,Basavanagudi,Italian,23,4.3,0,12.954631,77.578159
+REST_1979,Spice Kitchen 1979,Malleshwaram,North Indian,34,4.7,0,12.927984,77.599523
+REST_1980,Desi Grill 1980,Rajajinagar,Chinese,34,3.7,0,13.045005,77.58447
+REST_1981,Hungry Express 1981,JP Nagar,North Indian,35,4.6,1,12.96237,77.597379
+REST_1982,Golden Kitchen 1982,JP Nagar,Chinese,15,4.0,0,12.974304,77.555572
+REST_1983,Golden Cafe 1983,Jayanagar,North Indian,32,3.0,0,12.954109,77.568593
+REST_1984,Desi Palace 1984,Brigade Road,North Indian,11,4.0,0,13.023649,77.600215
+REST_1985,Golden Palace 1985,Jayanagar,Street Food,16,4.1,0,13.033438,77.698726
+REST_1986,Hungry Corner 1986,Brigade Road,Desserts,32,4.9,1,12.968243,77.643821
+REST_1987,Urban Bowl 1987,Basavanagudi,Continental,9,3.6,0,12.902687,77.617864
+REST_1988,Quick Cafe 1988,HSR Layout,Continental,27,4.1,0,13.038463,77.66696
+REST_1989,Quick Hub 1989,BTM Layout,Fast Food,28,4.7,1,13.000265,77.615913
+REST_1990,Urban Kitchen 1990,Rajajinagar,Street Food,15,3.1,0,13.042801,77.58985
+REST_1991,Royal Cafe 1991,Rajajinagar,North Indian,10,4.6,0,13.022164,77.609309
+REST_1992,Royal Bowl 1992,Hebbal,Fast Food,32,4.2,0,12.907679,77.697774
+REST_1993,Tasty Bowl 1993,Jayanagar,Fast Food,32,3.2,0,12.935225,77.697855
+REST_1994,Desi Express 1994,Basavanagudi,Street Food,28,3.4,0,13.002763,77.515935
+REST_1995,Quick Kitchen 1995,BTM Layout,South Indian,12,4.9,1,12.925353,77.558463
+REST_1996,Green Express 1996,Yelahanka,Desserts,14,4.5,0,13.014764,77.557756
+REST_1997,Tasty Bites 1997,Basavanagudi,South Indian,12,4.7,1,12.900499,77.54791
+REST_1998,Golden Bites 1998,Yelahanka,Continental,18,3.2,0,13.0149,77.655908
+REST_1999,Tasty Bites 1999,Bellandur,Continental,29,4.2,0,13.017825,77.571252
+REST_2000,Desi Express 2000,HSR Layout,Desserts,33,3.4,0,13.041741,77.645063

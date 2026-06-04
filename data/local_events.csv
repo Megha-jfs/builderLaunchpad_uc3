@@ -1,0 +1,51 @@
+event_id,event_name,event_type,date,start_time,end_time,expected_crowd,zones_impacted,demand_multiplier
+EVT_001,RCB vs MI,Concert,2026-05-23,20:00,23:00,50141,"Hebbal,Bellandur,Whitefield",3.22
+EVT_002,KKR vs RCB,Public Holiday,2026-05-14,12:00,17:00,41225,"Koramangala,Whitefield,BTM Layout",1.25
+EVT_003,Ramadan Iftar Rush,Public Holiday,2026-05-19,15:00,18:00,33015,"Banashankari,MG Road",2.25
+EVT_004,IIM Convocation,Public Holiday,2026-05-02,10:00,15:00,73395,"Basavanagudi,Bommanahalli,Sarjapur Road,Hebbal",3.1
+EVT_005,RCB vs MI,Concert,2026-05-19,20:00,23:00,18978,"Malleshwaram,Banashankari,Indiranagar,Yelahanka,Koramangala",1.53
+EVT_006,Memorial Day Off,Festival,2026-05-25,16:00,20:00,42402,Whitefield,1.93
+EVT_007,Bangalore Tech Summit,Concert,2026-05-14,15:00,19:00,68442,Brigade Road,2.94
+EVT_008,Flipkart BBD,IPL Match,2026-05-14,15:00,18:00,58023,"HSR Layout,Banashankari,Sarjapur Road,Indiranagar,JP Nagar",2.73
+EVT_009,Koramangala Comedy Night,College Fest,2026-05-14,17:00,19:00,63904,"MG Road,Whitefield",1.59
+EVT_010,Diljit Concert,Festival,2026-05-19,13:00,16:00,35970,"BTM Layout,Jayanagar,Basavanagudi",1.88
+EVT_011,Koramangala Comedy Night,IPL Match,2026-05-07,20:00,23:00,55222,"Bellandur,Bommanahalli,MG Road,Jayanagar,Basavanagudi",1.47
+EVT_012,RCB vs MI,Concert,2026-05-23,18:00,22:00,20521,Malleshwaram,2.12
+EVT_013,IIM Convocation,IPL Match,2026-05-11,14:00,18:00,7289,"Basavanagudi,Malleshwaram,Hebbal",2.02
+EVT_014,KKR vs RCB,Marathon,2026-05-20,19:00,23:00,34193,"Brigade Road,Malleshwaram",3.37
+EVT_015,Flipkart BBD,College Fest,2026-05-09,19:00,22:00,2792,"Malleshwaram,Yelahanka,JP Nagar,Brigade Road,MG Road",3.36
+EVT_016,HSR Bazaar Night,Concert,2026-05-03,13:00,15:00,13331,"MG Road,Banashankari,Brigade Road,Yelahanka",3.29
+EVT_017,Ramadan Iftar Rush,Corporate Event,2026-05-06,19:00,23:00,66158,"Banashankari,Electronic City,Bellandur,Hebbal",2.91
+EVT_018,Koramangala Comedy Night,College Fest,2026-05-01,15:00,19:00,3546,"Banashankari,Bellandur,Basavanagudi,Rajajinagar,Brigade Road",1.35
+EVT_019,Electronic City IT Fest,Corporate Event,2026-05-14,18:00,21:00,66854,Koramangala,3.49
+EVT_020,Arijit Live,Concert,2026-05-11,11:00,14:00,14223,Bommanahalli,2.56
+EVT_021,College Fest #21,College Fest,2026-05-29,16:00,19:00,32564,HSR Layout,2.2
+EVT_022,Sale Day #22,Sale Day,2026-05-29,15:00,19:00,51643,"Hebbal,BTM Layout",1.2
+EVT_023,College Fest #23,College Fest,2026-05-30,20:00,23:00,27043,"MG Road,Indiranagar,HSR Layout",2.0
+EVT_024,College Fest #24,College Fest,2026-05-27,10:00,15:00,48361,"Rajajinagar,MG Road,Banashankari",3.15
+EVT_025,Sale Day #25,Sale Day,2026-05-09,17:00,20:00,45091,"Electronic City,Bommanahalli,Jayanagar,Rajajinagar,Brigade Road",2.05
+EVT_026,Public Holiday #26,Public Holiday,2026-05-16,14:00,16:00,52015,Hebbal,3.32
+EVT_027,Sale Day #27,Sale Day,2026-05-12,20:00,23:00,41846,"Rajajinagar,Banashankari,Koramangala,Brigade Road",1.69
+EVT_028,Marathon #28,Marathon,2026-05-13,15:00,20:00,15515,"Whitefield,HSR Layout,Indiranagar,Hebbal",2.51
+EVT_029,Public Holiday #29,Public Holiday,2026-05-14,19:00,23:00,79034,"Brigade Road,Marathahalli",1.85
+EVT_030,Sale Day #30,Sale Day,2026-05-19,12:00,15:00,41289,"Jayanagar,Hebbal,Marathahalli",2.36
+EVT_031,Festival #31,Festival,2026-05-11,15:00,20:00,24831,"Jayanagar,Sarjapur Road,Banashankari,Bellandur,Bommanahalli",2.65
+EVT_032,Public Holiday #32,Public Holiday,2026-05-03,13:00,16:00,32913,"Indiranagar,Whitefield,Brigade Road,Sarjapur Road",3.38
+EVT_033,Public Holiday #33,Public Holiday,2026-05-14,16:00,18:00,48694,"Banashankari,JP Nagar",1.28
+EVT_034,Festival #34,Festival,2026-05-11,16:00,20:00,41046,"Basavanagudi,Indiranagar,Rajajinagar,Whitefield,Banashankari",2.08
+EVT_035,Public Holiday #35,Public Holiday,2026-05-18,16:00,18:00,69052,"Bellandur,Rajajinagar,Banashankari",2.19
+EVT_036,IPL Match #36,IPL Match,2026-05-27,13:00,18:00,27068,"Banashankari,Electronic City",2.44
+EVT_037,Sale Day #37,Sale Day,2026-05-14,12:00,15:00,65947,Brigade Road,3.43
+EVT_038,Festival #38,Festival,2026-05-05,17:00,20:00,54252,"JP Nagar,Hebbal,MG Road,Bellandur",1.73
+EVT_039,IPL Match #39,IPL Match,2026-05-20,16:00,18:00,64539,"Sarjapur Road,Brigade Road",2.94
+EVT_040,Corporate Event #40,Corporate Event,2026-05-30,16:00,20:00,58995,"HSR Layout,Yelahanka,Bellandur,Hebbal",2.15
+EVT_041,Public Holiday #41,Public Holiday,2026-05-23,20:00,22:00,55114,"Koramangala,Marathahalli,MG Road",2.11
+EVT_042,Concert #42,Concert,2026-05-23,13:00,17:00,76801,"JP Nagar,Bellandur,Marathahalli",1.81
+EVT_043,Festival #43,Festival,2026-05-09,17:00,22:00,36005,"Marathahalli,Hebbal,Whitefield,Banashankari,HSR Layout",1.26
+EVT_044,Marathon #44,Marathon,2026-05-20,20:00,23:00,67717,Basavanagudi,1.76
+EVT_045,IPL Match #45,IPL Match,2026-05-17,17:00,19:00,29478,"Whitefield,Malleshwaram",2.11
+EVT_046,Public Holiday #46,Public Holiday,2026-05-14,10:00,14:00,25832,"Indiranagar,Basavanagudi",3.0
+EVT_047,Corporate Event #47,Corporate Event,2026-05-03,18:00,23:00,8037,"MG Road,Rajajinagar,Marathahalli,Banashankari",3.49
+EVT_048,Marathon #48,Marathon,2026-05-18,16:00,18:00,8825,Jayanagar,1.23
+EVT_049,Public Holiday #49,Public Holiday,2026-05-18,15:00,20:00,28406,"Koramangala,Yelahanka,Indiranagar,Banashankari,MG Road",1.42
+EVT_050,Festival #50,Festival,2026-05-13,16:00,21:00,13305,"Koramangala,Rajajinagar",1.66
