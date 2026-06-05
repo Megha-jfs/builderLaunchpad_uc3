@@ -21,12 +21,12 @@ The result:
 
 ## The Opportunity
 
-A platform that fuses **5 signals in real-time**:
+A platform that fuses **5 signals**:
 1. Historical order patterns (time-of-day, day-of-week, zone)
-2. Live weather (rain = +40% demand, +60% partner unavailability)
+2. Weather data (rain = +40% demand, +60% partner unavailability)
 3. Events calendar (IPL match in stadium zone = +80% nearby demand)
-4. Partner GPS pings (real-time supply positioning)
-5. Order velocity (rolling 15-min order rate vs. baseline)
+4. Partner availability (active partners per zone)
+5. Order velocity (rolling order rate vs. baseline)
 
 ...to produce **3 actionable outputs**:
 1. Zone-level demand forecast (next 30/60 mins)
@@ -41,21 +41,27 @@ If built well, this system could deliver:
 - 20% improvement in partner utilization (fewer idle partners)
 - 10% revenue uplift from smarter surge (vs. flat surcharge)
 
-## Why Databricks?
+## Platform & Tools
 
-This use case exercises the full Databricks stack:
-- **Delta Live Tables**: Real-time streaming pipeline for order ingestion
-- **Unity Catalog**: Governed data mesh across zones, partners, weather
-- **Databricks SQL / Lakeview**: Ops dashboards with real-time refresh
-- **Genie Space**: Natural-language ops queries ("which zone needs partners right now?")
-- **Databricks Apps**: Interactive ops console for zone managers
-- **MLflow**: Model versioning for demand prediction models
+This use case runs entirely on **Databricks Community Edition** (free tier):
+
+| What You Use | For What |
+|---|---|
+| Apache Spark (PySpark + SQL) | Data ingestion, cleaning, aggregation |
+| Delta Lake | Bronze → Silver → Gold medallion tables |
+| MLflow | Experiment tracking, model logging, metrics |
+| matplotlib / plotly | Rich interactive visualizations |
+| Databricks widgets | Interactive notebook parameters |
+| scikit-learn / pandas | ML model training (demand forecasting) |
+
+**Not required:** Unity Catalog, Delta Live Tables, Genie Space, Lakeview Dashboards, Databricks Apps, SQL Warehouses.
 
 ## Candidate's Role
 
 You are a **Data Engineer on the Ops Intelligence team** at ZipDrop. Your job:
-- Build the data foundation (ingest, clean, model)
-- Create the analytics surfaces (dashboards, Genie Space)
-- Optionally: Build the demand prediction model and ops app
+- Build the data foundation (ingest, clean, model) using Delta Lake
+- Create analytics visualizations (matplotlib/plotly charts in notebooks)
+- Optionally: Build a demand prediction model tracked in MLflow
+- Optionally: Build an interactive ops console using notebook widgets
 
 You are NOT expected to build a production ML model in 4 hours — a rule-based heuristic (weighted moving average + event multiplier) is perfectly valid for Tier 0/1.

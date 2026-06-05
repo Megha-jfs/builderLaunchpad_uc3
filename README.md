@@ -2,11 +2,11 @@
 
 ## Problem Statement
 
-Food delivery platforms (Swiggy/Zomato-style) lose revenue and customer trust during demand spikes — festivals, IPL matches, rain, office-hour rushes. Delivery partners are unevenly distributed, ETAs blow up, and surge pricing kicks in too late (or too aggressively). Currently, ops teams react **after** the spike hits rather than preparing ahead.
+Food delivery platforms (Swiggy/Zomato-style) lose revenue and customer trust during demand spikes — festivals, IPL matches, rain, office-hour rushes. Delivery partners are unevenly distributed, ETAs blow up, and surge pricing is applied too late (or too aggressively). Currently, ops teams react **after** the spike hits rather than preparing ahead.
 
 ### The Goal
 
-Build an AI-powered **demand intelligence platform** on Databricks that ingests historical order data, weather forecasts, local events calendar, and delivery partner GPS pings to:
+Build an AI-powered **demand intelligence platform** on Databricks Community Edition that ingests historical order data, weather forecasts, local events calendar, and delivery partner availability to:
 
 1. **Predict demand surges** 30-60 mins in advance at a zone level
 2. **Recommend dynamic pricing** tiers that balance supply/demand without alienating customers
@@ -26,6 +26,20 @@ ZipDrop's ops team currently relies on static time-based surge rules (lunch = 1.
 - 18% order cancellation rate during spikes
 - Average ETA overshoot of 12 mins on rainy evenings
 - 22% of partners idle in low-demand zones while adjacent zones are starved
+
+---
+
+## Platform: Databricks Community Edition
+
+This use case is designed to run entirely on [Databricks Community Edition](https://community.cloud.databricks.com/) (free tier). Everything uses:
+
+- **Apache Spark** (PySpark + Spark SQL)
+- **Delta Lake** (Delta tables on `hive_metastore`)
+- **MLflow** (experiment tracking, model logging)
+- **Notebook visualizations** (built-in charts + matplotlib/plotly)
+- **Databricks widgets** (interactive parameter inputs)
+
+No Unity Catalog, DLT, Genie Space, Lakeview Dashboards, or Databricks Apps required.
 
 ---
 
@@ -53,38 +67,46 @@ The `orders.csv` dataset has deliberate messiness that participants must clean:
 
 ## What to Build (Tiered by Difficulty)
 
-### Tier 0 — Foundation (Required, ~1.5 hrs)
+### Tier 0 — Data Foundation (Required, ~1.5 hrs)
 
-**Bronze → Silver → Gold pipeline:**
-- Ingest raw CSVs into Bronze (Delta)
-- Clean & deduplicate in Silver: resolve duplicates, fill/flag nulls, sessionize delivery trips
-- Build Gold tables:
-  - `gold_zone_demand_hourly` — orders/hour per zone with weather & event enrichment
-  - `gold_partner_availability` — active partners per zone per hour
-  - `gold_demand_supply_ratio` — demand vs supply gap per zone/hour
+**Bronze → Silver → Gold pipeline using Delta Lake:**
+- Ingest raw CSVs into Bronze Delta tables on `hive_metastore`
+- Clean & deduplicate in Silver: resolve duplicates, fill/flag nulls, enforce schema, add derived columns
+- Build Gold aggregation tables:
+  - `zone_demand_hourly` — orders/hour per zone enriched with weather & events
+  - `partner_availability` — active partners per zone
+  - `demand_supply_ratio` — demand vs supply gap with zone health status
+  - `customer_360` — customer-level profile with spend, frequency, preferences
 
-### Tier 1 — AI/BI Dashboard (Required, ~1 hr)
+### Tier 1 — Visual Analytics (Required, ~1 hr)
 
-Build a Lakeview Dashboard with:
-- **Zone Heatmap**: Predicted demand intensity by zone (color-coded)
-- **Supply-Demand Gap Chart**: Where partners are vs. where orders are
-- **Surge Pricing Simulator**: What-if analysis — "If surge = 1.8x in Koramangala, what's the predicted cancellation rate?"
-- **KPIs**: Avg ETA overshoot, cancellation rate, revenue/zone, partner utilization %
+**Build an analytics notebook with interactive charts using matplotlib/plotly:**
+- Zone performance leaderboard (bar chart)
+- Hourly demand pattern — weekday vs weekend (line chart)
+- Rain & event impact analysis (grouped bars)
+- Demand-supply heatmap by zone × hour
+- Surge pricing: current vs recommended (scatter)
+- Partner rebalancing recommendations (table)
+- Daily trend — orders, revenue, cancellations over 30 days (multi-line)
+- Customer segmentation — power users vs casual (bar chart)
 
-### Tier 2 — Genie Space (Required, ~30 mins)
+Use `display()` with Databricks built-in charts or `matplotlib`/`plotly` for richer visuals.
 
-Natural-language Q&A on the Gold layer:
-- "Which zones will spike in the next hour?"
-- "What's the optimal surge multiplier for Koramangala right now?"
-- "Show me partner utilization across zones during last IPL match"
-- "What was the cancellation rate during heavy rain in Indiranagar?"
+### Tier 2 — ML Demand Forecasting with MLflow (Advanced, ~1 hr)
 
-### Tier 3 — Databricks App (Bonus, if time permits)
+**Build a demand prediction model tracked with MLflow:**
+- Feature engineering: hour-of-day, day-of-week, weekend flag, rain, event, zone, rolling averages
+- Train a model (scikit-learn RandomForest or gradient boosting) to predict `total_orders` per zone-hour
+- Log experiments, parameters, and metrics to MLflow
+- Compare model performance across feature sets
+- Generate next-hour demand predictions per zone
 
-An interactive **Ops Command Console**:
-- Input: Select zone + time window
-- Output: Predicted demand curve, recommended surge tier, partner rebalancing suggestions
-- Bonus: Alert rules — "Notify when predicted demand > 2x available partners"
+### Tier 3 — Interactive Ops Console (Bonus, if time permits)
+
+**Notebook-based ops dashboard using Databricks widgets:**
+- Dropdown widgets: select zone, date range, hour window
+- Dynamic output: predicted demand, recommended surge, partner rebalancing
+- Alert logic: flag when predicted demand > 2x available partners
 
 ---
 
@@ -182,9 +204,9 @@ Participants who explore the data deeply will find:
 
 | Criteria | Weight | What Judges Look For |
 |----------|--------|---------------------|
-| Data Engineering | 30% | Clean pipeline, proper dedup, null handling, schema enforcement |
-| Analytics & Insights | 25% | Meaningful KPIs, actionable dashboard, correct aggregations |
-| AI/ML Layer | 20% | Demand prediction logic, surge optimization, Genie Space quality |
+| Data Engineering | 30% | Clean pipeline, proper dedup, null handling, Delta tables, schema enforcement |
+| Analytics & Insights | 25% | Meaningful KPIs, clear visualizations, correct aggregations, actionable findings |
+| ML / Prediction | 20% | Feature engineering, model tracked in MLflow, evaluation metrics, predictions |
 | Demo & Storytelling | 15% | Clear narrative, live demo, business impact articulation |
 | Code Quality & Creativity | 10% | Clean notebooks, reusable patterns, creative extensions |
 
@@ -193,15 +215,14 @@ Participants who explore the data deeply will find:
 ## Getting Started
 
 ```python
-# 1. Upload data to Databricks workspace (Unity Catalog volume or DBFS)
-# 2. Create a catalog and schema for the project
-# 3. Start with Bronze ingestion notebook
+# 1. Create a cluster on Databricks Community Edition
+# 2. Import notebooks from this repo (or upload manually)
+# 3. Run 01_setup_and_bronze first — it downloads data from GitHub
 
-# Quick validation after upload:
-df_orders = spark.read.csv("/Volumes/your_catalog/your_schema/raw/orders.csv", header=True, inferSchema=True)
+# Quick validation after setup:
+df_orders = spark.table("zipdrop_bronze.orders_raw")
 print(f"Orders: {df_orders.count()} rows")
 print(f"Duplicates: {df_orders.count() - df_orders.dropDuplicates(['order_id']).count()}")
-print(f"Null zones: {df_orders.filter(df_orders.zone.isNull()).count()}")
 ```
 
 ---
@@ -209,7 +230,7 @@ print(f"Null zones: {df_orders.filter(df_orders.zone.isNull()).count()}")
 ## Tips for Vibe Coding with AI
 
 - Start with the data quality problem — ask AI to help identify and fix anomalies
-- Use AI to generate the DLT pipeline boilerplate, then customize
-- For Genie Space, get AI to help craft the semantic layer / metric definitions
-- For the dashboard, describe what you want visually and let AI generate the Lakeview JSON
-- Don't try to build everything — nail Tier 0 + Tier 1 first, then stretch
+- Use AI to generate the pipeline boilerplate, then customize the cleaning logic
+- For charts, describe what you want visually and let AI generate matplotlib/plotly code
+- For ML, ask AI to help with feature engineering — the interesting features are interactions (rain × dinner hour, event × zone)
+- Don't try to build everything — nail Tier 0 + Tier 1 first, then stretch to Tier 2
